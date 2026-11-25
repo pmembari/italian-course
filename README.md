@@ -72,7 +72,7 @@ Give your tutor the URL of **one** lesson and ask it to teach step by step, wait
 
 We will work **incrementally**, not generate a whole course at once:
 
-- **First:** verify Lezione 1 (book pp. 5–16) and the glossary's Lezione 1 portion (glossary pp. 1–7).
+- **First:** verify Lezione 1 coverage (PDF pp. 3–16: contents p. 3, introduction p. 4, lesson material pp. 5–16) and the glossary's Lezione 1 portion (glossary pp. 1–7).
 - **Next:** improve its explanations and original exercises in small, verifiable updates.
 - **Then:** continue improving Lezioni 2–5 and move to Lezione 6 in book order.
 - **Later:** revisit the separate exercise pages and checkpoints where available.
