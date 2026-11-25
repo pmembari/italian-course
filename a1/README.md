@@ -6,7 +6,7 @@ The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3)
 
 | Book lesson | Theme | Textbook main pages | Course status |
 |---|---|---|---|
-| 01 | **[Primi contatti](01-primi-contatti.md)** | 5–16 | **First focus — source checked** |
+| 01 | **[Primi contatti](lesson-01/lesson.md)** | 5–16 | **Split into four files — in progress** |
 | 02 | [Io e gli altri](02-io-e-gli-altri.md) | 17–29 | Draft |
 | 03 | [Buon appetito!](03-buon-appetito.md) | 33–46 | Draft |
 | 04 | [Tempo libero](04-tempo-libero.md) | 47–58 | Draft |
@@ -23,8 +23,10 @@ The book includes *Facciamo il punto* reviews after Lezioni 2, 5, 7, and 10 (pp.
 
 - **Book:** content and activities in `Nuovo Espresso 1`.
 - **Glossary:** matching Lezione vocabulary in `Nuovo Espresso 1 Glossario` (65 pages, Italian–Persian).
-- **One lesson page:** verified references, grammar, key vocabulary, original examples, interactive self-check and practice.
+- **One lesson folder:** `lesson.md` (overview and source pages), `grammar.md`, `vocabulary.md`, `exercise.md`. Files link to each other, so readers never need to search across unrelated topics.
+
+Only Lezione 1 has been migrated so far; lessons 2–10 remain drafts until reviewed.
 
 No other textbooks are being incorporated at this stage. **Draft** means an early overview, not a fully verified or completed lesson.
 
-[→ Start with Lezione 1](01-primi-contatti.md)
+[→ Start with Lezione 1](lesson-01/lesson.md)

@@ -1,12 +1,12 @@
 # 🇮🇹 Italian Course — Nuovo Espresso 1
 
-A beginner-friendly course organized **one textbook lesson at a time**. All grammar, vocabulary and original practice for a lesson belong on the same page.
+A beginner-friendly course organized **one textbook lesson at a time**. Each textbook lesson has a small folder with a clear overview, grammar, vocabulary and exercises.
 
 ## Start learning
 
 **[A1 — Open the course menu](a1/README.md)**
 
-**[Lezione 1 — Primi contatti (first focus)](a1/01-primi-contatti.md)**
+**[Lezione 1 — Primi contatti (first focus)](a1/lesson-01/lesson.md)**
 
 The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. Later lesson pages are early drafts, not fully checked learning modules.
 
@@ -20,6 +20,19 @@ The book contains ten lessons. The course is being **refined gradually**, beginn
 The uploaded *Nuovo Espresso 1* PDF is a **150-page copy**, so its exercise portion is only partially present. We will **not** claim to have the full exercise book. We will cite exact page numbers only after checking them.
 
 No other textbooks are in scope for this phase. We will build later lessons only when their pages and corresponding glossary sections have been checked.
+
+## How each lesson folder works
+
+```text
+a1/
+└── lesson-01/
+    ├── lesson.md       # overview and source pages
+    ├── grammar.md      # explanations and examples
+    ├── vocabulary.md   # selected glossary words
+    └── exercise.md     # self-check and speaking tasks
+```
+
+We will migrate **one lesson at a time** rather than create empty folders for chapters still in draft.
 
 ## How to use each lesson
 
