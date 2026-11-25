@@ -1,55 +1,93 @@
 # A1 · Lezione 1 — Primi contatti
 
-[← A1 course menu](README.md) · Start of course · [Next →](./02-io-e-gli-altri.md)
+[← A1 course menu](README.md) · [Next: Lezione 2 (draft) →](02-io-e-gli-altri.md)
 
-> **Everything for this lesson is here.** Grammar, words, original examples, exercises, conversation and source references are grouped together. The explanations and practice below are **original teaching material**, not copies of the textbook exercises.
+**Focus of the current update:** Lesson 1. This page combines the book's verified topics with a short original learning introduction. It is **not** a transcription of the copyrighted exercises.
 
-### What you will learn
+## 1. Read these source pages
 
-- Salutare e congedarsi
-- Chiedere il nome e presentarsi
-- Chiedere la provenienza
-- Scambiare informazioni di contatto semplici
+| Book | Pages | What to find |
+|---|---|---|
+| *Nuovo Espresso 1* | **5** | Lesson overview: communication, grammar, vocabulary |
+| *Nuovo Espresso 1* | **6–12** | Greetings, names, spelling, origin, `tu/Lei`, numbers and contact details |
+| *Nuovo Espresso 1* | **13** | Communication and grammar recap |
+| *Nuovo Espresso 1* | **14–15** | Videocorso activities (recording not included in this repo) |
+| *Nuovo Espresso 1* | **16** | Cultural page: everyday greetings |
+| *Nuovo Espresso 1 Glossario* | **1–7** | Lezione 1 Italian–Persian vocabulary; Lezione 2 begins at the end of p. 7 |
 
-### Grammar and language focus
+The page numbers above refer to pages in the **attached PDFs**. Main textbook pp. 5–16 also carry those same printed page numbers.
 
-- pronomi soggetto: io, tu, Lei
-- essere, avere, chiamarsi al presente (singolare)
-- articoli determinativi il, la
-- interrogativi come, di dove, qual; numeri 0–20
+## 2. Communicate — primi contatti
 
-**Study tip:** learn one item at a time; make your own Italian sentence before moving to the next topic.
+The lesson introduces how to:
 
-### Vocabulary in context
+- Greet and say goodbye, selecting informal or formal language.
+- Ask someone's name and introduce yourself.
+- Ask where somebody comes from.
+- Spell names and exchange basic contact information.
+- Use numbers **0–20**.
 
-| Italiano | Meaning |
+**Small original examples**
+
+- *Ciao! Mi chiamo Giulia.* — Hi! My name is Giulia.
+- *Buongiorno, come si chiama?* — Hello, what's your name? (formal)
+- *Di dove sei?* — Where are you from? (informal)
+- *Sono di Bologna.* — I'm from Bologna.
+
+## 3. Grammar — one point at a time
+
+### `tu` versus `Lei`
+
+- **`tu`**: informal *you*, generally with friends and familiar people.
+- **`Lei`**: polite/formal *you*, conjugated with **third-person singular** forms.
+
+| Informal | Formal |
 |---|---|
-| **ciao** | hi / bye |
-| **buongiorno** | good morning / hello |
-| **mi chiamo** | my name is |
-| **di dove?** | where from? |
-| **sono** | I am |
-| **scusi** | excuse me (formal) |
+| Come **ti chiami**? | Come **si chiama**? |
+| Di dove **sei**? | Di dov'**è**? |
 
-### Original model sentences
+### `essere`, `avere` and `chiamarsi` (singular)
 
-- Come ti chiami? — Mi chiamo Luca.
-- Di dove sei? — Sono di Torino.
-- Buongiorno, Lei come si chiama?
+| Person | essere | avere | chiamarsi |
+|---|---|---|---|
+| io | sono | ho | mi chiamo |
+| tu | sei | hai | ti chiami |
+| lui / lei / Lei | è | ha | si chiama |
 
-### Check yourself — click to reveal answers
+The textbook also introduces subject pronouns, **`il`/`la`**, nationality adjectives, question words such as **`come`**, **`di dove`**, **`qual`**, and numbers from zero to twenty. We'll expand each separately as we study.
 
-Try answering **before** expanding each solution.
+## 4. Vocabulary — checked against the glossary
 
-1. Complete: Io ___ Giulia.
+The glossary introduces these items in **Lezione 1**. English explanations are added here; the Persian meanings below are brief selections rather than a copy of the whole glossary.
+
+| Italian | English | فارسی |
+|---|---|---|
+| ciao | hello / goodbye (informal) | سلام / خداحافظ |
+| buongiorno | good morning / hello | روز بخیر |
+| scusi | excuse me (polite) | ببخشید |
+| chiamarsi | to be called / named | نامیده شدن |
+| piacere | nice to meet you | خوشبختم |
+| io | I | من |
+| tu | you (informal) | تو |
+| Lei | you (formal) | شما |
+| ascoltare | to listen | گوش دادن |
+| ripetere | to repeat | تکرار کردن |
+
+**Practice with chunks**, not disconnected words: *Mi chiamo…*, *Come ti chiami?*, *Di dove sei?*, *Piacere!*.
+
+## 5. Try a mini-check (original questions)
+
+Answer **before** opening each solution.
+
+1. You greet a professor in the morning. Do you start with **ciao** or **buongiorno**?
 
    <details><summary>Show answer</summary>
 
-   **sono**
+   **Buongiorno** is the more appropriate formal greeting.
 
    </details>
 
-2. How do you say 'What's your name?' informally?
+2. Write “What is your name?” using informal `tu`.
 
    <details><summary>Show answer</summary>
 
@@ -57,33 +95,39 @@ Try answering **before** expanding each solution.
 
    </details>
 
-3. Translate: I am from Rome.
+3. Fill the gap: **Io ___ Sofia.**
 
    <details><summary>Show answer</summary>
 
-   **Sono di Roma.**
+   **sono** (from *essere*).
 
    </details>
 
-### Speaking / shadowing mission
+4. Fill the gap: **Lei ___ il professor Bianchi.**
 
-**Original practice script (text only; not a recording):**
+   <details><summary>Show answer</summary>
 
-> Ciao! Come ti chiami? Mi chiamo Giulia. E tu? Mi chiamo Luca. Piacere!
+   **è** (formal `Lei` takes third-person singular).
 
-Read aloud slowly, then repeat naturally, finally change names, details or objects to make your own conversation. For true audio shadowing, use an authorized native-Italian recording; this script alone does **not** provide audio.
+   </details>
 
-### Your mini-mission
+## 6. Speak and shadow
 
-Write four sentences introducing a fictional person; include their name and hometown.
+**Original short dialogue (text, not publisher audio):**
 
-**Self-check:** Could you produce an answer without copying? Did you use today's grammar and vocabulary? Revisit after a few days if recall is difficult.
+> — Buongiorno! Come si chiama?  
+> — Mi chiamo Elena. E Lei?  
+> — Io sono Paolo. Piacere!  
+> — Piacere!
 
-### Where this connects to the uploaded materials
+First read slowly, then aloud at natural speed, then replace the fictional names and change the dialogue from formal to informal. For real **audio shadowing**, find or use a legally accessible native-Italian recording; this PDF's audio is not included in the GitHub repository.
 
-- **Main textbook:** *Nuovo Espresso 1*, Lezione 1, **Primi contatti**, printed pages **5–16** (also PDF pages 5–16 in the supplied copy). The textbook's contents pages (PDF 2–3) confirm the title, communicative goals and grammar/lexis headings.
-- **Exercises:** same book, exercise section starts at printed/PDF page **145**. Open the book for its actual exercises; no exercises are reproduced here.
-- **Italian–Persian glossary:** *Nuovo Espresso 1 Glossario*, Lezione 1, approximately PDF pages **1–6**, based on inspected lesson markers.
-- **Other supporting books:** *La lingua italiana per stranieri* and *Come si dice...?* use different structures. Relevant units should be linked only after their exact pages have been checked.
+## 7. Mini-mission
 
-[Back to the A1 course menu](README.md)
+Write four sentences about a **fictional** person: name, place of origin, a greeting and a farewell. Then try the same introduction using `Lei`.
+
+### Next step
+
+Revisit the grammar and vocabulary in **the source book pp. 5–16**, practising an exercise from your own copy. We will expand the lesson gradually, then improve Lezione 2.
+
+[← Back to the A1 course menu](README.md)
