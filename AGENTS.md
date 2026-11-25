@@ -21,6 +21,17 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 - Publish small, original summaries and examples; do not copy source pages, publisher exercises, large glossary tables, video/audio or exam papers.
 - Verify committed links and GitHub readback after each update.
 
+## Memory and recall teaching standard
+
+For grammar and vocabulary add a concise **Remember it** section per lesson:
+- Use original, accessible visual cues with a matching written explanation.
+- Build vocabulary practice as picture → Italian chunk → complete sentence → question/answer → short dialogue.
+- Explicitly label **English bridges** as explanations and name where literal translation misleads (for example, Italian `ho ... anni` versus English “I am ... years old”).
+- Separate a **mnemonic** from an actual grammar rule; note useful exceptions and false friends.
+- Add active recall with answers that remain hidden until attempted; interleave past content and suggest adjustable spaced retrieval.
+- Call reading aloud **read-aloud/repetition**, not *shadowing*, unless there is genuinely accessible recorded Italian audio for simultaneous imitation.
+- Do not publish private learner work or publisher illustrations/audio.
+
 ## Privacy — mandatory
 
 The repository is public. Never publish personal goals, dates, exam plans, learner level, scores, mistakes, answers, conversations, schedule or confidential details anywhere in repo content or commits. A private destination must be verified before saving individualized learning results.

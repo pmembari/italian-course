@@ -245,6 +245,114 @@ Questions: Where does Michela live? Where does she work? Which language does she
 
 </details>
 
+## Remember the vocabulary: scene → chunk → sentence
+
+![Original illustrated Lesson 2 memory map](assets/memory-map.svg)
+
+Use this alongside the [profession picture cards](#picture-based-profession-quiz) and [number flashcards](#visual-numbers-game). **Visual cues are memory aids, not literal translations or universal grammar rules.**
+
+### Five useful memory associations
+
+| Picture to imagine | Italian chunk | English meaning | New sentence |
+|---|---|---|---|
+| 🙂 Face with a smile | `Sto bene!` | I'm well | `Oggi sto bene, grazie.` |
+| 🤝 Friends meeting | `Questa è un'amica.` | This is a friend (female) | `Questa è Giulia, una mia amica.` |
+| 🗣️ Two speech bubbles | `Parlo italiano.` | I speak Italian | `Parlo italiano e un po' di inglese.` |
+| 🏢 A workplace | `Lavoro in un ufficio.` | I work in an office | `Mio fratello lavora in un ufficio.` |
+| 🎂 Birthday candles | `Ho venti anni.` | I am twenty years old | `Marta ha ventidue anni.` |
+
+**Why the last one matters:** English uses **be** with age, but Italian uses **have**. Memorize the entire phrase `Ho ... anni`, not an isolated equivalent of *old*.
+
+### One word, four active uses
+
+Example target: **lavorare** (*to work*).
+
+1. **Identify:** 👩‍💼 → `lavorare`.
+2. **Sentence:** `Lavoro in una farmacia.`
+3. **Question:** `Dove lavori?`
+4. **Answer / dialogue:** `Dove lavori? — Lavoro in una farmacia.`
+
+Now do the same for **parlare**, **abitare**, **fare** and **avere**. This builds flexible usage rather than memorizing one fixed sentence.
+
+### English bridge: similar words and false assumptions
+
+| Italian | English reminder | Important caution |
+|---|---|---|
+| `professione` | profession | `Che lavoro fai?` is often more natural than a literal English structure |
+| `università` | university | Learn the stress and article `l'università`, not only the similar spelling |
+| `ristorante` | restaurant | `lavoro in un ristorante` is a complete phrase |
+| `farmacia` | pharmacy | It names a place; `farmacista` is the person |
+| `libreria` | bookshop | **False friend:** not English *library*, which is `biblioteca` |
+| `camera` | room | **False friend:** not normally English *camera*, which is `macchina fotografica` |
+| `fabbrica` | factory | Similar-looking words can help recall, but confirm their actual meaning |
+
+**Comparison rule:** If the Italian and English words look similar, **verify the meaning and an Italian sentence** before trusting your visual memory.
+
+### Shadowing ladder — speaking about work and language
+
+If you have **authorized native-speaker Italian audio**, play it and speak alongside the recording with a small delay; match rhythm, stress and linking. Without audio, the lines below are a **read-aloud and delayed-repetition drill**, not true shadowing.
+
+**Round 1 — chunks**
+
+> `Che lavoro fai?`  
+> `Faccio la segretaria.`  
+> `Dove lavori?`  
+> `Lavoro in un ufficio.`
+
+**Round 2 — original exchange**
+
+> **A:** Ciao! Come stai?  
+> **B:** Bene, grazie. E tu?  
+> **A:** Che lingue parli?  
+> **B:** Parlo italiano e tedesco.  
+> **A:** E dove lavori?  
+> **B:** Lavoro in un negozio.
+
+**Round 3 — transformation**
+
+Retell the exchange with **formal Lei** and a different job. Say it without reading. Keep formal forms consistent (e.g. `Come sta?`, `Che lingue parla?`, `Dove lavora?`).
+
+### Picture practice: don't stop at naming
+
+![Nine profession pictures for active production](assets/professions.svg)
+
+Choose pictures **1, 4, 7**. For each:
+
+1. Say the profession in Italian.
+2. Say where that person works.
+3. Ask a full question about the job.
+4. Produce a short answer without looking.
+
+<details><summary>Reveal examples</summary>
+
+**1:** `È un cuoco. Lavora in un ristorante. Che lavoro fa? Fa il cuoco.`  
+**4:** `È una farmacista. Lavora in farmacia. Dove lavora? In farmacia.`  
+**7:** `È una giornalista. Scrive notizie. Che lavoro fa? Fa la giornalista.`
+
+</details>
+
+### Recall test — translate meaning into Italian structure
+
+1. “I'm 31 years old.”
+2. “Where do you live?” (informal)
+3. “I don't speak German.”
+4. “She works in a pharmacy.”
+5. “This is my female friend.”
+
+<details><summary>Reveal sample answers</summary>
+
+1. `Ho trentuno anni.`
+2. `Dove abiti?`
+3. `Non parlo tedesco.`
+4. `Lavora in una farmacia.`
+5. `Questa è una mia amica.`
+
+</details>
+
+### Spaced recall and interleaving
+
+Use quick retrieval after studying, then **next day**, **after three days** and **after a week** (adjust to difficulty). Mix **Lesson 1** and **Lesson 2** prompts so you can distinguish `Mi chiamo ...` from `Che lavoro fai?`, `sono di` from `abito a`, and `sono` from `ho ... anni`.
+
 ## Book connection
 
 - **pp. 18–20:** social language, greetings, introductions.

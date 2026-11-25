@@ -295,6 +295,78 @@ Questions:
 
 </details>
 
+## Remember the vocabulary: picture → phrase → sentence → conversation
+
+![Original picture-based recall map for Lezione 1](assets/memory-map.svg)
+
+**Rule of thumb:** A word becomes usable when you can recognize it, **retrieve it without looking**, and put it into a meaningful Italian sentence. Read the glossary for meaning, but do not stop at translation.
+
+### Visual memory hooks
+
+| Picture in your mind | Word or chunk | Make the connection | Your own Italian sentence |
+|---|---|---|---|
+| 🤝 Two people meeting | `piacere` | A first meeting | `Piacere, sono Eva.` |
+| 🏷️ A name label | `mi chiamo` | A name attached to a person | `Mi chiamo Luca.` |
+| 🪪 An ID card | `nome / cognome` | First-name field / surname field | `Il mio cognome è Rossi.` |
+| 📱 A phone | `cellulare / numero` | Ask for a made-up number | `Qual è il numero?` |
+| ✉️ An address card | `indirizzo` | Where a letter goes | `Questo è un indirizzo inventato.` |
+| 🌍 A map | `di dove` | Origin, not current location | `Di dove sei? Sono di Pisa.` |
+
+**Be careful:** pictures help you remember the *meaning*, but **they don't teach article gender automatically**. Say `il nome`, `il cognome`, `il numero`, but `la lettera` and `la signora` aloud as full chunks.
+
+### Bridge to English, with a warning
+
+| Italian | Helpful English connection | Don't confuse it with... |
+|---|---|---|
+| `presentarsi` | *present / introduce oneself* | English *to present* often needs an object; Italian `presentarsi` can mean introduce yourself |
+| `informale / formale` | *informal / formal* | English has only one common `you`, unlike `tu / Lei` |
+| `nazionalità` | *nationality* | Nationality adjectives may change ending with gender |
+| `numero` | *number* (similar meaning, different spelling) | Don't pronounce it as English *number* |
+| `come` | *how* in `Come ti chiami?` | English *come* means “arrive”; **Italian `come` is a false friend** |
+
+English is a **meaning bridge**, not a word-for-word sentence-building formula. Notice Italian chunks first.
+
+### Shadowing ladder — greetings (original lines)
+
+**Without an Italian recording**, this is **repeat-aloud / rhythm practice**, *not* strict audio shadowing. For true shadowing, use an authorized recording with natural Italian speech: listen, then speak almost simultaneously, imitating rhythm and stress.
+
+| Round | Say aloud | Change one detail |
+|---|---|---|
+| 1 · Chunk | `Buongiorno!` | `Ciao!` |
+| 2 · Question | `Come ti chiami?` | `Come si chiama?` |
+| 3 · Answer | `Mi chiamo Rosa.` | `Mi chiamo Pietro.` |
+| 4 · Exchange | `Buongiorno! Come si chiama? — Mi chiamo Anna. Piacere!` | Make it informal |
+| 5 · No text | Close this page | Introduce two fictional people |
+
+**Technique:** Listen (if audio is available) → repeat slowly → repeat at natural speed → say from memory → make a new sentence. Focus on *clear rhythm and intelligibility*, not speed.
+
+### Picture recall: three passes
+
+Use the [six original illustrated pictures](#illustrated-vocabulary-picture-to-word). On the first pass, **name** the picture. On the second, say **one sentence**. On the third, ask **one question** involving it.
+
+Example, phone picture: `telefono` → `Ho un telefono.` → `Hai un telefono?`
+
+<details><summary>Reveal two other model chains</summary>
+
+**Name card:** `nome` → `Il mio nome è Sofia.` → `Qual è il tuo nome?`  
+**Coffee:** `caffè` → `Questo è un caffè.` → `È un caffè?`
+
+</details>
+
+### Recall test — remove the English
+
+Say the Italian expression for these concepts **without reading the tables**: *nice to meet you*, *formal excuse me*, *your surname*, *where from*, *say goodbye politely*, *spell a name*.
+
+<details><summary>Reveal possible answers</summary>
+
+`Piacere!`; `Scusi`; `il cognome`; `Di dove?`; `Arrivederci!`; `Come si scrive?`.
+
+</details>
+
+### Spaced retrieval — not just re-reading
+
+Practise immediately, then try again **tomorrow**, after **three days**, and after **a week**. Each time begin with picture-to-Italian recall and an **original sentence**, and only then reveal the word list. Revisit errors sooner; adjust the timing as necessary.
+
 ## Practice with the main book
 
 - For greetings and introductions, review book **pp. 6–7**.

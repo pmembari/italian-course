@@ -133,6 +133,75 @@ Count forward, backward, and in a random order. For phone practice use **invente
 
 Textbook p. **16**, the *Caffè culturale* page, presents greetings and farewells as social choices that vary by relationship and context. Practise both formal and informal versions; *buona notte* is usually used at the end of the evening, often before sleep.
 
+## Remember it: visual patterns and English comparisons
+
+These **memory techniques are extra teaching aids**, not rules printed in the textbook. Learn the actual Italian pattern first, then use the comparison to recall it.
+
+![Original visual memory map for Lezione 1](assets/memory-map.svg)
+
+### 1. Picture two doors: `tu` and `Lei`
+
+Imagine a **green door for a familiar classmate** and a **blue door for a polite first meeting**. The person at the door decides which verb form you use.
+
+| Person you address | Question | What changes? |
+|---|---|---|
+| Friend → **tu** | `Come **ti chiami**?` | `ti chiami` |
+| Polite stranger → **Lei** | `Come **si chiama**?` | `si chiama` |
+| Friend → **tu** | `Di dove **sei**?` | `sei` |
+| Polite stranger → **Lei** | `Di dov'**è**?` | `è` |
+
+**English bridge:** English usually keeps **you** in both situations, but Italian changes the pronoun **and the verb**. Formal `Lei` takes **third-person singular**, not second-person, even when talking directly to somebody.
+
+<details><summary>Look away and recall: How would you ask a professor's name?</summary>
+
+**Come si chiama?** Not `Come ti chiami?` in a formal first meeting.
+
+</details>
+
+### 2. Three icons for three verbs
+
+- **Identity badge 🪪 → essere:** `Sono Paolo.` — I am Paolo.
+- **Bag 🎒 → avere:** `Ho un libro.` — I have a book.
+- **Name tag 🏷️ → chiamarsi:** `Mi chiamo Paolo.` — My name is Paolo.
+
+**English bridge:** `Sono Paolo` resembles *I am Paolo*. `Mi chiamo Paolo` is closer to *I call myself Paolo*; it **does not** follow the English word order *My name is Paolo*. Learn `mi chiamo` as one chunk.
+
+**Retrieval challenge:** Without looking, finish `Io ___ di Bari`; `Tu ___ un libro`; `Lei ___ chiama Sara`.
+
+<details><summary>Reveal answers</summary>
+
+**sono; hai; si**.
+
+</details>
+
+### 3. See nationalities as pairs
+
+Picture two ID cards: `Marco è italian**o**`; `Sara è italian**a**`. The **-o / -a** ending is a helpful visual clue for many common adjectives.
+
+**But this is not universal:** `francese` and `inglese` have the **same singular form** for a male or female person. Always learn exceptions with examples.
+
+### 4. Spelling is a sound switch
+
+Use the sound chart above: **CI = soft sound** in `cinema`; **CHI = hard sound** in `chitarra`. Imagine the written **H** as a little switch changing the sound.
+
+This is a *spelling mnemonic*, not a claim that English `ch` and Italian `ch` are pronounced alike.
+
+**Recall:** Name one more word containing `ge` or `gi` and one containing `che` or `chi`.
+
+### 5. Mix Italian and English only as temporary scaffolding
+
+Try the three-stage ladder:
+
+1. **Understand:** `Mi chiamo Luca.` — *My name is Luca.*
+2. **Notice the structure:** Italian **mi + chiamo + name** ≠ English **my name + is + name**.
+3. **Produce only Italian:** look away and say `Mi chiamo Elena`, then `Mi chiamo Marco`.
+
+Don't practise hybrid sentences such as `Io am Luca` as if they were valid Italian. English belongs in the explanation; **the final speaking sentence must be entirely Italian**.
+
+### 6. Two-minute active recall
+
+Close the table and say aloud: one informal greeting, one formal greeting, the three `io` verb forms (`sono`, `ho`, `mi chiamo`), two nationality examples, and one made-up spelled name. Reveal the source table to correct yourself **after** the attempt.
+
 ## Quick mastery check
 
 Can you make three **independent** sentences using `sono`, `ho`, and `mi chiamo`, then ask the same information formally? Do [the exercise set](exercise.md) to verify rather than just reading.

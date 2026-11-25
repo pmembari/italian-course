@@ -192,6 +192,97 @@ For a typical first conversation, this sequence covers most communicative tasks:
 
 Answer with **complete original sentences**, not isolated vocabulary.
 
+## Remember it: visual patterns and English comparisons
+
+![Original grammar and memory map for Lesson 2](assets/memory-map.svg)
+
+These techniques are **extra learning aids**. The grammar rules themselves are in the preceding sections and in the source book's summary on p. 27.
+
+### 1. Remember `-are` as an ending staircase
+
+Picture the endings in order: **-o, -i, -a, -iamo, -ate, -ano**.
+
+| Who? | parlare | Memory cue |
+|---|---|---|
+| io | parl**o** | one speaker |
+| tu | parl**i** | one friend |
+| lui / lei / Lei | parl**a** | third-person / polite Lei |
+| noi | parl**iamo** | our group |
+| voi | parl**ate** | your group |
+| loro | parl**ano** | their group |
+
+**English bridge:** English usually changes only the third-person singular verb (*I speak / she speaks*). Italian changes the present-tense ending much more, and you can often omit the subject pronoun.
+
+**Recall:** Turn `Io parlo italiano` into `noi`, then `loro`, without referring to the table.
+
+<details><summary>Reveal answers</summary>
+
+`Noi parliamo italiano.` · `Loro parlano italiano.`
+
+</details>
+
+### 2. Four mental pictures for four irregular verbs
+
+- 🪪 **essere = identity:** `Sono un medico.` (*I am a doctor.*)
+- 🎒 **avere = have:** `Ho una penna.` (*I have a pen.*)
+- 🛠️ **fare = do / make:** `Faccio il cuoco.` (*I work as a cook.*)
+- 🙂 **stare = state / feeling:** `Sto bene.` (*I'm well.*)
+
+**Important:** `stare` does **not** universally replace English “to be”; `essere` and `stare` have different uses. The picture is just a starting association.
+
+### 3. An age badge fixes a common English-to-Italian error
+
+English says **“I am 24 years old.”** Italian says **`Ho ventiquattro anni.`** — literally *I have 24 years*.
+
+Imagine an ID badge carrying a number **inside your bag** (the `avere` picture). Say `Ho ... anni` as one memorized pattern.
+
+**Do not translate word by word:** ❌ `Sono ventiquattro anni.` ✅ `Ho ventiquattro anni.`
+
+### 4. Articles: picture the word's opening sound
+
+Imagine each noun has a doorway. For masculine nouns: `un medico`, but `uno studente`; for feminine vowel-initial nouns, `un'amica`. The apostrophe belongs to **un' (feminine)**, not masculine `un`.
+
+Look at the noun's **initial sound**, not just the job or person in the picture.
+
+<details><summary>Hide the table: complete `___ studente`, `___ amica`, `___ avvocato`.</summary>
+
+`uno studente`; `un'amica`; `un avvocato`.
+
+</details>
+
+### 5. Compare English questions without importing English word order
+
+| English | Italian | Notice |
+|---|---|---|
+| Where **do** you live? | `Dove abiti?` | No separate auxiliary **do** |
+| What languages **do** you speak? | `Che lingue parli?` | Conjugated Italian verb |
+| How old **are** you? | `Quanti anni hai?` | Literally “How many years do you have?” |
+| What **do** you do? | `Che lavoro fai?` | `fare` conjugates to `fai` |
+
+**Do not create mixed-language sentences** such as `Dove do you abiti?`. Use English only to understand the *meaning* and compare the *structure*; practise the entire final sentence in Italian.
+
+### 6. Remember origin, residence and workplace as three map pins
+
+- 📍 `Sono **di** Palermo.` — origin
+- 🏠 `Abito **a** Verona.` — city where you live
+- 💼 `Lavoro **in** una scuola.` — workplace
+
+These are **common patterns** taught here, not every possible rule for `di`, `a`, and `in`.
+
+**Recall:** Say a fictional origin, residence and workplace using those three patterns.
+
+### 7. A number-memory trick
+
+Build `trentotto` with **trenta + otto**; the last vowel drops before `otto`. Likewise, `ventuno` from **venti + uno**. Remember the accent in `ventitré`.
+
+**Use it:** Cover the printed word and spell 21, 28, 33 and 38.
+
+<details><summary>Reveal numbers</summary>
+
+`ventuno`; `ventotto`; `trentatré`; `trentotto`.
+
+</details>
+
 ## Learning check before moving on
 
 Can you independently conjugate `parlare` and `essere`, introduce a friend, distinguish `un` from `un'`, make a negative sentence and write your age in Italian? Check with [exercises](exercise.md) rather than assuming mastery from reading.
