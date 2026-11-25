@@ -43,4 +43,4 @@ Try reading the dialogue, then change the fictional details and say it again.
 
 **Next:** [Study grammar →](grammar.md)
 
-[← A1 menu](../README.md) · [Next textbook lesson →](lesson-04/lesson.md)
+[← A1 menu](../README.md) · [Next textbook lesson →](../lesson-04/lesson.md)
