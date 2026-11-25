@@ -1,80 +1,144 @@
-# Lezione 5 — Grammar
+# Lezione 5 — Grammar, examples and memory bridges
 
-[← A1 menu](../README.md) · [Overview](lesson.md) · **Grammar** · [Vocabulary](vocabulary.md) · [Exercise](exercise.md)
+[← Lesson](lesson.md) · **Grammar** · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)
 
-Source: *Nuovo Espresso 1*, Lezione 5, pp. **59–71**. These explanations and examples are original.
+> Source alignment: the chapter's **Comunicazione e grammatica** summary on p. **69** and conversations across pp. **59–71**. Memory associations and English comparisons are **original teaching aids**, not grammar rules in themselves.
 
-## 1. C'è / ci sono
+## 1. C'è and ci sono
 
-Use c'è with one item or a singular noun; ci sono with two or more items. It often means 'there is / there are'.
-
-| Singular | Plural |
+| Italian | English |
 |---|---|
-| C'è una camera. | Ci sono due camere. |
-| C'è un parcheggio. | Ci sono tre posti auto. |
+| C'è una camera. | There is one room. |
+| Ci sono due camere. | There are two rooms. |
+| Non c'è il Wi-Fi. | There is no Wi-Fi. |
+| Ci sono quattro letti? | Are there four beds? |
 
-- C'è il Wi-Fi? — Is there Wi-Fi?
-- Ci sono due bagni. — There are two bathrooms.
+**How to remember and avoid English interference:** **English bridge:** singular *there is* → `c'è`; plural *there are* → `ci sono`. The negative `non` goes before `c'è/ci sono`.
 
-## 2. Potere and venire
+<details><summary>One-minute practice</summary>
 
-These verbs have irregular present forms. Potere asks about ability or possibility; venire means come.
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-| Person | potere | venire |
-|---|---|---|
-| io | posso | vengo |
-| tu | puoi | vieni |
-| lui/lei/Lei | può | viene |
-| noi | possiamo | veniamo |
-| voi | potete | venite |
-| loro | possono | vengono |
+</details>
 
-- Posso prenotare una camera? — Can I book a room?
-- Veniamo sabato. — We're coming Saturday.
+## 2. Rooms, adjectives and agreement
 
-## 3. Prepositions of time: da ... a ...
-
-For an interval, use da ... a ... (from ... to ...), and for a room booking often dal ... al ... when the definite article is included.
-
-| Situation | Original example |
+| Italian | English |
 |---|---|
-| Date range | Dal 4 al 6 maggio. |
-| Month interval | Da giugno a settembre. |
-| For how many nights? | Per due notti. |
+| camera singola | single room |
+| camera doppia | twin / double-occupancy room (check bed layout) |
+| camera matrimoniale | room with a double bed |
+| bagno privato | private bathroom |
+| colazione compresa | breakfast included |
 
-- Vorrei una camera dal tre al cinque giugno. — I'd like a room from June 3 to 5.
+**How to remember and avoid English interference:** Adjectives can agree with nouns: `camera singola`, `camere singole`. Don't assume English 'double room' always indicates one double bed; `matrimoniale` usually clarifies bed type.
 
-## 4. Prepositions combined with articles
+<details><summary>One-minute practice</summary>
 
-Common combinations of di, a, da, in, su with articles include del, al, dal, nel, sul. Learn them in whole phrases.
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-| Simple + article | Combined |
+</details>
+
+## 3. Place expressions and prepositions
+
+| Pattern | Example |
 |---|---|
-| di + il | del |
-| a + il | al |
-| da + il | dal |
-| in + il | nel |
-| su + il | sul |
+| in + town/country context | `in Italia` |
+| a + city | `a Firenze` |
+| vicino a | `vicino alla stazione` |
+| con / senza | `con bagno` / `senza balcone` |
+| dal ... al ... | `dal tre al sette luglio` |
 
-- Il bagno della camera. — The room's bathroom.
-- Nel prezzo è compresa la colazione. — Breakfast is included in the price.
+**How to remember and avoid English interference:** The book develops `di/a/da/in` in practical location and date phrases. **Do not translate English *from / to / in* word-by-word** without learning the whole Italian chunk.
 
-## 5. Dates, ordinals and quanto
+<details><summary>One-minute practice</summary>
 
-For most dates use cardinal numbers, but the first day uses primo. Questions about prices often begin with quanto.
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-| Italian | Meaning |
+</details>
+
+## 4. Prices and numbers over 100
+
+| Number | Italian |
+|---:|---|
+| 100 | cento |
+| 101 | centouno |
+| 200 | duecento |
+| 500 | cinquecento |
+| 1,000 | mille |
+| 2,000 | duemila |
+| 1,250 | milleduecentocinquanta |
+
+**How to remember and avoid English interference:** `Quanto viene?` and `Quanto costa?` both ask about price in relevant contexts. `100` is `cento`, but `1,000` is `mille`, not `un cento`.
+
+<details><summary>One-minute practice</summary>
+
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
+
+</details>
+
+## 5. Dates, months and ordinal numbers
+
+| Italian | Explanation |
 |---|---|
-| il primo maggio | May 1 |
-| il due maggio | May 2 |
-| Quanto costa? | How much does it cost? |
-| Quanto viene la camera? | How much is the room? |
+| il primo maggio | May 1st |
+| il due maggio | May 2nd |
+| dal primo al cinque luglio | from July 1st to July 5th |
+| il dieci agosto | August 10th |
+| 15/06/2026 | 15 June 2026 in day/month/year convention |
 
-- Arriviamo il primo agosto. — We arrive August 1.
-- Quanto costa una notte? — How much does one night cost?
+**How to remember and avoid English interference:** Italian dates generally use **primo** for the first day and **cardinal** numbers for other days. English typically uses ordinal words for all days (*the second, third*).
 
-## Check your understanding
+<details><summary>One-minute practice</summary>
 
-Produce one original sentence for two grammar points, then answer the questions in [exercise.md](exercise.md) without looking at the solutions.
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-[← Lesson overview](lesson.md) · [Vocabulary →](vocabulary.md)
+</details>
+
+## 6. Polite requests and reporting problems
+
+| Scenario | Italian |
+|---|---|
+| Booking | `Vorrei prenotare una camera.` |
+| Availability | `Avete una camera libera?` |
+| Price | `Quanto costa a notte?` |
+| No Wi-Fi | `Non c'è il Wi-Fi.` |
+| Broken shower | `La doccia non funziona.` |
+| Missing towel | `Manca un asciugamano.` |
+
+**How to remember and avoid English interference:** Use `mi scusi`, `per favore`, `grazie`, `potrebbe...?` politely. `Potrebbe` is an optional advanced polite form; A1 also accepts `Può...?`.
+
+<details><summary>One-minute practice</summary>
+
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
+
+</details>
+
+## Picture-based grammar recall
+
+![Original grammar cue cards](assets/calendar-cards.svg)
+
+- One room → `C'è una camera.` Two rooms → `Ci sono due camere.`
+- Broken television → `Il televisore non funziona.`
+- Date card 1/7 → `il primo luglio`; 2/7 → `il due luglio`.
+- Price 250 → `duecentocinquanta euro`.
+
+## English–Italian sentence-ladder exercise
+
+English *There are two rooms* → Italian `Ci sono due camere.` Italian uses `ci sono` for plural. Build `C'è una camera → Ci sono due camere → Ci sono due camere libere?`.
+
+**Technique:** Read English once for meaning, identify the **Italian structure**, then speak the final sentence *entirely in Italian*. Do not rehearse mixed-language phrases as though they were Italian.
+
+## Quick error-correction quiz
+
+1. ❌ `C'è due camere.` → ?
+2. ❌ `Il camera è libera.` → ?
+3. ❌ `il due giugno` expressed as `il secondo giugno` in an ordinary date → ?
+
+<details><summary>Reveal answers</summary>
+
+1. `Ci sono due camere.` 2. `La camera è libera.` 3. `Il due giugno.`
+
+</details>
+
+[← Lesson](lesson.md) · [Vocabulary →](vocabulary.md) · [Exercises →](exercise.md)

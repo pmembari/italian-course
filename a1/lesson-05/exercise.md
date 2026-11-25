@@ -1,108 +1,311 @@
-# Lezione 5 — Exercises
+# Lezione 5 — Exercises, visual recall and shadowing practice
 
-[← A1 menu](../README.md) · [Overview](lesson.md) · [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · **Exercise**
+[← Lesson](lesson.md) · [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · **Exercises**
 
-These are **original questions** aligned to the goals of *Nuovo Espresso 1*, Lezione 5; they are **not** a reproduction of publisher exercises. Answer first, then expand the solutions.
+> **Original practice** aligned with *Nuovo Espresso 1*, chapter 5, and the requested coverage **pp. 59–75**. Listening/video-dependent publisher tasks require authorized audio/video; the exercises here do not purport to supply the publisher's answer key.
 
-## Self-check: grammar and vocabulary
+## Part A — 30 sentence and grammar recall prompts
 
-### 1. Complete: ___ una camera libera?
+Read each prompt, answer **in Italian**, then expand only after an attempt.
+
+**1.** Complete: ___ una camera libera?
 
 <details><summary>Show answer</summary>
 
 **C'è**
 
-Singular noun → c'è.
-
 </details>
 
-### 2. Complete: ___ due bagni.
+**2.** Complete: ___ due camere disponibili.
 
 <details><summary>Show answer</summary>
 
 **Ci sono**
 
-Plural noun → ci sono.
-
 </details>
 
-### 3. Complete: Io ___ prenotare per una notte? (potere)
+**3.** Say 'There is no parking'.
 
 <details><summary>Show answer</summary>
 
-**posso**
-
-Potere: io posso.
+**Non c'è il parcheggio.**
 
 </details>
 
-### 4. Complete: Lei ___ domani? (venire)
+**4.** Ask for a double-bed room.
 
 <details><summary>Show answer</summary>
 
-**viene**
-
-Venire: Lei viene.
+**Avete una camera matrimoniale?**
 
 </details>
 
-### 5. Combine: di + il = ___
+**5.** Ask the price per night.
 
 <details><summary>Show answer</summary>
 
-**del**
-
-Preposizione articolata.
+**Quanto costa a notte?**
 
 </details>
 
-### 6. Complete: ___ 3 ___ 5 giugno. (from the 3rd to the 5th)
-
-<details><summary>Show answer</summary>
-
-**Dal 3 al 5 giugno.**
-
-Date interval: dal ... al ...
-
-</details>
-
-### 7. Translate: Is breakfast included?
+**6.** Ask whether breakfast is included.
 
 <details><summary>Show answer</summary>
 
 **La colazione è compresa?**
 
-Useful room-booking question.
-
 </details>
 
-### 8. Translate: How much does a room cost?
+**7.** Ask 'Is there Wi-Fi?'
 
 <details><summary>Show answer</summary>
 
-**Quanto costa una camera?**
-
-Quanto introduces price questions.
+**C'è il Wi-Fi?**
 
 </details>
 
-## Speaking / pronunciation
+**8.** Say 'The shower doesn't work'.
 
-Read the original mini-dialogue slowly and then naturally. Change names, details or objects. For **true shadowing**, use a legally accessible native Italian recording; this text does not include audio.
+<details><summary>Show answer</summary>
 
-> Buonasera, avete una camera libera?  
-> Sì, per quante notti?  
-> Per due notti. La colazione è compresa?  
-> Sì, è compresa nel prezzo.
-
-## Mini-mission
-
-Write a fictional reservation request with room type, two dates, number of nights, and a question about Wi-Fi or breakfast.
-
-<details><summary>How to review your attempt</summary>
-
-Check accuracy of verbs and articles, whether your phrases match the situation, and whether you can speak without reading. Ask a tutor to correct an original attempt if needed. A completed page does not establish proficiency.
+**La doccia non funziona.**
 
 </details>
 
-**Next:** review [grammar](grammar.md) or [vocabulary](vocabulary.md) for errors, then [return to the A1 course menu](../README.md).
+**9.** Say 'A towel is missing'.
+
+<details><summary>Show answer</summary>
+
+**Manca un asciugamano.**
+
+</details>
+
+**10.** Request a room politely.
+
+<details><summary>Show answer</summary>
+
+**Vorrei prenotare una camera.**
+
+</details>
+
+**11.** Say 250 in Italian.
+
+<details><summary>Show answer</summary>
+
+**duecentocinquanta**
+
+</details>
+
+**12.** Say 1,000 in Italian.
+
+<details><summary>Show answer</summary>
+
+**mille**
+
+</details>
+
+**13.** Say 2,000 in Italian.
+
+<details><summary>Show answer</summary>
+
+**duemila**
+
+</details>
+
+**14.** Write July 1st in Italian.
+
+<details><summary>Show answer</summary>
+
+**il primo luglio**
+
+</details>
+
+**15.** Write July 2nd in Italian.
+
+<details><summary>Show answer</summary>
+
+**il due luglio**
+
+</details>
+
+**16.** Say 'from August 3 to August 7'.
+
+<details><summary>Show answer</summary>
+
+**dal tre al sette agosto**
+
+</details>
+
+**17.** Translate 'balcony'.
+
+<details><summary>Show answer</summary>
+
+**balcone**
+
+</details>
+
+**18.** Translate 'lift'.
+
+<details><summary>Show answer</summary>
+
+**ascensore**
+
+</details>
+
+**19.** Translate 'parking'.
+
+<details><summary>Show answer</summary>
+
+**parcheggio**
+
+</details>
+
+**20.** Translate 'holiday rental'.
+
+<details><summary>Show answer</summary>
+
+**casa vacanze / alloggio per le vacanze**
+
+</details>
+
+**21.** Ask 'How much is the room?'
+
+<details><summary>Show answer</summary>
+
+**Quanto viene la camera?**
+
+</details>
+
+**22.** Say 'the room is dirty'.
+
+<details><summary>Show answer</summary>
+
+**La camera è sporca.**
+
+</details>
+
+**23.** Say 'the television is broken'.
+
+<details><summary>Show answer</summary>
+
+**Il televisore è rotto.**
+
+</details>
+
+**24.** Say 'We want to rent an apartment'.
+
+<details><summary>Show answer</summary>
+
+**Vogliamo prendere in affitto un appartamento.**
+
+</details>
+
+**25.** Translate 'receipt'.
+
+<details><summary>Show answer</summary>
+
+**scontrino**
+
+</details>
+
+**26.** Translate 'tip'.
+
+<details><summary>Show answer</summary>
+
+**mancia**
+
+</details>
+
+**27.** Ask for a price total.
+
+<details><summary>Show answer</summary>
+
+**Qual è il prezzo totale?**
+
+</details>
+
+**28.** Say a fictional arrival date.
+
+<details><summary>Show answer</summary>
+
+**Arrivo il cinque agosto. (sample)**
+
+</details>
+
+**29.** Make 'c'è una camera' plural.
+
+<details><summary>Show answer</summary>
+
+**ci sono due camere**
+
+</details>
+
+**30.** Write a polite complaint about heating.
+
+<details><summary>Show answer</summary>
+
+**Mi scusi, il riscaldamento non funziona.**
+
+</details>
+
+## Part B — Picture recognition
+
+![Themed illustrated recall cards](assets/hotel-facilities.svg)
+
+**31.** Identify picture cards 1–8. Say an Italian phrase with the correct verb/article for each.
+
+<details><summary>Sample card labels</summary>
+
+1. camera; 2. bagno; 3. doccia; 4. parcheggio; 5. piscina; 6. ascensore; 7. Wi-Fi; 8. televisore. Now create original sentences, checking conjugation and articles.
+
+</details>
+
+![More illustrated prompts](assets/hotel-problems.svg)
+
+**32.** Choose four pictured items and make **four full sentences** and **two questions**. Try to say the sentences without looking at any translation.
+
+**33.** Use the visual cues as a speaking exercise with a partner: show a card without its label, ask a question, and let the other person answer.
+
+## Part C — Reading comprehension
+
+> Buongiorno, cerco una camera doppia dal sei al nove settembre. Vorrei il bagno privato, la colazione e il parcheggio. Ho bisogno anche del Wi-Fi. Potete confermare il prezzo totale? Grazie.
+
+**34.** Which room is requested?  
+**35.** Give the dates in Italian.  
+**36.** Which three amenities are mentioned in addition to the private bathroom?
+
+<details><summary>Answers 34–36</summary>
+
+34. Camera doppia. 35. Dal sei al nove settembre. 36. Colazione, parcheggio e Wi-Fi.
+
+</details>
+
+## Part D — Active production
+
+**37.** Make five new sentences from different vocabulary groups. Avoid reusing the example sentences from the tables.
+
+**38.** Write a three-turn question-and-answer dialogue, using a booking enquiry, a room feature and a price.
+
+**39.** Explain in English **one word-order or grammar difference** between English and Italian, then demonstrate it with a valid Italian example.
+
+**40.** Practise the [shadowing script](vocabulary.md#shadowing-ladder-only-with-authorized-italian-audio) with **authorized audio** if available. Otherwise practise echo repetition/read-aloud and then speak without the written model.
+
+## Part E — Mixed review and unit project
+
+**41.** Use the original *Facciamo il punto 2* board (pp. **72–73**) and answer questions covering food, free time and hotel vocabulary.
+
+**42.** Use p. **74** to self-assess: can you order, express preferences, reserve a room, ask about dates and report problems?
+
+**43.** Plan a **fictional** short holiday in Italy: compare two imaginary accommodations, state dates, ask about price and amenities and write a polite booking message. Do not publish real contact details or plans.
+
+## Personal review checklist
+
+- [ ] I can identify at least eight pictured words **without a translation**.
+- [ ] I can convert single words into sentences and questions.
+- [ ] I can recall two forms or expressions that differ structurally from English.
+- [ ] I can reproduce the mini-dialogue after hiding the text.
+- [ ] I have not marked publisher listening/video tasks completed without the actual recording.
+
+**Spaced recall suggestion:** attempt again tomorrow, in three days, and in a week; check the answer keys **after** retrieval and revisit misses sooner.
+
+[← Lesson](lesson.md) · [Grammar](grammar.md) · [Vocabulary](vocabulary.md)

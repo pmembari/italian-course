@@ -1,86 +1,126 @@
-# Lezione 4 — Grammar
+# Lezione 4 — Grammar, examples and memory bridges
 
-[← A1 menu](../README.md) · [Overview](lesson.md) · **Grammar** · [Vocabulary](vocabulary.md) · [Exercise](exercise.md)
+[← Lesson](lesson.md) · **Grammar** · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)
 
-Source: *Nuovo Espresso 1*, Lezione 4, pp. **47–58**. These explanations and examples are original.
+> Source alignment: the chapter's **Comunicazione e grammatica** summary on p. **55** and conversations across pp. **47–58**. Memory associations and English comparisons are **original teaching aids**, not grammar rules in themselves.
 
-## 1. Regular -ire verbs
+## 1. Present tense: regular -ire and uscire
 
-Many -ire verbs follow the endings below, without -isc-. Dormire is a regular example; other verbs such as preferire behave differently.
+| Person | dormire | uscire |
+|---|---|---|
+| io | dormo | esco |
+| tu | dormi | esci |
+| lui/lei/Lei | dorme | esce |
+| noi | dormiamo | usciamo |
+| voi | dormite | uscite |
+| loro | dormono | escono |
 
-| Person | dormire |
-|---|---|
-| io | dormo |
-| tu | dormi |
-| lui/lei/Lei | dorme |
-| noi | dormiamo |
-| voi | dormite |
-| loro | dormono |
+**How to remember and avoid English interference:** *Dormire* is regular; *uscire* changes the stem in some forms. Compare English *I sleep/she sleeps*: Italian marks each person. `Esco il sabato` (I go out on Saturdays).
 
-- Dormo otto ore. — I sleep eight hours.
-- Quando dormite? — When do you sleep?
+<details><summary>One-minute practice</summary>
 
-## 2. Four useful irregular verbs
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-Lesson 4 uses andare, giocare, leggere and uscire. Giocare is regular with spelling adjustments to preserve the hard c.
+</details>
 
-| Person | andare | giocare | leggere | uscire |
-|---|---|---|---|---|
-| io | vado | gioco | leggo | esco |
-| tu | vai | giochi | leggi | esci |
-| lui/lei/Lei | va | gioca | legge | esce |
-| noi | andiamo | giochiamo | leggiamo | usciamo |
-| voi | andate | giocate | leggete | uscite |
-| loro | vanno | giocano | leggono | escono |
+## 2. Frequency: how often?
 
-- Esco con gli amici. — I go out with friends.
-- Gioco a tennis. — I play tennis.
+| Italian | English | Example |
+|---|---|---|
+| sempre | always | Vado sempre a scuola. |
+| spesso | often | Esco spesso. |
+| di solito | usually | Di solito leggo. |
+| qualche volta | sometimes | Qualche volta vado al cinema. |
+| mai | never / ever | Non gioco mai a tennis. |
 
-## 3. Frequency and negative phrases
+**How to remember and avoid English interference:** **English bridge:** Italian often uses `non ... mai` for *never*. Don't translate English *never* as bare `mai` in an ordinary negative sentence.
 
-Useful adverbs: sempre, spesso, qualche volta, di solito, mai. In simple negative clauses, non ... mai means never.
+<details><summary>One-minute practice</summary>
+
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
+
+</details>
+
+## 3. Piacere, indirect pronouns and agreement
 
 | Italian | Meaning |
 |---|---|
-| sempre | always |
-| di solito | usually |
-| spesso | often |
-| qualche volta | sometimes |
-| non ... mai | never |
+| Mi piace il cinema. | I like cinema. |
+| Mi piace leggere. | I like reading. |
+| Mi piacciono i film. | I like films. |
+| Ti piace il jazz? | Do you like jazz? |
+| A me piace. | I like it (emphasis). |
+| A me no / Anche a me. | Not me / Me too. |
 
-- Spesso leggo la sera. — I often read in the evening.
-- Non gioco mai a calcio. — I never play football.
+**How to remember and avoid English interference:** **Important:** Italian `piacere` is structurally closer to *something is pleasing to me*. Singular thing or infinitive → `piace`; plural things → `piacciono`. Don't say ❌ `Mi piaccio i film`.
 
-## 4. Mi piace / mi piacciono
+<details><summary>One-minute practice</summary>
 
-The thing liked determines singular piace or plural piacciono. The same chapter introduces expressions such as anche a me, neanche a me and perché.
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-| Form | Original example |
+</details>
+
+## 4. Time: Che ore sono?
+
+| Time | Natural Italian |
 |---|---|
-| mi piace + singular noun | Mi piace il cinema. |
-| mi piacciono + plural noun | Mi piacciono i film. |
-| mi piace + infinitive | Mi piace cucinare. |
-| agreement | Anche a me! |
+| 01:00 | È l'una. |
+| 03:00 | Sono le tre. |
+| 05:15 | Sono le cinque e un quarto. |
+| 07:30 | Sono le sette e mezza. |
+| 08:45 | Sono le nove meno un quarto. |
+| 20:00 | Sono le otto (di sera). |
 
-- Ti piace leggere? — Do you like reading?
-- Perché ti piace? — Why do you like it?
+**How to remember and avoid English interference:** `A che ora?` asks **at what time**; answer `alle otto`, `all'una`. Compare English *at eight* with Italian *alle otto*.
 
-## 5. Days, time and small prepositions
+<details><summary>One-minute practice</summary>
 
-Time is usually expressed with 'Sono le...' but 'È l'una' for one o'clock. For activities, you'll often encounter in, a and con.
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-| Expression | Meaning |
+</details>
+
+## 5. Invitations and short responses
+
+| Invitation | Reply |
 |---|---|
-| Che ore sono? | What time is it? |
-| È l'una. | It's one o'clock. |
-| Sono le tre e mezza. | It's 3:30. |
-| Vado al cinema con Anna. | I go to the cinema with Anna. |
+| Usciamo sabato? | Volentieri! |
+| Andiamo al cinema? | Mi dispiace, non posso. |
+| Ti piace ballare? | Sì, moltissimo. |
+| Preferisci leggere o guardare la TV? | Preferisco leggere. |
 
-- A che ora esci? — At what time do you go out?
-- Esco alle otto. — I go out at eight.
+**How to remember and avoid English interference:** The book develops **desire, taste and response patterns**, not only verb memorization. The English modal auxiliary *do* is not inserted into Italian questions.
 
-## Check your understanding
+<details><summary>One-minute practice</summary>
 
-Produce one original sentence for two grammar points, then answer the questions in [exercise.md](exercise.md) without looking at the solutions.
+Choose a new subject or object and produce **two complete Italian sentences** with this pattern. Then check the table above and correct the verb ending or noun article.
 
-[← Lesson overview](lesson.md) · [Vocabulary →](vocabulary.md)
+</details>
+
+## Picture-based grammar recall
+
+![Original grammar cue cards](assets/preference-cards.svg)
+
+- Picture of a running person → `Corro spesso.` → `Corri spesso?`
+- Two books → `Mi piacciono i libri.`, not ❌ `Mi piace i libri.`
+- Clock 08:45 → `Sono le nove meno un quarto.` → `A che ora usciamo?`
+- Invitation → `Usciamo domani?` → `Volentieri!`
+
+## English–Italian sentence-ladder exercise
+
+English *I like the books* → Italian `Mi piacciono i libri.` An Italian object is the grammatical subject of `piacere`, so `piacciono` agrees with plural `libri`. Build `Mi piace il libro → Mi piacciono i libri → Ti piacciono i libri?`.
+
+**Technique:** Read English once for meaning, identify the **Italian structure**, then speak the final sentence *entirely in Italian*. Do not rehearse mixed-language phrases as though they were Italian.
+
+## Quick error-correction quiz
+
+1. ❌ `Mi piace i film.` → ?
+2. ❌ `Io uscire sabato.` → ?
+3. ❌ `Sono le una.` → ?
+
+<details><summary>Reveal answers</summary>
+
+1. `Mi piacciono i film.` 2. `Io esco sabato.` 3. `È l'una.`
+
+</details>
+
+[← Lesson](lesson.md) · [Vocabulary →](vocabulary.md) · [Exercises →](exercise.md)
