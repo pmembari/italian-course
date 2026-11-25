@@ -8,7 +8,7 @@ The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3)
 |---|---|---|---|
 | 01 | **[Primi contatti](lesson-01/lesson.md)** | 3–16 (activities 5–16) | Four-file lesson available |
 | 02 | **[Io e gli altri](lesson-02/lesson.md)** | **17–32** (unit 17–29; review 30–32) | Expanded and illustrated |
-| 03 | [Buon appetito!](lesson-03/lesson.md) | 33–46 | Four-file lesson available |
+| 03 | **[Buon appetito!](lesson-03/lesson.md)** | **33–47** (Lesson 3: 33–46; Lesson 4 opens at 47) | Expanded with visuals, shadowing and recall |
 | 04 | [Tempo libero](lesson-04/lesson.md) | 47–58 | Four-file lesson available |
 | 05 | [In albergo](lesson-05/lesson.md) | 59–71 | Four-file lesson available |
 | 06 | [In giro per l'Italia](06-in-giro-per-litalia.md) | 75–88 | Draft |

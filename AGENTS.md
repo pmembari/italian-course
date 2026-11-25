@@ -21,6 +21,11 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 - Publish small, original summaries and examples; do not copy source pages, publisher exercises, large glossary tables, video/audio or exam papers.
 - Verify committed links and GitHub readback after each update.
 
+## Lesson 3 page boundary
+
+- When users describe Lesson 3 as PDF **pp. 33–47**, include p. 47 in the source map as a **transition**: Lesson 3 itself occupies **pp. 33–46** and p. 47 opens **Lezione 4 — Tempo libero**.
+- Lesson 3 vocabulary is drawn from the glossary's **Lezione 3**, approximately PDF pp. **17–25**, with boundaries shared by adjacent chapters.
+
 ## Memory and recall teaching standard
 
 For grammar and vocabulary add a concise **Remember it** section per lesson:
