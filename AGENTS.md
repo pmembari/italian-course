@@ -26,6 +26,12 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 - When users describe Lesson 3 as PDF **pp. 33–47**, include p. 47 in the source map as a **transition**: Lesson 3 itself occupies **pp. 33–46** and p. 47 opens **Lezione 4 — Tempo libero**.
 - Lesson 3 vocabulary is drawn from the glossary's **Lezione 3**, approximately PDF pp. **17–25**, with boundaries shared by adjacent chapters.
 
+## Lessons 4 and 5 page boundaries
+
+- Lesson 4 requested PDF pp. **47–59**; **Tempo libero** itself runs pp. **47–58**, and p. **59** opens Lesson 5.
+- Lesson 5 requested PDF pp. **59–75**; **In albergo** itself runs pp. **59–71**, **Facciamo il punto 2** is on pp. **72–74**, and p. **75** opens Lesson 6.
+- Keep review pages visibly mapped and don't confuse them with a new chapter.
+
 ## Memory and recall teaching standard
 
 For grammar and vocabulary add a concise **Remember it** section per lesson:
