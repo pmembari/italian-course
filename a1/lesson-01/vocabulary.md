@@ -1,186 +1,308 @@
-# Lezione 1 — Vocabulary and visual practice
+# Lezione 1 — Vocabulary with examples and visual practice
 
-[← Overview](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises →](exercise.md)
+[← Lesson & conversations](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises](exercise.md)
 
-**Where these words come from:** selected terms in *Nuovo Espresso 1 Glossario*, **Lezione 1**, PDF pp. **1–7**, aligned with *Nuovo Espresso 1* pp. **5–16**. The glossary itself is Italian–Persian; English meanings and the example sentences below are original additions. This is a **curated selection**, not a reproduction of its full lists.
+> This page draws from the **Lezione 1 section** of *Nuovo Espresso 1 Glossario* (65-page Italian–Persian PDF), pp. **1–7**, checked against the uploaded source. It offers an expanded **selection**, not a reproduction of the complete glossary. English translations, original examples, and new practice tasks are added for self-study. Some sample sentences deliberately preview later grammar.
 
-## 1. Greetings and social expressions
+**How to learn:** Read one group at a time, cover the translation columns, reconstruct five expressions aloud, then use them in original sentences. The [lesson page](lesson.md) contains the full conversation/activity sequence from the main book.
 
-| Italian | English | فارسی | Example in a new sentence |
+![Two contrasting greetings](assets/greetings.svg)
+
+## Contents
+
+1. [1. Greetings, parting and polite expressions](#1-greetings-parting-and-polite-expressions)
+2. [2. People, introductions and social language](#2-people-introductions-and-social-language)
+3. [3. Pronouns, verbs and questions](#3-pronouns-verbs-and-questions)
+4. [4. Countries, languages and nationalities](#4-countries-languages-and-nationalities)
+5. [5. Alphabet, reading and classroom actions](#5-alphabet-reading-and-classroom-actions)
+6. [6. Contact details and useful everyday words](#6-contact-details-and-useful-everyday-words)
+7. [7. Pronunciation-picture words from book p. 8](#7-pronunciationpicture-words-from-book-p-8)
+
+## 1. Greetings, parting and polite expressions
+
+*Glossary pp. 1, 6–7 · book pp. 5–6 and 16*
+
+| Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| **ciao** | hello / bye (informal) | سلام / خداحافظ | *Ciao, Sara! A domani.* |
-| **buongiorno** | good morning / hello | روز بخیر | *Buongiorno, professore!* |
-| **buona sera** | good evening | شب بخیر | *Buona sera, signora Rossi.* |
-| **arrivederci** | goodbye (polite) | به امید دیدار | *Arrivederci, a presto!* |
-| **a presto** | see you soon | به زودی می‌بینمت | *Ciao, a presto!* |
-| **a domani** | see you tomorrow | تا فردا | *Arrivederci, a domani!* |
-| **piacere** | nice to meet you | خوشبختم | *Piacere, sono Lucia.* |
-| **scusi** | excuse me (polite) | ببخشید | *Scusi, Lei è il professore?* |
-| **signore** | gentleman / sir | آقا | *Il signore è di Milano.* |
-| **signora** | lady / madam | خانم | *La signora è italiana.* |
+| ciao | hi / bye (informal) | سلام / خداحافظ | Ciao, Rosa! A domani. |
+| buongiorno | good morning / hello | روز بخیر | Buongiorno, professore. |
+| buona sera | good evening | عصر بخیر | Buona sera, signora. |
+| buona notte | good night | شب بخیر | Buona notte, a domani. |
+| salve | hello (neutral) | سلام | Salve, come sta? |
+| arrivederci | goodbye (polite) | به امید دیدار | Arrivederci, signora. |
+| a presto | see you soon | به زودی می‌بینمت | Ciao, a presto! |
+| a domani | see you tomorrow | تا فردا | Arrivederci, a domani! |
+| buona giornata | have a good day | روز خوبی داشته باشید | Buona giornata, professore. |
+| alla prossima volta | until next time | تا دفعه بعد | A presto, alla prossima volta! |
+| piacere | nice to meet you | خوشبختم | Piacere, sono Luca. |
+| scusi | excuse me (formal) | ببخشید | Scusi, Lei è di Roma? |
 
-![Original illustrated contrast of informal and formal greetings](assets/greetings.svg)
+## 2. People, introductions and social language
 
-**Think in situations:** friends say `ciao`; in polite first meetings, `buongiorno` and `arrivederci` are safer starting points.
+*Glossary pp. 1–2, 6–7 · book pp. 7–8*
 
-<details><summary>Quick recall: polite farewell?</summary>
-
-**Arrivederci.** Informal alternative: **ciao**.
-
-</details>
-
-## 2. Introducing people and asking questions
-
-| Italian | English | فارسی | Original example |
+| Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| **chiamarsi** | to be called / named | نامیده شدن | *Mi chiamo Anna.* |
-| **essere** | to be | بودن | *Sono di Firenze.* |
-| **avere** | to have | داشتن | *Ho un libro.* |
-| **io** | I | من | *Io sono Marco.* |
-| **tu** | you (informal) | تو | *Tu sei Luca?* |
-| **Lei** | you (formal) | شما | *Lei come si chiama?* |
-| **nome** | name / first name | نام | *Qual è il tuo nome?* |
-| **cognome** | surname | نام خانوادگی | *Come si scrive il cognome?* |
-| **come** | how | چطور | *Come si chiama?* |
-| **quale** | which | کدام | *Quale numero?* |
-| **paese** | country / town | کشور | *Di quale paese sei?* |
-| **nazionalità** | nationality | ملیت | *Qual è la sua nazionalità?* |
-| **presentarsi** | introduce oneself | خود را معرفی کردن | *È il momento di presentarsi.* |
-| **chiedere** | to ask | پرسیدن | *Chiedo il nome a Luca.* |
+| signore | gentleman / sir | آقا | Il signore si chiama Pietro. |
+| signora | lady / madam | خانم | La signora è italiana. |
+| professore | professor / teacher | استاد | Buongiorno, professore! |
+| persona | person | شخص | Questa persona è di Napoli. |
+| gruppo | group | گروه | Il gruppo è qui. |
+| nome | first name / name | نام | Qual è il tuo nome? |
+| cognome | surname | نام خانوادگی | Il mio cognome è Verdi. |
+| chiamarsi | to be called / named | نامیده شدن | Mi chiamo Anna. |
+| presentarsi | to introduce oneself | خود را معرفی کردن | È il momento di presentarsi. |
+| presentare | to present / introduce | معرفی کردن | Presento una persona. |
+| fare conoscenza | to get acquainted | آشنا شدن | Facciamo conoscenza. |
+| darsi del tu | to use informal you | تو خطاب کردن | Possiamo darci del tu? |
+| darsi del Lei | to use formal you | شما خطاب کردن | In ufficio ci diamo del Lei. |
+| amici | friends | دوستان | I miei amici sono qui. |
+| parente | relative | فامیل | Un mio parente vive in Italia. |
+| abbraccio | hug | بغل | Un abbraccio, a presto! |
+| bacio | kiss | بوسه | Un bacio alla mamma. |
+| salutare | to greet / say goodbye | سلام / خداحافظی کردن | Saluto il professore. |
 
-**Four high-value chunks (learn as complete phrases):**
+## 3. Pronouns, verbs and questions
 
-- *Come ti chiami?* — What's your name? (informal)
-- *Mi chiamo Laura.* — My name is Laura.
-- *Di dove sei?* — Where are you from? (informal)
-- *Di dov'è?* — Where are you from? (formal)
+*Glossary pp. 1–5 · book pp. 5, 7, 10 and 13*
 
-**Compare the meaning of `essere` and `chiamarsi`:** *Sono Anna* and *Mi chiamo Anna* can both introduce you; the second explicitly means “my name is Anna”.
-
-## 3. Nationality and place
-
-| Italian | English | فارسی | Original sentence |
+| Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| **italiano / italiana** | Italian | ایتالیایی | *Giulia è italiana.* |
-| **tedesco / tedesca** | German | آلمانی | *Thomas è tedesco.* |
-| **inglese** | English / British | انگلیسی | *Anna è inglese.* |
-| **francese** | French | فرانسوی | *Marc è francese.* |
-| **spagnolo / spagnola** | Spanish | اسپانیایی | *Sara è spagnola.* |
-| **svizzero / svizzera** | Swiss | سوئیسی | *Luca è svizzero.* |
-| **Austria** | Austria | اتریش | *È di Vienna, in Austria.* |
-| **Germania** | Germany | آلمان | *È di Berlino, in Germania.* |
-| **Francia** | France | فرانسه | *È di Parigi, in Francia.* |
+| io | I | من | Io sono Laura. |
+| tu | you (informal) | تو | Tu sei di Roma? |
+| Lei | you (formal) | شما | Lei come si chiama? |
+| essere | to be | بودن | Sono di Milano. |
+| sono | I am / they are | هستم | Sono di Firenze. |
+| sei | you are (informal) | هستی | Sei inglese? |
+| è | he/she/you-formal is | هست | Lei è italiana. |
+| avere | to have | داشتن | Ho un indirizzo. |
+| chiedere | to ask | پرسیدن | Chiedo un nome. |
+| dire | to say | گفتن | Come si dice? |
+| come | how | چطور | Come ti chiami? |
+| quale | which | کدام | Quale parola? |
+| qual è | which/what is | کدام است | Qual è il numero? |
+| paese | country | کشور | Di quale paese sei? |
+| nazionalità | nationality | ملیت | Qual è la nazionalità? |
+| provenienza | origin | زادگاه / اصل | Chiedo la provenienza. |
+| quando | when | وقتی که | Quando arriva Marco? |
+| numero | number | عدد | Il numero è sette. |
 
-**Original contrast:** *Luca è spagnolo; Marta è spagnola.* Notice `-o` changes to `-a`.
+## 4. Countries, languages and nationalities
 
-## 4. Alphabet, classroom language and everyday things
+*Glossary pp. 4–5 · book pp. 10–11*
 
-| Italian | English | فارسی | Original example |
+| Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| **alfabeto** | alphabet | الفبا | *Impariamo l'alfabeto.* |
-| **lettera** | letter | حرف | *Questa lettera è una C.* |
-| **scrivere** | to write | نوشتن | *Come si scrive Gianni?* |
-| **leggere** | to read | خواندن | *Leggo una parola.* |
-| **ascoltare** | to listen | گوش دادن | *Ascolto la domanda.* |
-| **ripetere** | to repeat | تکرار کردن | *Ripeto il nome.* |
-| **completare** | to complete | کامل کردن | *Completo la frase.* |
-| **dialogo** | dialogue | گفتگو | *Leggo un dialogo breve.* |
-| **numero** | number | عدد | *Il numero è sette.* |
-| **numero di telefono** | telephone number | شماره تلفن | *Qual è il numero di telefono?* |
-| **indirizzo** | address | آدرس | *Scrivo un indirizzo inventato.* |
-| **caffè** | coffee | قهوه | *Prendo un caffè.* |
-| **gatto** | cat | گربه | *Il gatto dorme.* |
-| **cane** | dog | سگ | *Il cane è piccolo.* |
-| **gelato** | ice cream | بستنی | *Vorrei un gelato.* |
+| italiano / italiana | Italian | ایتالیایی | Marco è italiano; Sara è italiana. |
+| inglese | English | انگلیسی | Luca è inglese. |
+| irlandese | Irish | ایرلندی | Emma è irlandese. |
+| tedesco / tedesca | German | آلمانی | Lena è tedesca. |
+| austriaco / austriaca | Austrian | اتریشی | Franz è austriaco. |
+| svizzero / svizzera | Swiss | سوئیسی | Nina è svizzera. |
+| francese | French | فرانسوی | Marie è francese. |
+| spagnolo / spagnola | Spanish | اسپانیایی | Rosa è spagnola. |
+| portoghese | Portuguese | پرتغالی | Lui è portoghese. |
+| Germania | Germany | آلمان | Berlino è in Germania. |
+| Austria | Austria | اتریش | Vienna è in Austria. |
+| Svizzera | Switzerland | سوئیس | Berna è in Svizzera. |
+| Spagna | Spain | اسپانیا | Madrid è in Spagna. |
+| Francia | France | فرانسه | Parigi è in Francia. |
+| Inghilterra | England | انگلستان | Londra è in Inghilterra. |
+| Irlanda | Ireland | ایرلند | Dublino è in Irlanda. |
+| Portogallo | Portugal | پرتغال | Lisbona è in Portogallo. |
+| città | city | شهر | Roma è una città. |
 
-The examples introduce some useful extra words; the goal of this chapter remains greetings, spelling and simple introductions. Don't attempt to memorize every unfamiliar word in the example sentences at once.
+## 5. Alphabet, reading and classroom actions
 
-## 5. Visual matching — cover the answer key
+*Glossary pp. 1–6 · book pp. 8–9*
 
-![Six illustrated scenes to match to vocabulary](assets/vocabulary-scenes.svg)
+| Italiano | English | فارسی | Example (original) |
+|---|---|---|---|
+| alfabeto | alphabet | الفبا | L'alfabeto italiano. |
+| lettera | letter | حرف | La lettera C. |
+| scrivere | to write | نوشتن | Scrivo il nome. |
+| leggere | to read | خواندن | Leggo il dialogo. |
+| ascoltare | to listen | گوش دادن | Ascolto e ripeto. |
+| ripetere | to repeat | تکرار کردن | Ripeto la parola. |
+| completare | to complete | کامل کردن | Completo la frase. |
+| dialogo | dialogue | گفتگو | Leggiamo un dialogo. |
+| abbinare | to match | جور کردن | Abbino le parole. |
+| disegno | drawing | نقاشی | Il disegno è semplice. |
+| verificare | to check / verify | بررسی کردن | Verifico la risposta. |
+| ordinare | to order / arrange | مرتب کردن | Ordino le parole. |
+| pronunciare | to pronounce | تلفظ کردن | Pronuncio il nome. |
+| suono | sound | صدا | Il suono è diverso. |
+| ricostruire | to reconstruct | دوباره ساختن | Ricostruisco il dialogo. |
+| frase | sentence | جمله | Scrivo una frase. |
+| studente | student | دانشجو / دانش‌آموز | Lo studente ascolta. |
+| compagno | classmate | هم‌کلاسی | Il compagno ripete. |
+| modello | model | نمونه | Seguo il modello. |
+| esercizio | exercise | تمرین | Faccio un esercizio. |
 
-**Task:** Match picture numbers **1–6** to these Italian words, in a different order:
+## 6. Contact details and useful everyday words
 
-- `il caffè`
-- `la città`
-- `il numero di telefono`
-- `la lettera`
-- `fare conoscenza`
-- `il nome`
+*Glossary pp. 4–6 · book pp. 11–12*
 
-<details><summary>Show picture matching answers</summary>
+| Italiano | English | فارسی | Example (original) |
+|---|---|---|---|
+| indirizzo | address | آدرس | L'indirizzo è inventato. |
+| cellulare | mobile phone | موبایل | Ho un cellulare. |
+| numero di telefono | phone number | شماره تلفن | Qual è il numero di telefono? |
+| foglio | sheet of paper | برگه | Scrivo su un foglio. |
+| domanda | question | سؤال | Faccio una domanda. |
+| risultato | result | نتیجه | Confronto il risultato. |
+| confrontare | to compare | مقایسه کردن | Confronto due risposte. |
+| conoscere | to know / meet | شناختن | Conosco Anna. |
+| immaginario | imaginary / fictional | خیالی | Uso un nome immaginario. |
+| a sinistra | on the left | سمت چپ | Il numero è a sinistra. |
+| a destra | on the right | سمت راست | Il nome è a destra. |
+| a turno | in turns | به نوبت | Parliamo a turno. |
 
-**1** fare conoscenza · **2** il nome · **3** il numero di telefono · **4** la lettera · **5** la città · **6** il caffè.
+## 7. Pronunciation-picture words from book p. 8
+
+*Book p. 8; corresponding glossary entries p. 3*
+
+| Italiano | English | فارسی | Example (original) |
+|---|---|---|---|
+| caffè | coffee | قهوه | Il caffè è buono. |
+| gatto | cat | گربه | Il gatto è qui. |
+| cinema | cinema | سینما | Il cinema è vicino. |
+| chitarra | guitar | گیتار | Ho una chitarra. |
+| gelato | ice cream | بستنی | Il gelato è buono. |
+| giornale | newspaper | روزنامه | Leggo il giornale. |
+| formaggio | cheese | پنیر | Mi piace il formaggio. |
+| cane | dog | سگ | Il cane è qui. |
+| zucchero | sugar | شکر | Lo zucchero è bianco. |
+| medico | doctor | پزشک | Il medico è italiano. |
+
+
+## Illustrated vocabulary: picture-to-word
+
+![Six original illustrated scene prompts](assets/vocabulary-scenes.svg)
+
+Match pictures **1–6** to this unordered word list:
+
+- `il telefono` — telephone
+- `la lettera` — letter
+- `fare conoscenza` — getting acquainted
+- `la città` — city
+- `il caffè` — coffee
+- `il nome` — name
+
+<details><summary>Reveal picture key</summary>
+
+**1** fare conoscenza; **2** il nome; **3** il telefono; **4** la lettera; **5** la città; **6** il caffè.
 
 </details>
 
-### Turn each picture into a sentence
+**Next:** Make an original sentence about each image. For example, for picture 1: *Due persone si salutano.* For picture 3: *Ho un telefono.*
 
-Examples to imitate **without copying**:
+## Pronunciation picture drill
 
-- Picture 1: *Due persone si salutano.* — Two people greet each other.
-- Picture 2: *Il nome è sulla carta.* — The name is on the card.
-- Picture 3: *Ho un telefono.* — I have a phone.
-- Picture 6: *Il caffè è buono.* — The coffee is good.
+![C and G letter pronunciation cards](assets/pronunciation.svg)
 
-Try four other original sentences. Some example grammar above is an optional stretch beyond chapter 1.
+Read these aloud: **cinema**, **chitarra**, **gelato**, **spaghetti**. Explain why C and G sound different. Check the [grammar explanation](grammar.md#5-spelling-and-pronunciation).
 
-## 6. Pronunciation picture cards
+<details><summary>Reveal sound clues</summary>
 
-![Italian C/G pronunciation cards](assets/pronunciation.svg)
-
-Match the words with their initial or central sound: **cinema**, **chitarra**, **gelato**, **spaghetti**. Say each word aloud. Then make your own sentence with two of them.
-
-<details><summary>Show pronunciation clues</summary>
-
-**cinema**: soft C · **chitarra**: hard C · **gelato**: soft G · **spaghetti**: hard G. See [Grammar §5](grammar.md#5-spelling-and-pronunciation) for explanations.
+C before E/I is typically soft; CH before E/I is hard. G before E/I is typically soft; GH before E/I is hard.
 
 </details>
 
-## 7. Practice vocabulary in context
+## Vocabulary exercise 1 — Which phrase fits?
 
-### A. Choose the best expression
+1. You greet a professor in the morning: `ciao` or `buongiorno`?
+2. You politely interrupt someone: `scusi` or `piacere`?
+3. You see a friend tomorrow: `a domani` or `buona notte`?
+4. You ask a name formally: `Come ti chiami?` or `Come si chiama?`?
+5. You ask someone's country of origin: `Di dove sei?` or `Come ti chiami?`?
 
-1. A professor arrives in the morning: `ciao` / `buongiorno`?
-2. A friend leaves: `a domani` / `piacere`?
-3. You politely attract someone's attention: `scusi` / `nome`?
+<details><summary>Reveal exercise 1 answers</summary>
 
-<details><summary>Show answers for A</summary>
-
-1. **Buongiorno** · 2. **A domani** · 3. **Scusi**.
-
-</details>
-
-### B. Recover the Italian
-
-1. “surname” → ?
-2. “to repeat” → ?
-3. “nice to meet you” → ?
-4. “telephone number” → ?
-5. “to write” → ?
-
-<details><summary>Show answers for B</summary>
-
-**Cognome; ripetere; piacere; numero di telefono; scrivere.**
+1 **buongiorno**; 2 **scusi**; 3 **a domani**; 4 **Come si chiama?**; 5 **Di dove sei?**
 
 </details>
 
-### C. Build a useful phrase
+## Vocabulary exercise 2 — Recover Italian from English
 
-1. `ti / come / chiami` → ?
-2. `di / sono / Pisa` → ?
-3. `è / qual / nome / il / tuo` → ?
+Translate each into Italian without looking above:
 
-<details><summary>Show answers for C</summary>
+1. surname
+2. to pronounce
+3. address
+4. to match
+5. nationality
+6. to repeat
+7. goodbye (polite)
+8. Switzerland
+9. a sheet of paper
+10. to get acquainted
 
-1. **Come ti chiami?**
-2. **Sono di Pisa.**
-3. **Qual è il tuo nome?**
+<details><summary>Reveal exercise 2 answers</summary>
+
+1 **cognome**; 2 **pronunciare**; 3 **indirizzo**; 4 **abbinare**; 5 **nazionalità**; 6 **ripetere**; 7 **arrivederci**; 8 **Svizzera**; 9 **foglio**; 10 **fare conoscenza**.
 
 </details>
 
-## 8. Spaced-review idea
+## Vocabulary exercise 3 — Make chunks
 
-First study the words. The next day, cover the translations and reconstruct five chunks aloud. A few days later, reproduce a dialogue without looking. Revisit again after a week. Keep your individual scores and errors **outside this public repository**.
+Reorder the words.
 
-**Next:** [Exercise workbook →](exercise.md) · [Grammar](grammar.md) · [Overview](lesson.md)
+1. `chiami / ti / come`
+2. `di / sei / dove`
+3. `si / Lei / come / chiama`
+4. `telefono / numero / il / di`
+5. `sono / Firenze / di`
+
+<details><summary>Reveal exercise 3 answers</summary>
+
+1 **Come ti chiami?**; 2 **Di dove sei?**; 3 **Lei come si chiama?**; 4 **il numero di telefono**; 5 **Sono di Firenze.**
+
+</details>
+
+## Vocabulary exercise 4 — Nationality pairs
+
+Give the feminine form:
+
+1. `italiano`
+2. `tedesco`
+3. `spagnolo`
+4. `svizzero`
+5. `francese`
+
+<details><summary>Reveal exercise 4 answers</summary>
+
+1 **italiana**; 2 **tedesca**; 3 **spagnola**; 4 **svizzera**; 5 **francese** (unchanged).
+
+</details>
+
+## Vocabulary exercise 5 — Read and respond
+
+**Original mini-reading:**
+
+> Buongiorno! Sono Sara, sono di Napoli. Questa è una mia amica, Claire. Claire è francese, di Lione. Io parlo italiano; Claire parla italiano e francese. Oggi facciamo conoscenza con due studenti.
+
+Questions:
+
+1. Who comes from Naples?
+2. Who is French?
+3. What does `facciamo conoscenza` mean?
+4. Which word means “students”?
+
+<details><summary>Reveal reading answers</summary>
+
+1 **Sara**. 2 **Claire**. 3 **We get acquainted / meet people**. 4 **studenti** (plural of `studente`).
+
+</details>
+
+## Practice with the main book
+
+- For greetings and introductions, review book **pp. 6–7**.
+- For alphabet/sounds and spelled names, book **pp. 8–9**.
+- For country/nationality expressions, book **pp. 10–11**.
+- For numbers and contact details, book **pp. 11–12**.
+- For culture and leave-taking, book **p. 16**.
+
+**Review strategy:** Revisit difficult words after 1, 3 and 7 days; adjust based on actual recall. Personal answers and progress belong in private notes, not this public repository.
+
+[← Lesson page](lesson.md) · [Grammar](grammar.md) · [Exercises →](exercise.md)
