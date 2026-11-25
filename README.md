@@ -1,32 +1,42 @@
-# 🇮🇹 Italian Course — Start learning
+# 🇮🇹 Italian Course — Nuovo Espresso 1
 
-**One lesson = one page.** Each lesson brings together grammar, vocabulary, examples, self-check exercises, speaking/shadowing prompts and links to its textbook pages. No searching across separate grammar and vocabulary folders.
+A beginner-friendly course organized **one textbook lesson at a time**. All grammar, vocabulary and original practice for a lesson belong on the same page.
 
-## Choose a level
+## Start learning
 
-| Level | Open course | Source status |
-|---|---|---|
-| **A1 · Beginner** | **[Start A1 — 10 guided lessons](a1/README.md)** | Structured from *Nuovo Espresso 1* contents |
-| **A2 · Elementary** | **[A2 overview](a2/README.md)** | Dedicated A2 materials not yet provided |
+**[A1 — Open the course menu](a1/README.md)**
 
-### A1 — Jump straight to a lesson
+**[Lezione 1 — Primi contatti (first focus)](a1/01-primi-contatti.md)**
 
-**01. [Primi contatti](a1/01-primi-contatti.md)** · **02. [Io e gli altri](a1/02-io-e-gli-altri.md)** · **03. [Buon appetito!](a1/03-buon-appetito.md)** · **04. [Tempo libero](a1/04-tempo-libero.md)** · **05. [In albergo](a1/05-in-albergo.md)** · **06. [In giro per l'Italia](a1/06-in-giro-per-litalia.md)** · **07. [Andiamo in vacanza!](a1/07-andiamo-in-vacanza.md)** · **08. [Sapori d'Italia](a1/08-sapori-ditalia.md)** · **09. [Vita quotidiana](a1/09-vita-quotidiana.md)** · **10. [La famiglia](a1/10-la-famiglia.md)**
+The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. Later lesson pages are early drafts, not fully checked learning modules.
 
-## How a lesson works
+## Our two sources
 
-1. **Learn:** open a lesson and read its goals, grammar and vocabulary together.
-2. **Try:** complete the short questions **without looking at the answers**.
-3. **Check:** click **Show answer** inside the lesson to reveal solutions.
-4. **Speak:** use the original conversation prompt, optionally with a native audio source for shadowing.
-5. **Apply:** complete the mini-mission and revisit difficult items later.
+| Source | Role |
+|---|---|
+| **Nuovo Espresso 1** | Primary lesson sequence and teaching structure: introductory/main course through the review on p. 144; the exercise section begins at p. 145 |
+| **Nuovo Espresso 1 Glossario** | 65-page Italian–Persian vocabulary reference, organized by the textbook lessons |
 
-You need only a browser. GitHub displays the lessons and expandable solutions directly. There is **no account, installation or command line required** just to learn.
+The uploaded *Nuovo Espresso 1* PDF is a **150-page copy**, so its exercise portion is only partially present. We will **not** claim to have the full exercise book. We will cite exact page numbers only after checking them.
+
+No other textbooks are in scope for this phase. We will build later lessons only when their pages and corresponding glossary sections have been checked.
+
+## How to use each lesson
+
+1. **Open the lesson** from the [A1 menu](a1/README.md).
+2. **Study the book pages** listed in that lesson using your own copy.
+3. **Learn vocabulary in context**, with Italian, English, and selected Persian meanings from the glossary.
+4. **Understand one grammar point** with original examples.
+5. **Practise:** try the built-in questions, then click **Show answer** to check.
+6. **Speak:** read the short original dialogue aloud. True shadowing needs an authorized audio source.
+7. **Review:** revisit difficult items; keep personal progress in a private journal.
+
+GitHub renders the lesson pages and clickable answer reveals in a browser. No account or installation is needed to read them.
 
 <details>
-<summary><strong>Optional: set up a local study environment</strong></summary>
+<summary><strong>Optional: download and edit locally</strong></summary>
 
-Install [Git](https://git-scm.com/downloads) and optionally [VS Code](https://code.visualstudio.com/). Clone the public learning materials:
+Install [Git](https://git-scm.com/downloads) and optionally [VS Code](https://code.visualstudio.com/).
 
 ```bash
 git clone https://github.com/pmembari/italian-course.git
@@ -34,39 +44,28 @@ cd italian-course
 code .
 ```
 
-If `code .` is unavailable, open the directory in your editor. To get new lessons later run `git pull --ff-only`. Keep your personal journal **outside** this public checkout.
+If `code .` is unavailable, open the directory manually. Use `git pull --ff-only` to retrieve future revisions. Keep private records outside this public checkout.
 
 </details>
 
 <details>
-<summary><strong>Optional: study with an AI tutor</strong></summary>
+<summary><strong>Optional: learn with an AI tutor</strong></summary>
 
-Share the specific lesson link and request: “Teach this lesson one exercise at a time. Wait for my answers before giving corrections. Use short original examples and avoid copying copyrighted material.” AI tools may require a connected GitHub integration to save anything; they do not automatically track your learning.
-
-</details>
-
-<details>
-<summary><strong>Optional: use a calendar</strong></summary>
-
-Create a recurring “Italian practice” event in your calendar. Paste the link to the lesson menu in its description. A calendar reminds you **when** to study; it does not automatically mark lessons complete.
+Give your tutor the URL of **one** lesson and ask it to teach step by step, wait for your answers, and explain errors before moving on. AI chat does not save progress automatically.
 
 </details>
 
-## Books and source fidelity
+## How this repository will grow
 
-The uploaded materials used to design this repository are:
+We will work **incrementally**, not generate a whole course at once:
 
-| Reference | How it is used |
-|---|---|
-| *Nuovo Espresso 1* (A1) | **Primary lesson order**; its contents list ten `Lezione` chapters and associated skills |
-| *Nuovo Espresso 1 Glossario* | Italian–Persian vocabulary reference, aligned by lesson markers |
-| *La lingua italiana per stranieri* (Katerinov / Boriosi Katerinov) | Separate grammar course; not presumed to match the Espresso chapter numbers |
-| *Come si dice...?* (Ferri / Peccianti) | Situational dialogues (e.g. buses, trains); linked only when exact pages are checked |
+- **First:** verify Lezione 1 (book pp. 5–16) and the glossary's Lezione 1 portion (glossary pp. 1–7).
+- **Next:** improve its explanations and original exercises in small, verifiable updates.
+- **Then:** move to Lezione 2, and continue in book order.
+- **Later:** revisit the separate exercise pages and checkpoints where available.
 
-**Not uploaded here:** copyrighted PDFs, publisher audio, or proprietary exams. Acquire your own lawful copies to follow the textbook pages listed on each lesson. Quiz prompts here are original, not reconstructed textbook answer keys.
+## Privacy and copyright
 
-## Privacy and personal progress
+**This repository is public.** Publish only generic teaching materials; never commit an individual's study dates, goals, exam plans, performance, mistakes, conversations or identifiers. Keep personal notes in a separate private location.
 
-**This repository is public.** It contains **general learning content only**, not a particular learner's schedule, goals, exam registration, scores, answers, mistakes, proficiency or identifying details. Keep individual results in a separate private repository or a private notebook. Do not put those details in public commits, issues, pull requests or discussions.
-
-[Start learning: A1, lesson 01 →](a1/01-primi-contatti.md)
+Do not upload or reproduce copyrighted textbook pages, the whole glossary or publisher audio. The repository offers original lessons and precise references; readers use their own lawful copies of the source materials.
