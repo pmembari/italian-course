@@ -398,6 +398,22 @@
 
 </details>
 
+**48.** Translate: “She works in a pharmacy, but I work in a school.”
+
+<details><summary>Reveal answer</summary>
+
+**Lei lavora in una farmacia, ma io lavoro in una scuola.**
+
+</details>
+
+**49.** You meet someone politely. Ask their name and where they live, using formal `Lei`.
+
+<details><summary>One possible answer</summary>
+
+**Come si chiama? Dove abita?**
+
+</details>
+
 ## Part F — Visual profession matching
 
 ![Nine illustrated workplaces and professionals](assets/professions.svg)
