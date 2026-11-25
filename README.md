@@ -8,7 +8,7 @@ A beginner-friendly course organized **one textbook lesson at a time**. Each tex
 
 **[Lezione 1 — Primi contatti (first focus)](a1/lesson-01/lesson.md)**
 
-The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. Later lesson pages are early drafts, not fully checked learning modules.
+The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. Lessons 1–5 now have four-file modules. Lessons 6–10 remain early drafts awaiting source-led development.
 
 ## Our two sources
 
@@ -32,7 +32,7 @@ a1/
     └── exercise.md     # self-check and speaking tasks
 ```
 
-We will migrate **one lesson at a time** rather than create empty folders for chapters still in draft.
+We develop chapters from the two supplied PDFs; Lezioni 1–5 have four-file folders, while Lezioni 6–10 remain drafts.
 
 ## How to use each lesson
 
@@ -74,7 +74,7 @@ We will work **incrementally**, not generate a whole course at once:
 
 - **First:** verify Lezione 1 (book pp. 5–16) and the glossary's Lezione 1 portion (glossary pp. 1–7).
 - **Next:** improve its explanations and original exercises in small, verifiable updates.
-- **Then:** move to Lezione 2, and continue in book order.
+- **Then:** continue improving Lezioni 2–5 and move to Lezione 6 in book order.
 - **Later:** revisit the separate exercise pages and checkpoints where available.
 
 ## Privacy and copyright

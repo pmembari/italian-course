@@ -13,7 +13,7 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 
 - Edit **one lesson at a time**. Inspect its actual textbook and glossary pages before adding claims or detailed source references.
 - Main navigation: `README.md` → `a1/README.md` → `a1/lesson-NN/lesson.md`.
-- Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
+- Lezioni 1–5 have exactly four files each; Lezioni 6–10 remain drafts. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
 - Migrate and verify only **one lesson at a time**; unmigrated chapters remain draft files.
 - Keep the lesson **self-contained**: book pages, communication goals, grammar, selective vocabulary, short original examples, practice with collapsible solutions, speaking task and next-step link.
 - Lessons not yet fully examined are **drafts**. Do not present them as finished or mastered.
