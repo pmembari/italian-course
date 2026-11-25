@@ -1,73 +1,253 @@
 # Lezione 1 — Primi contatti
 
-[← A1 menu](../README.md) · **Overview** · [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)
+[← A1 menu](../README.md) · **Conversations & lesson** · [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)
 
-> **Learning goal:** introduce yourself, greet people, ask names and origins, spell words and exchange simple contact information. This lesson follows the book's communication and grammar sequence with **original** teaching material.
+> This is a **conversation-led companion** to *Nuovo Espresso 1* pp. 5–16. It follows **every lesson-one conversation activity in order**, with **new original examples**, source page links and explanation. To study the exact publisher dialogues and illustrations, use the uploaded textbook itself; they are not copied into this public repository.
 
-![Two illustrated greetings: informal and formal](assets/greetings.svg)
+![Two original greeting scenes](assets/greetings.svg)
 
-## Your learning journey
+## Learning goals
 
-| Step | Open | You will learn |
+Greet people, introduce yourself, ask for names and places of origin, distinguish formal **Lei** and informal **tu**, spell names, use nationality adjectives, understand numbers **0–20**, and exchange basic fictional contact information. See [Grammar](grammar.md) and [Vocabulary](vocabulary.md) for detailed learning notes.
+
+## Complete conversation and activity sequence
+
+### 1. Ciao o buongiorno? — book p. 6
+
+**Situation:** Choosing greetings for different people.
+
+**New model conversation** (not the publisher's script):
+
+> A: Ciao, Silvia!  
+> B: Ciao, Marco! A domani!  
+> A: Buongiorno, professore.  
+> B: Buongiorno. Arrivederci!
+
+**What to notice:** Compare informal ciao with polite buongiorno and arrivederci.
+
+**Practice:** Read the book's activity on p. 6; then change the fictional details and recreate the exchange without looking.
+
+### 2. Scusi, Lei come si chiama? — book p. 7
+
+**Situation:** Names and polite introductions.
+
+**New model conversation** (not the publisher's script):
+
+> A: Scusi, Lei come si chiama?  
+> B: Mi chiamo Anna Bellini. E Lei?  
+> A: Sono Carlo, piacere!  
+> B: Piacere!
+
+**What to notice:** Formal Lei uses si chiama, not ti chiami.
+
+**Practice:** Read the book's activity on p. 7; then change the fictional details and recreate the exchange without looking.
+
+### 3. Piacere! — book p. 7
+
+**Situation:** Introducing yourself to a classmate.
+
+**New model conversation** (not the publisher's script):
+
+> A: Ciao! Mi chiamo Eva. E tu?  
+> B: Io sono Davide.  
+> A: Piacere, Davide!  
+> B: Piacere!
+
+**What to notice:** Use mi chiamo and sono to give your name.
+
+**Practice:** Read the book's activity on p. 7; then change the fictional details and recreate the exchange without looking.
+
+### 4. Fare conoscenza — book p. 8
+
+**Situation:** Meeting and choosing informal or formal language.
+
+**New model conversation** (not the publisher's script):
+
+> A: Buongiorno, sono Elena.  
+> B: Piacere, mi chiamo Nadia.  
+> A: Possiamo darci del tu?  
+> B: Certamente, ciao Elena!
+
+**What to notice:** Darsi del tu is an additional useful expression; the book asks learners to act out meetings.
+
+**Practice:** Read the book's activity on p. 8; then change the fictional details and recreate the exchange without looking.
+
+### 5. L'alfabeto / C come ciao — book p. 8
+
+**Situation:** The alphabet and C/G pronunciation.
+
+**New model conversation** (not the publisher's script):
+
+> A: Come si dice questa lettera?  
+> B: È la lettera C.  
+> A: Come in cinema?  
+> B: Sì, ma in chitarra il suono è diverso.
+
+**What to notice:** The illustrations on p. 8 associate pictures with sounds. Use the original book images for its task and our pronunciation chart for extra review.
+
+**Practice:** Read the book's activity on p. 8; then change the fictional details and recreate the exchange without looking.
+
+### 6. Come si scrive? — book p. 9
+
+**Situation:** Spelling first names and surnames.
+
+**New model conversation** (not the publisher's script):
+
+> A: Come ti chiami?  
+> B: Mi chiamo Leo.  
+> A: Come si scrive?  
+> B: L-E-O.  
+> A: E il cognome?  
+> B: Neri: N-E-R-I.
+
+**What to notice:** The textbook has a pair-work spelling task. Practise with fictional names.
+
+**Practice:** Read the book's activity on p. 9; then change the fictional details and recreate the exchange without looking.
+
+### 7. E Lei di dov'è? — book p. 10
+
+**Situation:** Asking origins and countries.
+
+**New model conversation** (not the publisher's script):
+
+> A: Scusi, Lei è italiana?  
+> B: No, sono spagnola.  
+> A: Ah, e di dov'è?  
+> B: Sono di Valencia.
+
+**What to notice:** Change sei / è according to tu / Lei.
+
+**Practice:** Read the book's activity on p. 10; then change the fictional details and recreate the exchange without looking.
+
+### 8. Ricostruisci i dialoghi — book p. 10
+
+**Situation:** Rebuilding short nationality conversations.
+
+**New model conversation** (not the publisher's script):
+
+> A: Sei tedesca?  
+> B: No, sono svizzera.  
+> A: Di dov'è il tuo amico?  
+> B: È di Berna.
+
+**What to notice:** Put the book's three exchanges in order using p. 10; these are separate new examples.
+
+**Practice:** Read the book's activity on p. 10; then change the fictional details and recreate the exchange without looking.
+
+### 9. Tu o Lei? / Lei è francese? — book p. 11
+
+**Situation:** Recognizing register and nationality.
+
+**New model conversation** (not the publisher's script):
+
+> A: Sei francese?  
+> B: No, sono inglese.  
+> A: E Lei, signora, di dov'è?  
+> C: Sono di Lisbona, sono portoghese.
+
+**What to notice:** The six register questions require publisher audio; do not claim audio answers without hearing it.
+
+**Practice:** Read the book's activity on p. 11; then change the fictional details and recreate the exchange without looking.
+
+### 10. Numeri da zero a venti — book p. 11
+
+**Situation:** Saying and recognizing numbers 0–20.
+
+**New model conversation** (not the publisher's script):
+
+> A: Che numero è questo?  
+> B: Diciassette.  
+> A: E quello?  
+> B: Venti.
+
+**What to notice:** Practise numbers in random order, not just memorized sequence.
+
+**Practice:** Read the book's activity on p. 11; then change the fictional details and recreate the exchange without looking.
+
+### 11. Qual è il Suo numero di telefono? — book p. 12
+
+**Situation:** Address and number exchanges.
+
+**New model conversation** (not the publisher's script):
+
+> A: Qual è il Suo indirizzo?  
+> B: Via dei Fiori, numero tre.  
+> A: E il cellulare?  
+> B: Zero, quattro, uno, due.
+
+**What to notice:** These addresses and digit groups are fictional. Also practise Che numero è? and Primo incontro on p. 12.
+
+**Practice:** Read the book's activity on p. 12; then change the fictional details and recreate the exchange without looking.
+
+### 12. Comunicazione e grammatica — book p. 13
+
+**Situation:** Review of essential grammar and communication.
+
+**New model conversation** (not the publisher's script):
+
+> A: Buongiorno, mi chiamo Tania.  
+> B: Piacere, io sono Mauro.  
+> A: Di dov'è?  
+> B: Sono di Torino. Arrivederci!
+
+**What to notice:** Review essere / avere / chiamarsi, articles il/la, nationality and questions in the book summary.
+
+**Practice:** Read the book's activity on p. 13; then change the fictional details and recreate the exchange without looking.
+
+### 13. Videocorso 1 — book p. 14–15
+
+**Situation:** Video greetings, origins, order of dialogue and phone number.
+
+**New model conversation** (not the publisher's script):
+
+> A: Ciao, sono Irene.  
+> B: Piacere! Io mi chiamo Oscar.  
+> A: Sei italiano?  
+> B: Sì, sono di Napoli.
+
+**What to notice:** This is extra original practice, NOT the video's original dialogue; publisher audio/video is required to answer its specific listening questions.
+
+**Practice:** Read the book's activity on p. 14–15; then change the fictional details and recreate the exchange without looking.
+
+### 14. Caffè culturale — book p. 16
+
+**Situation:** Greetings, farewells, time of day and social gestures.
+
+**New model conversation** (not the publisher's script):
+
+> A: Buona sera, signora.  
+> B: Buona sera, a domani!  
+> A: Arrivederci!  
+> B: Buona notte!
+
+**What to notice:** The book's timeline and pictures show variation by time of day and familiarity. Compare with your own culture.
+
+**Practice:** Read the book's activity on p. 16; then change the fictional details and recreate the exchange without looking.
+
+## Extra practice: change the relationship
+
+**Informal conversation**
+
+> A: Ciao! Come ti chiami?  
+> B: Mi chiamo Luca. Di dove sei?  
+> A: Sono di Perugia. Piacere!
+
+**Formal version**
+
+> A: Buongiorno! Lei come si chiama?  
+> B: Mi chiamo il signor Galli. Di dov'è?  
+> A: Sono di Perugia. Piacere!
+
+**Task:** Replace names and origins; identify every verb change between `tu` and `Lei`.
+
+## Book and glossary cross-reference
+
+| Source | What it covers | Pages |
 |---|---|---|
-| 1 | [**Grammar →**](grammar.md) | `tu / Lei`, `essere`, `avere`, `chiamarsi`, articles, nationality, alphabet and numbers |
-| 2 | [**Vocabulary →**](vocabulary.md) | Vocabulary in Italian, English and Persian, pictures, contextual expressions and self-testing |
-| 3 | [**Exercises →**](exercise.md) | 30+ varied questions, image-based practice, dialogues, writing and a practical challenge |
+| *Nuovo Espresso 1* | First-contact lesson activities, grammar recap, video and culture | **5–16** |
+| *Nuovo Espresso 1* | Additional exercise section begins | **145**; the supplied PDF contains **150 pages total** |
+| *Nuovo Espresso 1 Glossario* | Lezione 1 word list, classroom instructions, cultural expressions | **1–7** (Lezione 2 begins on p. 7) |
 
-## After completing this lesson, you should be able to
+**Copyright and completeness:** This file lists and explains all main activity situations from the pages, but does **not** reproduce the original copyrighted dialogues, exercises or screenshots. Original listening/video exercises depend on audio not supplied in this GitHub repo.
 
-- [ ] Select a suitable greeting and say goodbye.
-- [ ] Introduce yourself and another fictional person.
-- [ ] Ask a name with both informal `tu` and formal `Lei`.
-- [ ] Ask and answer `Di dove sei?` or `Di dov'è?`.
-- [ ] Recognize the basic masculine/feminine nationality forms and `il`/`la`.
-- [ ] Spell a name and distinguish soft/hard C and G combinations.
-- [ ] Read and say numbers **0–20**.
-- [ ] Ask politely about a phone number or address (without sharing real contact details).
-
-## Detailed textbook map (verified)
-
-| *Nuovo Espresso 1* printed/PDF page | Book activity | Related study |
-|---|---|---|
-| **5** | *Primi contatti* opening overview | Review the goals above |
-| **6** | 1. *Ciao o buongiorno?* | [Formal and informal greetings](grammar.md#1-formal-and-informal-italian-tu-and-lei) |
-| **7** | 2. *Scusi, Lei come si chiama?*; 3. *Piacere!* | [Verbs and introductions](grammar.md#2-essere-avere-and-chiamarsi) |
-| **8** | 4. *Fare conoscenza*; 5. *L'alfabeto*; 6. *C come ciao* | [Alphabet and sounds](grammar.md#5-spelling-and-pronunciation) |
-| **9** | 7. *Come si scrive?* | [Spelling mini-quiz](exercise.md#part-c-spelling-and-numbers) |
-| **10** | 8. *E Lei di dov'è?*; 9. *Ricostruisci i dialoghi* | [Question words](grammar.md#3-questions-articles-and-nationality) |
-| **11** | 10. *Tu o Lei?*; 11. *Lei è francese?*; 0–20 | [Numbers](grammar.md#6-numbers-0-20) |
-| **12** | Contact details and number games | [Contact scenario](exercise.md#part-d-situations-and-dialogues) |
-| **13** | *Comunicazione e grammatica* | Recap in [Grammar](grammar.md) |
-| **14–15** | *Videocorso 1* | Use the publisher's authorized video, if available |
-| **16** | *Caffè culturale*: greetings | Cultural notes in [Grammar](grammar.md) |
-
-**Glossary source:** *Nuovo Espresso 1 Glossario* PDF pp. **1–7**; the heading for Lezione 2 appears toward the end of p. 7.
-
-## Two model conversations (original)
-
-### Meeting a friend
-
-> **Sara:** Ciao! Io mi chiamo Sara. E tu?  
-> **Luca:** Mi chiamo Luca. Piacere!  
-> **Sara:** Piacere! Di dove sei?  
-> **Luca:** Sono di Firenze. E tu?  
-> **Sara:** Sono di Pisa. A presto!
-
-### Meeting someone formally
-
-> **Ospite:** Buongiorno, Lei come si chiama?  
-> **Signora:** Mi chiamo Rosa Conti. E Lei?  
-> **Ospite:** Sono Paolo. Di dov'è?  
-> **Signora:** Sono di Bologna. Arrivederci!
-
-**Notice:** `ti chiami` changes to `si chiama`, while `sei` changes to `è`. Formal `Lei` takes third-person singular verbs.
-
-## Practice routine
-
-Read the original book's pages **5–12** with your own copy, study the related files above, and review the summary on page **13**. The book's page **16** adds cultural context. You need authorized publisher media to complete the listening/video tasks as originally intended.
-
-The full uploaded textbook PDF contains **239 pages**. Its main course and revision section run through p. **144**; additional exercises begin at p. **145**. Exercises are a *separate practice component*, not a reason to skip the initial chapter.
-
-**Limits:** these pages cover the book's lesson topics, but do not reproduce the publisher's exercises, illustrations, glossary in full, or recordings. This public repository contains original lessons and visuals only.
-
-**Next → [Grammar](grammar.md)** · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)
+**Continue:** [Grammar →](grammar.md) · [Vocabulary and examples →](vocabulary.md) · [Exercises →](exercise.md)
