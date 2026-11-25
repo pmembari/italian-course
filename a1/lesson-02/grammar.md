@@ -283,6 +283,55 @@ Build `trentotto` with **trenta + otto**; the last vowel drops before `otto`. Li
 
 </details>
 
+## Memory checkpoints beside the rules
+
+Use this **rule → image → comparison → recall** method throughout the preceding sections.
+
+| Real grammar point | Mental image | Helpful English contrast | One-minute recall |
+|---|---|---|---|
+| `-are` verb endings | A six-step staircase | English changes fewer present-tense endings | `parlo → parli → parla → parliamo → parlate → parlano` |
+| `stare` for how you feel | A face changing expression | `Sto bene` = *I'm well*; don't transfer English *am* literally | Ask `Come stai?`, answer using `sto` |
+| `avere` for age | A birthday badge inside a bag | Italian says *have years*, English says *am years old* | `Ho ventiquattro anni` |
+| `questo/questa` | Two portrait cards | English *this* doesn't show the gender here | `Questo è Marco / Questa è Giulia` |
+| `non` before the verb | A stop sign before a verb | English often adds *don't*, Italian places `non` before the conjugated verb | `Non parlo inglese` |
+| `di / a / in` | Origin pin / home / office | English prepositions cannot be translated one-to-one | `Sono di… / Abito a… / Lavoro in…` |
+
+### Three sentence ladders — English is for explanation only
+
+**1. Profession**
+
+`lavorare` → `lavoro` → `Lavoro in una farmacia.` → `Dove lavori?`
+
+The subject **io** is often implicit in `lavoro`; do not add English auxiliary *do* to the question.
+
+**2. Introduction**
+
+`questa` → `Questa è Giulia.` → `Questa è una mia amica.` → `Come si chiama?`
+
+`Questa` agrees with a feminine singular referent; learn the expression, not the English *this is* word order.
+
+**3. Age**
+
+`ventitré` → `Ho ventitré anni.` → `Quanti anni hai?`
+
+Correct Italian structure uses `avere`. Avoid ❌ `Sono ventitré anni.`
+
+<details><summary>Recall: restore four missing verbs</summary>
+
+1. `Io ___ italiano.` (parlare)
+2. `Noi ___ in un ufficio.` (lavorare)
+3. `Lei ___ bene?` (stare, formal)
+4. `Tu ___ trenta anni.` (avere)
+
+</details>
+
+<details><summary>Reveal answer key</summary>
+
+1 **parlo**; 2 **lavoriamo**; 3 **sta**; 4 **hai**.
+
+</details>
+
+
 ## Learning check before moving on
 
 Can you independently conjugate `parlare` and `essere`, introduce a friend, distinguish `un` from `un'`, make a negative sentence and write your age in Italian? Check with [exercises](exercise.md) rather than assuming mastery from reading.

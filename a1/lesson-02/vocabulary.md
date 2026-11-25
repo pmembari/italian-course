@@ -353,6 +353,172 @@ Choose pictures **1, 4, 7**. For each:
 
 Use quick retrieval after studying, then **next day**, **after three days** and **after a week** (adjust to difficulty). Mix **Lesson 1** and **Lesson 2** prompts so you can distinguish `Mi chiamo ...` from `Che lavoro fai?`, `sono di` from `abito a`, and `sono` from `ho ... anni`.
 
+## Active vocabulary lab: learn through scenes, not isolated definitions
+
+This is an **original extension** to the Lesson 2 glossary. The **Italian words** are aligned with the glossary and source activities; the mnemonics, illustrations and example exchanges are new.
+
+### Scene A — How are you feeling? (book p. 18)
+
+![Four facial expressions for feeling and reaction practice](assets/feelings-recall.svg)
+
+**First look only at the faces.** Say the expressions before opening the answer key. The pictures are cues, not the only possible answer.
+
+| Cue | Italian phrase | English | Make a sentence |
+|---|---|---|---|
+| 1 · smiling | **Sto benissimo!** | I'm very well! | `Oggi sto benissimo.` |
+| 2 · neutral | **Così così.** | So-so. | `Mah, così così.` |
+| 3 · unhappy | **Sto male.** | I'm not well. | `Oggi sto male.` |
+| 4 · concerned friend | **Mi dispiace.** | I'm sorry to hear that. | `Oh, mi dispiace!` |
+
+**English bridge:** English says *I **am** fine*, but Italian often says `**sto** bene`. It does **not** mean `essere` is always wrong whenever English uses *be*. Learn this **fixed conversation pattern**: `Come stai? — Sto bene.`
+
+**Use one phrase four ways:**
+
+1. Recognize the face: `sto male`.
+2. Read a sentence: `Oggi sto male.`
+3. Ask a question: `Come stai oggi?`
+4. Give a meaningful response: `Mi dispiace!`
+
+<details><summary>Recall: Picture 3 and 4 — what would the two people say?</summary>
+
+`Oggi sto male.` — `Oh, mi dispiace!`
+
+</details>
+
+### Scene B — Identity cards: introduce a friend (book pp. 19–20)
+
+![Two fictional identity cards illustrating questo and questa](assets/friend-cards.svg)
+
+**Picture clue:** Point to the first card and say `**Questo è** Paolo.`; point to the second and say `**Questa è** Giulia.`
+
+- `Questo è Paolo, **un** mio amico.`
+- `Questa è Giulia, **una** mia amica.`
+- `Ti presento Paolo. — Piacere!`
+
+**A subtle English contrast:** English uses *this is* for both. Italian selects **questo/questa** according to grammatical gender here. A person's name does not necessarily tell you the right article for every noun—learn gender with the noun.
+
+**Produce your own:** Introduce two **imaginary** people; include a nationality and a language.
+
+<details><summary>One possible two-person introduction</summary>
+
+`Questo è Luca, un amico italiano. Parla italiano.`  
+`Questa è Nadia, una mia amica francese. Parla francese e italiano.`
+
+</details>
+
+### Scene C — Language speech bubbles (book p. 21)
+
+![Three bilingual dialogue panels for language use](assets/language-bubbles.svg)
+
+Study each phrase as a **question + answer pair**, not as a translated word.
+
+| Communication goal | Question | Reply |
+|---|---|---|
+| Ask informally | `Che lingue **parli**?` | `Parlo italiano e inglese.` |
+| Ask politely | `Che lingue **parla**?` | `Parlo italiano.` |
+| Ask about one language | `Parli russo?` | `No, **non** parlo russo.` |
+
+**English grammar bridge:** `Che lingue parli?` means *What languages do you speak?* Italian has **no auxiliary do** in this question. Don't translate as ❌ `Che lingue do parli?`.
+
+**Swap one item:** `Parlo italiano` → `Parlo spagnolo` → `Non parlo russo`. Then ask the three corresponding questions.
+
+### Scene D — Where a person works (book pp. 22–23)
+
+![Nine original picture cues for jobs](assets/professions.svg)
+
+Use **three connections per profession**:
+
+| See | Say the word | Say a complete sentence | Ask a useful question |
+|---|---|---|---|
+| Pharmacist | `farmacista` | `La farmacista lavora in farmacia.` | `Dove lavora?` |
+| Cook | `cuoco / cuoca` | `Il cuoco lavora in un ristorante.` | `Che lavoro fa?` |
+| Shop assistant | `commesso / commessa` | `La commessa lavora in un negozio.` | `Lavora in un negozio?` |
+| Nurse | `infermiere / infermiera` | `L'infermiera lavora in ospedale.` | `È infermiera?` |
+
+**Meaning vs. structure:** `Che lavoro fai?` is a normal Italian way to ask *What do you do for work?* Do not add an English auxiliary `do` to the Italian sentence.
+
+### Scene E — Map-pin memory: three kinds of place (book pp. 21–23)
+
+Remember **three separate questions**:
+
+- 📍 **Origin:** `Di dove sei?` → `Sono **di** Napoli.`
+- 🏠 **Residence:** `Dove abiti?` → `Abito **a** Torino.`
+- 🏢 **Workplace:** `Dove lavori?` → `Lavoro **in** una scuola.`
+
+This is a **useful A1 pattern**, not a complete rule for every Italian preposition. Avoid treating English *from / in / at* as interchangeable one-to-one translations.
+
+**Memory chain:** say all three about an **invented character**, then ask the three matching questions.
+
+### Scene F — Birthday number cards (book pp. 25–26)
+
+![Italian number flashcards](assets/numbers-game.svg)
+
+**Image → number → sentence:** look at card **38**, say `trentotto`, then `Ho trentotto anni.` To avoid inventing real ages, use fictional characters.
+
+**English bridge:** *I'm thirty-eight* → Italian `Ho trentotto anni` literally uses **have**. It is not `Sono trentotto anni`.
+
+<details><summary>Recall: Write 21, 28, 38 and 81 without looking</summary>
+
+`ventuno` · `ventotto` · `trentotto` · `ottantuno`.
+
+</details>
+
+## Shadowing practice: three levels
+
+**Important:** Actual *shadowing* means listening to native Italian audio and reproducing it closely while or just after hearing it. This repository does **not** contain publisher recordings. Without an authorized Italian recording these lines are **read-aloud, delayed repetition and memory retrieval**, not audio shadowing. Do not treat your own pronunciation as verified merely because you repeated it.
+
+### Level 1 — chunks, five repetitions each
+
+Say these five times with natural stress:
+
+- `Come stai?` → `Bene, grazie!`
+- `Questa è una mia amica.`
+- `Parlo italiano ma non parlo russo.`
+- `Faccio la segretaria.`
+- `Ho ventitré anni.`
+
+### Level 2 — connected phrases
+
+> **A:** Ciao, Lara! Come stai?  
+> **B:** Bene, grazie. Ti presento Marco.  
+> **A:** Piacere! Che lingue parli, Marco?  
+> **C:** Parlo italiano e tedesco.  
+> **A:** Che lavoro fai?  
+> **C:** Faccio il cuoco in un ristorante.
+
+Read once for meaning, repeat without looking line by line, then perform both roles from memory.
+
+### Level 3 — substitutions without reading
+
+Change **all three** details: the friend, language and job. Then switch the greeting/question to polite `Lei` and adjust the verb endings.
+
+**Self-check:** Did you say `parla` and `fa` for formal `Lei`? Did you preserve `non` before the verb?
+
+## Vocabulary memory traps: useful cognates vs false friends
+
+| Italian | Useful English comparison | Important clarification |
+|---|---|---|
+| `farmacia` | pharmacy | a **place**; `farmacista` is the **person** |
+| `professione` | profession | correct meaning; learn it in an Italian expression |
+| `università` | university | cognate, but note pronunciation and gender |
+| `libreria` | looks like library | **False friend:** it means **bookshop**; `biblioteca` means library |
+| `camera` | looks like camera | **False friend:** here a **room**; a photo camera is `macchina fotografica` |
+| `fabbrica` | factory | related meaning; different spelling and pronunciation |
+
+**Never use a mnemonic as the translation itself.** Test the Italian word in a whole sentence before memorizing.
+
+## Seven-day independent recall plan
+
+| When | First, without looking | Then verify |
+|---|---|---|
+| **Immediately** | Recall 5 pictured words and say 5 sentences | Check the word list and examples |
+| **Next day** | Rebuild the dialogue from memory | Check verb endings and gender |
+| **After 3 days** | Mix Lesson 1 names/origins with Lesson 2 jobs/languages | Check `essere`, `avere`, `stare` |
+| **After 7 days** | Write a fictional profile and role-play an introduction | Check word choice and questions |
+
+This timing is a **suggested learning aid**, not a requirement or a claim about a learner's progress.
+
+
 ## Book connection
 
 - **pp. 18–20:** social language, greetings, introductions.

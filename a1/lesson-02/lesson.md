@@ -10,6 +10,10 @@
 
 Ask **come stai/sta** and respond naturally; introduce a friend; describe nationalities, languages, jobs and workplaces; read a short social post; ask for someone's age; count 20–100; use regular **-are** verbs, **essere/avere/fare/stare**, articles, negation and question words; complete the book's first combined review.
 
+## Visual memory and shadowing track
+
+Start with **[vocabulary pictures, sentence ladders and the shadowing lab](vocabulary.md#active-vocabulary-lab-learn-through-scenes-not-isolated-definitions)**. Study the **[memory checkpoints in grammar](grammar.md#memory-checkpoints-beside-the-rules)**, then test yourself with **[exercises 66–72](exercise.md#part-k-memory-transfer-no-translations-visible)**. The goal is to go from seeing a word to making a complete Italian sentence without translating word by word. English notes are explicitly comparisons, not Italian grammar rules.
+
 ## How to study this lesson
 
 1. Read each communication situation below and the corresponding **original book page**.

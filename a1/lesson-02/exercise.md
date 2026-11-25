@@ -544,3 +544,98 @@ Create an **original, fictional** class introduction in Italian: write 5–7 lin
 The published book contains listening exercises (including the conversation on p. 25 and number recognition on p. 26) and video questions on pp. 28–29. This repository does **not** include publisher audio or video. Do not invent comprehension scores or original-book answer keys without the authorized media.
 
 [← Lesson](lesson.md) · [Grammar](grammar.md) · [Vocabulary](vocabulary.md)
+
+## Part K — Memory transfer: no translations visible
+
+The following activities reinforce the visual memory scenes in [Vocabulary](vocabulary.md#active-vocabulary-lab-learn-through-scenes-not-isolated-definitions). Try without reading any word list.
+
+### 66. Picture → whole sentence
+
+![Four emotion and reaction cues](assets/feelings-recall.svg)
+
+Choose two faces, state the feeling in Italian, and respond sympathetically to one of them.
+
+<details><summary>Model response</summary>
+
+`Oggi sto benissimo!` · `Oggi sto male. — Oh, mi dispiace!`
+
+</details>
+
+### 67. Picture → two-person introduction
+
+![Two fictional friend identity cards](assets/friend-cards.svg)
+
+Introduce both fictional people, choosing `questo/questa` and `un/una` appropriately.
+
+<details><summary>Model response</summary>
+
+`Questo è Paolo, un mio amico.` · `Questa è Giulia, una mia amica.`
+
+</details>
+
+### 68. Picture → question and answer
+
+![Three speech-bubble exchanges](assets/language-bubbles.svg)
+
+Ask which languages someone speaks, then make one positive and one negative sentence.
+
+<details><summary>Model response</summary>
+
+`Che lingue parli?` — `Parlo italiano, ma non parlo russo.`
+
+</details>
+
+### 69. Translate the *structure*, not individual words
+
+English: **“I'm 24 years old. I work in a pharmacy.”**
+
+<details><summary>Reveal a correct Italian version</summary>
+
+`Ho ventiquattro anni. Lavoro in una farmacia.` Italian uses **avere** for age, not **essere**.
+
+</details>
+
+### 70. Correct the English transfer mistakes
+
+- ❌ `Dove do tu abiti?`
+- ❌ `Io sono trenta anni.`
+- ❌ `Questo è Maria, un'amico.`
+
+<details><summary>Reveal fixes</summary>
+
+- ✅ `Dove abiti?`
+- ✅ `Ho trent'anni.`
+- ✅ `Questa è Maria, un'amica.`
+
+</details>
+
+### 71. Shadowing or read-aloud transformation
+
+Use an available, **authorized native recording** for genuine shadowing, or read the following original exchange aloud and repeat without looking:
+
+> **A:** Ciao! Che lingue parli?  
+> **B:** Parlo francese e italiano.  
+> **A:** Dove lavori?  
+> **B:** Lavoro in un negozio.
+
+Then switch to **formal Lei** and change the language and workplace.
+
+<details><summary>One possible formal answer</summary>
+
+`Buongiorno! Che lingue parla?` — `Parlo tedesco e italiano.` — `Dove lavora?` — `Lavoro in una scuola.`
+
+</details>
+
+### 72. Mixed Lesson 1 + Lesson 2 recall
+
+Without looking up vocabulary, use one fictional character to say:
+
+1. Name: `Mi chiamo...`
+2. Origin: `Sono di...`
+3. Residence: `Abito a...`
+4. Language: `Parlo...`
+5. Job: `Faccio...` or `Lavoro in...`
+6. Age: `Ho ... anni.`
+
+Finish by asking **two questions** about the same details. Check articles, pronouns, and verb forms after speaking—not during the first attempt.
+
