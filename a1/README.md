@@ -2,11 +2,11 @@
 
 [← Course home](../README.md)
 
-The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3). Development is **incremental**: Lezioni 1–5 have four-file modules, while Lezioni 6–10 remain outline/draft material awaiting page-by-page verification.
+The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3). For Lezione 1 we include PDF pp. 3–16 in the coverage: p. 3 contains the contents overview, p. 4 the course introduction, and pp. 5–16 the actual lesson activities. Development is **incremental**: Lezioni 1–5 have four-file modules, while Lezioni 6–10 remain outline/draft material awaiting page-by-page verification.
 
 | Book lesson | Theme | Textbook main pages | Course status |
 |---|---|---|---|
-| 01 | **[Primi contatti](lesson-01/lesson.md)** | 5–16 | Four-file lesson available |
+| 01 | **[Primi contatti](lesson-01/lesson.md)** | 3–16 (activities 5–16) | Four-file lesson available |
 | 02 | [Io e gli altri](lesson-02/lesson.md) | 17–29 | Four-file lesson available |
 | 03 | [Buon appetito!](lesson-03/lesson.md) | 33–46 | Four-file lesson available |
 | 04 | [Tempo libero](lesson-04/lesson.md) | 47–58 | Four-file lesson available |
