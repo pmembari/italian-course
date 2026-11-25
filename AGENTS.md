@@ -15,6 +15,7 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 - Main navigation: `README.md` → `a1/README.md` → `a1/lesson-NN/lesson.md`.
 - Lezioni 1–5 have exactly four files each; Lezioni 6–10 remain drafts. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
 - Migrate and verify only **one lesson at a time**; unmigrated chapters remain draft files.
+- **Lesson 2 covers PDF pp. 17–32**, including **Facciamo il punto 1** on pp. 30–32; include end-of-unit review pages in source maps rather than treating them as unrelated to the lesson.
 - Keep the lesson **self-contained**: book pages, communication goals, grammar, selective vocabulary, short original examples, practice with collapsible solutions, speaking task and next-step link.
 - Lessons not yet fully examined are **drafts**. Do not present them as finished or mastered.
 - Publish small, original summaries and examples; do not copy source pages, publisher exercises, large glossary tables, video/audio or exam papers.

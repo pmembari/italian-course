@@ -7,7 +7,7 @@ The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3)
 | Book lesson | Theme | Textbook main pages | Course status |
 |---|---|---|---|
 | 01 | **[Primi contatti](lesson-01/lesson.md)** | 3–16 (activities 5–16) | Four-file lesson available |
-| 02 | [Io e gli altri](lesson-02/lesson.md) | 17–29 | Four-file lesson available |
+| 02 | **[Io e gli altri](lesson-02/lesson.md)** | **17–32** (unit 17–29; review 30–32) | Expanded and illustrated |
 | 03 | [Buon appetito!](lesson-03/lesson.md) | 33–46 | Four-file lesson available |
 | 04 | [Tempo libero](lesson-04/lesson.md) | 47–58 | Four-file lesson available |
 | 05 | [In albergo](lesson-05/lesson.md) | 59–71 | Four-file lesson available |
