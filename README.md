@@ -17,7 +17,7 @@ The book contains ten lessons. The course is being **refined gradually**, beginn
 | **Nuovo Espresso 1** | Primary lesson sequence and teaching structure: introductory/main course through the review on p. 144; the exercise section begins at p. 145 |
 | **Nuovo Espresso 1 Glossario** | 65-page Italian–Persian vocabulary reference, organized by the textbook lessons |
 
-The uploaded *Nuovo Espresso 1* PDF has **239 pages**. The course/reviews run through p. 144, and the exercise section begins on p. 145. We will cite exact page numbers only after checking them.
+The **newly attached** *Nuovo Espresso 1(2).pdf* has **150 pages**: the main lessons/reviews end on p. 144, and only pp. 145–150 of the separate exercise section are present. Other editions/copies may be longer. We will cite exact page numbers only after checking them.
 
 No other textbooks are in scope for this phase. We will build later lessons only when their pages and corresponding glossary sections have been checked.
 
