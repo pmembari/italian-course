@@ -2,9 +2,16 @@
 
 [← A1 menu](../README.md) · **Conversations & lesson** · [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)
 
-> This is a **conversation-led companion** to *Nuovo Espresso 1* pp. 5–16. It follows **every lesson-one conversation activity in order**, with **new original examples**, source page links and explanation. To study the exact publisher dialogues and illustrations, use the uploaded textbook itself; they are not copied into this public repository.
+> This is a **conversation-led companion** to *Nuovo Espresso 1* PDF pp. **3–16** (contents p. 3, introduction p. 4, lesson activities pp. 5–16). It follows **every lesson-one conversation activity in order**, with **new original examples**, source page links and explanation. To study the exact publisher dialogues and illustrations, use the uploaded textbook itself; they are not copied into this public repository.
 
 ![Two original greeting scenes](assets/greetings.svg)
+
+## Before Lesson 1 — PDF pages 3–4
+
+- **Page 3 — Indice:** gives the course map, including the first lesson's communication and grammar topics and where other lessons begin.
+- **Page 4 — Introduzione:** explains how *Nuovo Espresso 1* is structured and how it combines class activities, extra exercises, culture, video and supplementary materials.
+
+These are **orientation pages**, not additional dialogue exercises. The chapter *Primi contatti* itself starts on **page 5**.
 
 ## Learning goals
 
@@ -244,7 +251,7 @@ Greet people, introduce yourself, ask for names and places of origin, distinguis
 
 | Source | What it covers | Pages |
 |---|---|---|
-| *Nuovo Espresso 1* | First-contact lesson activities, grammar recap, video and culture | **5–16** |
+| *Nuovo Espresso 1* | Contents and introduction followed by first-contact activities, grammar recap, video and culture | **3–16** (orientation **3–4**; lesson **5–16**) |
 | *Nuovo Espresso 1* | Additional exercise section begins | **145**; the supplied PDF contains **150 pages total** |
 | *Nuovo Espresso 1 Glossario* | Lezione 1 word list, classroom instructions, cultural expressions | **1–7** (Lezione 2 begins on p. 7) |
 
