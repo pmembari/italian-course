@@ -17,7 +17,7 @@ The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3)
 | 09 | [Vita quotidiana](09-vita-quotidiana.md) | 117–128 | Draft |
 | 10 | [La famiglia](10-la-famiglia.md) | 129–141 | Draft |
 
-The book includes *Facciamo il punto* reviews after Lezioni 2, 5, 7, and 10 (pp. 30–32, 72–74, 102–104, 142–144). Its exercise section begins on p. 145; the uploaded PDF has **239 pages**.
+The book includes *Facciamo il punto* reviews after Lezioni 2, 5, 7, and 10 (pp. 30–32, 72–74, 102–104, 142–144). Its exercise section begins on p. 145; the **current uploaded PDF ends on p. 150**, so only the first six exercise pages are included.
 
 ### Our source pairing
 
