@@ -4,7 +4,7 @@ This public repository is a **source-led Italian course**, maintained in small v
 
 ## Scope: exactly two sources
 
-1. *Nuovo Espresso 1*: primary A1 textbook, ten lessons; main course/reviews through p. 144, exercises begin at p. 145. Uploaded PDF contains 239 pages; exercise section starts on p. 145.
+1. *Nuovo Espresso 1*: primary A1 textbook, ten lessons; main course/reviews through p. 144, exercises begin at p. 145. The most recent uploaded file, *Nuovo Espresso 1(2).pdf*, has 150 pages; the exercise section starts on p. 145 and is truncated in that upload.
 2. *Nuovo Espresso 1 Glossario*: Italian–Persian glossary, 65 pages, organized by matching lessons.
 
 Do not incorporate any other textbook or invent supplementary page mappings. The glossary is a reference, not permission to reproduce its full contents.
