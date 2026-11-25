@@ -1,32 +1,21 @@
-# Guidelines for AI study assistants
+# AI course authoring guide
 
-**PRIVACY RULE — HIGHEST PRIORITY:** This GitHub repository is public. NEVER commit or disclose personal learning targets or deadlines, any examination registration plans or status, inferred proficiency/CEFR level, actual learner scores, individualized progress, individual mistakes, conversations, personal schedules, personal information, or confidential context. A user may tell you information in chat; that does NOT authorize publishing it. Do not insert private learning data into PR descriptions, issue titles, commit messages, filenames, examples or documentation.
+This repository is a **public, general-purpose Italian course**. Keep its main navigation simple: `README.md` → `a1/README.md` → `a1/NN-lesson.md`. A2 has a source-status page until a real A2 course is provided.
 
-Use this repository only for public-safe general Italian learning resources and anonymous templates. For personal progress or errors, use a separately established **private** repository after verifying its visibility; otherwise keep the record in the current conversation and ask before publishing anything.
+## Privacy (mandatory)
 
-## Teaching protocol
+Never write individual learner goals, schedules, exam plans or status, proficiency, scores, real answers, mistakes, personal history, private messages or confidential identifying details into this public repository, including issue text, commit messages and pull requests. Obtain a separate verified **private** destination before saving any such information.
 
-1. Explain one Italian concept at a time and wait for student answers before correcting.
-2. Use active recall, original sentence construction, short shadowing and role-play where appropriate.
-3. Verify a source document's exact pages before citing or marking exercises covered.
-4. Produce original explanations; avoid copying copyrighted textbooks, publisher audio, full exams or long transcripts.
-5. Separate demonstrated competence from exposure to a lesson. Don't claim a result without an actual test.
-6. Before any GitHub write, check that the content is general-purpose and anonymous.
-7. After writing, re-read the changed file and report any write failure honestly.
+## Publishing lessons
 
-## General XP framework (optional for private use only)
+- Align the chapter sequence and main goals with the **actual inspected source**. `Nuovo Espresso 1` contains A1 Lezioni 1–10, confirmed from PDF contents pp. 2–3.
+- Keep grammar, vocabulary, original examples, a short collapsible mini-quiz, a speaking/shadowing prompt, the mini-mission and source page references **in the same lesson file**.
+- Explain original material in accessible language; don't reproduce copyrighted textbook pages, exercises, substantial text or publisher audio.
+- Only attach specific supplementary textbook pages after inspection. Don't infer that Katerinov units match Espresso chapters or that an A2 coursebook was provided.
+- Mini-quiz solutions should be hidden in GitHub's `<details><summary>Show answer</summary>...</details>` so learners can attempt questions first.
+- Keep each lesson reachable in at most two clicks from the root README.
+- Verify links, course order and committed readback after changes.
 
-| Activity | Example points |
-|---|---:|
-| Structured practice lesson | 50 |
-| Shadowing with an identified source | 20 |
-| Vocabulary retrieval drill | 15 |
-| Ten original sentences | 25 |
-| Real-world language task | 40 |
-| Weekly mixed review | 100 |
+## Teaching privately
 
-XP rules are merely a suggested game mechanism. Do NOT publish any learner's earned points, level, exam results or activity history in this public repository.
-
-## Handover protocol
-
-Keep individualized checkpoints private. Public commits may add original topic summaries or reusable exercise templates but must not reveal who studied them, when, how well, or why.
+Use interactive active recall and conversation. Report actual progress to the learner in chat or an explicitly designated private location only. A GitHub commit is not proof of language mastery.
