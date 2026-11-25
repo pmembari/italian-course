@@ -1,32 +1,30 @@
 # A1 — Nuovo Espresso 1
 
-[← Course home](../README.md) · [A2 overview →](../a2/README.md)
+[← Course home](../README.md)
 
-**Your complete beginner course, arranged in textbook order.** Select a lesson to see its grammar, vocabulary, original examples, self-check exercises, shadowing prompt, challenge and textbook references **on one page**. The sequence below is transcribed from the table of contents of the attached *Nuovo Espresso 1* (PDF pages 2–3).
+The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3). Development is **incremental**: start with the first lesson; later files are outline/draft material awaiting page-by-page verification against the textbook and 65-page glossary.
 
-| Lesson | Theme | What you practise |
-|---|---|---|
-| 01 | [Primi contatti](01-primi-contatti.md) | salutare e congedarsi; chiedere il nome e presentarsi |
-| 02 | [Io e gli altri](02-io-e-gli-altri.md) | iniziare una conversazione; presentare altre persone |
-| 03 | [Buon appetito!](03-buon-appetito.md) | ordinare al bar e al ristorante; chiedere in modo cortese |
-| 04 | [Tempo libero](04-tempo-libero.md) | parlare del tempo libero; descrivere frequenza e preferenze |
-| 05 | [In albergo](05-in-albergo.md) | prenotare una camera; chiedere prezzo e servizi |
-| 06 | [In giro per l'Italia](06-in-giro-per-litalia.md) | descrivere un luogo e un percorso; chiedere indicazioni |
-| 07 | [Andiamo in vacanza!](07-andiamo-in-vacanza.md) | raccontare eventi passati; parlare delle vacanze |
-| 08 | [Sapori d'Italia](08-sapori-ditalia.md) | fare la spesa; parlare di prodotti e quantità |
-| 09 | [Vita quotidiana](09-vita-quotidiana.md) | parlare degli orari di una giornata; descrivere abitudini e frequenza |
-| 10 | [La famiglia](10-la-famiglia.md) | parlare della famiglia; descrivere una fotografia |
+| Book lesson | Theme | Textbook main pages | Course status |
+|---|---|---|---|
+| 01 | **[Primi contatti](01-primi-contatti.md)** | 5–16 | **First focus — source checked** |
+| 02 | [Io e gli altri](02-io-e-gli-altri.md) | 17–29 | Draft |
+| 03 | [Buon appetito!](03-buon-appetito.md) | 33–46 | Draft |
+| 04 | [Tempo libero](04-tempo-libero.md) | 47–58 | Draft |
+| 05 | [In albergo](05-in-albergo.md) | 59–71 | Draft |
+| 06 | [In giro per l'Italia](06-in-giro-per-litalia.md) | 75–88 | Draft |
+| 07 | [Andiamo in vacanza!](07-andiamo-in-vacanza.md) | 89–101 | Draft |
+| 08 | [Sapori d'Italia](08-sapori-ditalia.md) | 106–116 | Draft |
+| 09 | [Vita quotidiana](09-vita-quotidiana.md) | 117–128 | Draft |
+| 10 | [La famiglia](10-la-famiglia.md) | 129–141 | Draft |
 
-## Checkpoints and practice (textbook references)
+The book includes *Facciamo il punto* reviews after Lezioni 2, 5, 7, and 10 (pp. 30–32, 72–74, 102–104, 142–144). Its exercise section begins on p. 145; the uploaded copy has 150 pages in total and is **not the complete exercises section**.
 
-The book includes group review checkpoints **Facciamo il punto** after lessons 2, 5, 7 and 10 (printed pages 30, 72, 102, 142). Its separate exercise section begins at the lesson-specific pages linked inside each lesson.
+### Our source pairing
 
-## How to use this course
+- **Book:** content and activities in `Nuovo Espresso 1`.
+- **Glossary:** matching Lezione vocabulary in `Nuovo Espresso 1 Glossario` (65 pages, Italian–Persian).
+- **One lesson page:** verified references, grammar, key vocabulary, original examples, interactive self-check and practice.
 
-1. Open a lesson from the list above.
-2. Learn the words and grammar together and practise producing original sentences.
-3. Answer the built-in mini-quiz; expand **Show answer** only after trying.
-4. Complete the shadowing / speaking mission and return to the menu.
-5. Save individual scores, mistakes and review dates **privately**, not in this public repo.
+No other textbooks are being incorporated at this stage. **Draft** means an early overview, not a fully verified or completed lesson.
 
-**Scope:** This is an A1 textbook-based sequence. It does **not** claim that finishing all ten lessons alone guarantees a CEFR level or exam result. The examples and exercises here are original; use legitimately obtained copies of the books for publisher exercises.
+[→ Start with Lezione 1](01-primi-contatti.md)
