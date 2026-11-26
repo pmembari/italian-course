@@ -331,6 +331,6 @@ Al lago; ha preso una barca e ha fatto delle fotografie; perché ha piovuto; per
 
 The source's six vacation photos and advertising blurbs **pp. 90–91**, emails **p. 92**, Bingo and comic **p. 94**, Tuscany itinerary and weather cartoons **p. 97**, weather forecast map **p. 98**, video stills **pp. 100–101** and review game **pp. 102–104** are used as **study prompts in your lawful copy**.
 
-Do not upload publisher photos, recorded audio or long exercise text into a public repository without redistribution rights. All conversations and extra exercises here are original.
+**Additional published-book practice:** In the 239-page source scan, **Esercizi 7 begins on PDF p. 180**. Use the publisher exercises directly in your lawful copy, alongside the [original GitHub workbook](exercise.md). Listening tasks require their recordings. Do not upload publisher photos, recorded audio or long exercise text into a public repository without redistribution rights. All conversations and extra exercises here are original.
 
 [← A1 menu](../README.md) · [Grammar →](grammar.md) · [Vocabulary →](vocabulary.md) · [Exercises →](exercise.md) · [Lesson 8 →](../08-sapori-ditalia.md)

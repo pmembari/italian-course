@@ -91,3 +91,16 @@ Individual photos appear at **54 px width** next to the Italian word. These are 
 | beach | Jackhynes | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [A Manual Antonio beach panorama.jpg](https://commons.wikimedia.org/wiki/File:A_Manual_Antonio_beach_panorama.jpg) |
 
 **Note:** License information is linked to each source file; the file page is the final reference if metadata changes. The course does not alter the photos; only their display width is set in Markdown HTML.
+
+
+## Additional photos used in Lessons 6 and 7
+
+The following Commons images are newly referenced by the Lesson 6/7 source-photo comparisons and vocabulary tables. They are externally hosted; only their presentation size is changed, not the underlying files.
+
+| Subject | Photographer | License | Original |
+|---|---|---|---|
+| Ponte Vecchio, Firenze | D. Gayo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Ponte Vecchio, Florence, Italy.jpg](https://commons.wikimedia.org/wiki/File:Ponte_Vecchio,_Florence,_Italy.jpg) |
+| Two towers, Bologna | Photograph by Mike Peel (www.mikepeel.net) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Two towers in Bologna.jpg](https://commons.wikimedia.org/wiki/File:Two_towers_in_Bologna.jpg) |
+| Duomo di Firenze | George M. Groutas | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Florence, Duomo di Firenze.jpg](https://commons.wikimedia.org/wiki/File:Florence,_Duomo_di_Firenze.jpg) |
+
+Other Lesson 6/7 thumbnails reuse photographs already credited in earlier sections of this file (clock, restaurant, reception, cycling, pool, calendar, beach, reading and food). A generic beach scene should **not** be represented as a specifically Italian location when its source shows another country.

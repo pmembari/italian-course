@@ -8,7 +8,7 @@ A beginner-friendly course organized **one textbook lesson at a time**. Each tex
 
 **[Lezione 1 — Primi contatti (first focus)](a1/lesson-01/lesson.md)**
 
-The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. Lessons 1–5 now have four-file modules. Lessons 6–10 remain early drafts awaiting source-led development.
+The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. Lessons 1–7 now have four-file modules. Lessons 8–10 remain early drafts awaiting source-led development.
 
 ## Our two sources
 
@@ -17,7 +17,7 @@ The book contains ten lessons. The course is being **refined gradually**, beginn
 | **Nuovo Espresso 1** | Primary lesson sequence and teaching structure: introductory/main course through the review on p. 144; the exercise section begins at p. 145 |
 | **Nuovo Espresso 1 Glossario** | 65-page Italian–Persian vocabulary reference, organized by the textbook lessons |
 
-The **newly attached** *Nuovo Espresso 1(2).pdf* has **150 pages**: the main lessons/reviews end on p. 144, and only pp. 145–150 of the separate exercise section are present. Other editions/copies may be longer. We will cite exact page numbers only after checking them.
+**Source files differ in length:** the selected *Nuovo_Espresso_1.pdf* has **239 PDF pages**, including the chapter exercises. The alternate uploaded *Nuovo_Espresso_1(2).pdf* has **150 pages** and cuts off early in the exercise section. Chapter pages are verified against the 239-page file; the shorter scan retains the main lesson material through p. 144.
 
 No other textbooks are in scope for this phase. We will build later lessons only when their pages and corresponding glossary sections have been checked.
 
@@ -32,7 +32,7 @@ a1/
     └── exercise.md     # self-check and speaking tasks
 ```
 
-We develop chapters from the two supplied PDFs; Lezioni 1–5 have four-file folders, while Lezioni 6–10 remain drafts.
+We develop chapters from the two supplied PDFs; Lezioni 1–7 have four-file folders, while Lezioni 8–10 remain drafts.
 
 ## How to use each lesson
 

@@ -303,6 +303,6 @@ Accanto alla posta; dei musei interessanti e delle chiese antiche; dritto e poi 
 
 The textbook's photos on **pp. 76–78**, street illustrations/maps on **pp. 79–83**, clock and business-hour images on **p. 84**, video stills **pp. 86–87**, and streetscape photos **p. 88** are used as **prompts in your own lawful copy**.
 
-Do not upload publisher photos, recorded audio or long exercise text into a public repository without redistribution rights. All conversations and extra exercises here are original.
+**Additional published-book practice:** In the 239-page source scan, **Esercizi 6 begins on PDF p. 174**. Work through that original exercise section in your lawful book copy, then complete the [original GitHub exercise workbook](exercise.md). The book's printed listening exercises require its audio. Do not upload publisher photos, recorded audio or long exercise text into a public repository without redistribution rights. All conversations and extra exercises here are original.
 
 [← A1 menu](../README.md) · [Grammar →](grammar.md) · [Vocabulary →](vocabulary.md) · [Exercises →](exercise.md) · [Next lesson →](../lesson-07/lesson.md)

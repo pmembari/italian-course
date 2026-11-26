@@ -4,7 +4,7 @@ This public repository is a **source-led Italian course**, maintained in small v
 
 ## Scope: exactly two sources
 
-1. *Nuovo Espresso 1*: primary A1 textbook, ten lessons; main course/reviews through p. 144, exercises begin at p. 145. The most recent uploaded file, *Nuovo Espresso 1(2).pdf*, has 150 pages; the exercise section starts on p. 145 and is truncated in that upload.
+1. *Nuovo Espresso 1*: primary A1 textbook, ten lessons; main course/reviews through p. 144, exercises begin at p. 145. The selected source **Nuovo_Espresso_1.pdf** has **239 pages**; its exercise section begins on p. 145. An alternate scan named *Nuovo_Espresso_1(2).pdf* has **150 pages** and is truncated during the exercise section.
 2. *Nuovo Espresso 1 Glossario*: Italian–Persian glossary, 65 pages, organized by matching lessons.
 
 Do not incorporate any other textbook or invent supplementary page mappings. The glossary is a reference, not permission to reproduce its full contents.
@@ -13,7 +13,7 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 
 - Edit **one lesson at a time**. Inspect its actual textbook and glossary pages before adding claims or detailed source references.
 - Main navigation: `README.md` → `a1/README.md` → `a1/lesson-NN/lesson.md`.
-- Lezioni 1–5 have exactly four files each; Lezioni 6–10 remain drafts. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
+- Lezioni 1–7 have exactly four files each; Lezioni 8–10 remain drafts. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
 - Migrate and verify only **one lesson at a time**; unmigrated chapters remain draft files.
 - **Lesson 2 covers PDF pp. 17–32**, including **Facciamo il punto 1** on pp. 30–32; include end-of-unit review pages in source maps rather than treating them as unrelated to the lesson.
 - Keep the lesson **self-contained**: book pages, communication goals, grammar, selective vocabulary, short original examples, practice with collapsible solutions, speaking task and next-step link.
@@ -31,6 +31,12 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 - Lesson 4 requested PDF pp. **47–59**; **Tempo libero** itself runs pp. **47–58**, and p. **59** opens Lesson 5.
 - Lesson 5 requested PDF pp. **59–75**; **In albergo** itself runs pp. **59–71**, **Facciamo il punto 2** is on pp. **72–74**, and p. **75** opens Lesson 6.
 - Keep review pages visibly mapped and don't confuse them with a new chapter.
+
+## Lesson 6 and 7 boundaries
+
+- Lesson 6 requested pages **75–89**: the unit is **75–88** and p. **89** opens Lesson 7. Supplementary **Esercizi 6** begins on p. **174** in the longer scan.
+- Lesson 7 requested pages **89–105**: the unit is **89–101**, **Facciamo il punto 3** is **102–104**, and p. **105** opens Lesson 8. Supplementary **Esercizi 7** begins on p. **180**.
+- Base picture-referencing practice on the actual source pictures, but don't redistribute publisher artwork in this public repo. Use verified freely reusable Commons photographs plus credits for independently displayed images.
 
 ## Memory and recall teaching standard
 
