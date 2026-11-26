@@ -77,6 +77,10 @@ We will work **incrementally**, not generate a whole course at once:
 - **Then:** continue improving Lezioni 2–5 and move to Lezione 6 in book order.
 - **Later:** revisit the separate exercise pages and checkpoints where available.
 
+## Photographs
+
+A1 Lessons 1–5 use real-world photos from Wikimedia Commons instead of abstract SVG vocabulary cards. [Photo credits, original files and license details](a1/PHOTO_CREDITS.md). The book's copyrighted illustrations remain in the original textbook.
+
 ## Privacy and copyright
 
 **This repository is public.** Publish only generic teaching materials; never commit an individual's study dates, goals, exam plans, performance, mistakes, conversations or identifiers. Keep personal notes in a separate private location.
