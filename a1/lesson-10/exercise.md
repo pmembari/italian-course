@@ -425,7 +425,7 @@ Try the sentence from memory, then reveal the answer. Where a task uses a book p
 
 ## Part E — Practice directly with the book's actual pictures and readings
 
-**52. Book p. 130 — five family news photos.** Point to each of the five photographs. Identify the visible relationship only if supported by the printed caption/news snippet; otherwise make a fictional caption. Match the source snippets in your book.
+**52.** **Book p. 130 — five family news photos.** Point to each of the five photographs. Identify the visible relationship only if supported by the printed caption/news snippet; otherwise make a fictional caption. Match the source snippets in your book.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -433,7 +433,7 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
-**53. Book p. 131 — family tree.** Using the actual genealogy diagram, locate grandparent, parent, aunt/uncle, sibling and cousin connections. Ask five Italian relationship questions.
+**53.** **Book p. 131 — family tree.** Using the actual genealogy diagram, locate grandparent, parent, aunt/uncle, sibling and cousin connections. Ask five Italian relationship questions.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -441,7 +441,7 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
-**54. Book p. 131 — children in costume.** Write two *fictional* captions from the two pictures and connect one with `miei cugini`.
+**54.** **Book p. 131 — children in costume.** Write two *fictional* captions from the two pictures and connect one with `miei cugini`.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -449,7 +449,7 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
-**55. Book p. 132 — adults with parents.** Read the actual source statements. Discuss one reason someone may live with their parents; do not generalize from old statistics.
+**55.** **Book p. 132 — adults with parents.** Read the actual source statements. Discuss one reason someone may live with their parents; do not generalize from old statistics.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -457,7 +457,7 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
-**56. Book p. 133 — possessive grammar table.** Before reading the answers, reconstruct all four forms of `mio`: singular masculine/feminine and plural masculine/feminine.
+**56.** **Book p. 133 — possessive grammar table.** Before reading the answers, reconstruct all four forms of `mio`: singular masculine/feminine and plural masculine/feminine.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -465,7 +465,7 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
-**57. Book p. 133 — comparative silhouettes.** Describe who is taller, younger, oldest or youngest from the book's silhouette scene. Use `più ... di` and `il/la più`.
+**57.** **Book p. 133 — comparative silhouettes.** Describe who is taller, younger, oldest or youngest from the book's silhouette scene. Use `più ... di` and `il/la più`.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -473,7 +473,7 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
-**58. Book p. 134 — wedding email.** Read the *actual email* and underline family terms, possessives, marriage vocabulary and any mention of the relatives.
+**58.** **Book p. 134 — wedding email.** Read the *actual email* and underline family terms, possessives, marriage vocabulary and any mention of the relatives.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -481,7 +481,7 @@ Write a list of at least five source vocabulary terms; check against [Vocabulary
 
 </details>
 
-**59. Book p. 135 — coloured possessive circles.** Cover the word circles and say what each possessive means. Write sentences using `mio`, `nostra`, `suoi`, `loro`.
+**59.** **Book p. 135 — coloured possessive circles.** Cover the word circles and say what each possessive means. Write sentences using `mio`, `nostra`, `suoi`, `loro`.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -489,7 +489,7 @@ Write a list of at least five source vocabulary terms; check against [Vocabulary
 
 </details>
 
-**60. Book p. 136 — physical descriptions.** Make two new descriptions from the textbook portrait/photo prompts. Include age or appearance and family relationship.
+**60.** **Book p. 136 — physical descriptions.** Make two new descriptions from the textbook portrait/photo prompts. Include age or appearance and family relationship.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -497,7 +497,7 @@ Write a list of at least five source vocabulary terms; check against [Vocabulary
 
 </details>
 
-**61. Book p. 137 — living arrangements.** Read the source figures and create two sentences that compare people living independently or with parents. Clearly indicate that the figures are **from the textbook**, not current data.
+**61.** **Book p. 137 — living arrangements.** Read the source figures and create two sentences that compare people living independently or with parents. Clearly indicate that the figures are **from the textbook**, not current data.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -505,7 +505,7 @@ Write a list of at least five source vocabulary terms; check against [Vocabulary
 
 </details>
 
-**62. Book p. 138 — opinion questions.** Choose two printed questions and answer using a fictional family or hypothetical situations. Use `secondo me` and `dipende`.
+**62.** **Book p. 138 — opinion questions.** Choose two printed questions and answer using a fictional family or hypothetical situations. Use `secondo me` and `dipende`.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -513,7 +513,7 @@ Write a list of at least five source vocabulary terms; check against [Vocabulary
 
 </details>
 
-**63. Book p. 141 — Italian gestures.** Look at all six images and try to match gestures to their descriptions. Use `Che cosa significa questo gesto?` as a conversation opening.
+**63.** **Book p. 141 — Italian gestures.** Look at all six images and try to match gestures to their descriptions. Use `Che cosa significa questo gesto?` as a conversation opening.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -521,7 +521,7 @@ Meanings depend on the book's actual captions, and gestures vary by context.
 
 </details>
 
-**64. Book pp. 142–143 — final board game.** Choose five spaces from the *actual* board and turn them into one-minute spoken challenges. Mix food, daily routine, family and travel from Lessons 1–10.
+**64.** **Book pp. 142–143 — final board game.** Choose five spaces from the *actual* board and turn them into one-minute spoken challenges. Mix food, daily routine, family and travel from Lessons 1–10.
 
 <details><summary>Model answer or checking rule</summary>
 
@@ -529,7 +529,7 @@ Meanings depend on the book's actual captions, and gestures vary by context.
 
 </details>
 
-**65. Book p. 144 — Bilancio and project.** Complete the book's A1 self-check. For the video project, write a fictional 6-line script with a narrator and two family characters; avoid personal photos.
+**65.** **Book p. 144 — Bilancio and project.** Complete the book's A1 self-check. For the video project, write a fictional 6-line script with a narrator and two family characters; avoid personal photos.
 
 <details><summary>Model answer or checking rule</summary>
 
