@@ -6,7 +6,9 @@
 
 ## 1. Formal and informal Italian: `tu` and `Lei`
 
-![Informal and formal greetings](assets/greetings.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 | Setting | Greeting | Name question | Origin question |
 |---|---|---|---|
@@ -100,7 +102,8 @@ The greeting *buongiorno* is common during the day; *buona sera* in the evening.
 
 The alphabet appears on textbook p. 8; pronunciation and spelling activities appear on pp. 8–9.
 
-![Italian sound patterns](assets/pronunciation.svg)
+**Sound or number chart:** Follow the printed spelling/number examples below; a photograph would not demonstrate this rule accurately.
+
 
 | Written pattern | Sound (approximate) | Example |
 |---|---|---|
@@ -137,7 +140,9 @@ Textbook p. **16**, the *Caffè culturale* page, presents greetings and farewell
 
 These **memory techniques are extra teaching aids**, not rules printed in the textbook. Learn the actual Italian pattern first, then use the comparison to recall it.
 
-![Original visual memory map for Lezione 1](assets/memory-map.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 ### 1. Picture two doors: `tu` and `Lei`
 

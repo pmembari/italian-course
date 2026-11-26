@@ -132,13 +132,17 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 
 ## Picture-based profession quiz
 
-![Nine originally drawn profession cards](assets/professions.svg)
+| Photo 1 | Photo 2 | Photo 3 | Photo 4 |
+|---|---|---|---|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
 
-Match picture **1–9** to each profession, in this mixed order: **infermiere, giornalista, commesso, insegnante, operaio, medico, cuoco, farmacista, impiegato**.
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
+
+Identify the professions in real photographs **1–3**; photo **4** shows a related workplace, not a specific person's job.
 
 <details><summary>Reveal the matching key</summary>
 
-1 **cuoco**, 2 **medico**, 3 **insegnante**, 4 **farmacista**, 5 **commesso**, 6 **operaio**, 7 **giornalista**, 8 **impiegato**, 9 **infermiere**.
+1 **cuoco**, 2 **medico**, 3 **insegnante**, 4 **farmacia** (workplace).
 
 </details>
 
@@ -146,7 +150,8 @@ Next, pick five pictures and write a complete sentence of the form `Lavora in ..
 
 ## Visual numbers game
 
-![Original Italian number flashcards](assets/numbers-game.svg)
+**Sound or number chart:** Follow the printed spelling/number examples below; a photograph would not demonstrate this rule accurately.
+
 
 Cover the written words and **say 21, 38, 45, 67 and 100** aloud. Then write 22, 31, 48, 56 and 99 in Italian. The related grammar is in [Grammar §8](grammar.md#8-numbers-from-20-to-100-and-ages).
 
@@ -247,7 +252,9 @@ Questions: Where does Michela live? Where does she work? Which language does she
 
 ## Remember the vocabulary: scene → chunk → sentence
 
-![Original illustrated Lesson 2 memory map](assets/memory-map.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 Use this alongside the [profession picture cards](#picture-based-profession-quiz) and [number flashcards](#visual-numbers-game). **Visual cues are memory aids, not literal translations or universal grammar rules.**
 
@@ -314,9 +321,13 @@ Retell the exchange with **formal Lei** and a different job. Say it without read
 
 ### Picture practice: don't stop at naming
 
-![Nine profession pictures for active production](assets/professions.svg)
+| Photo 1 | Photo 2 | Photo 3 | Photo 4 |
+|---|---|---|---|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
 
-Choose pictures **1, 4, 7**. For each:
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
+
+Choose photos **1, 2, 3**. For each:
 
 1. Say the profession in Italian.
 2. Say where that person works.
@@ -326,8 +337,8 @@ Choose pictures **1, 4, 7**. For each:
 <details><summary>Reveal examples</summary>
 
 **1:** `È un cuoco. Lavora in un ristorante. Che lavoro fa? Fa il cuoco.`  
-**4:** `È una farmacista. Lavora in farmacia. Dove lavora? In farmacia.`  
-**7:** `È una giornalista. Scrive notizie. Che lavoro fa? Fa la giornalista.`
+**2:** `È un medico. Lavora in ospedale. Dove lavora? In ospedale.`  
+**3:** `È un'insegnante. Lavora a scuola. Che lavoro fa? Fa l'insegnante.`
 
 </details>
 
@@ -359,16 +370,20 @@ This is an **original extension** to the Lesson 2 glossary. The **Italian words*
 
 ### Scene A — How are you feeling? (book p. 18)
 
-![Four facial expressions for feeling and reaction practice](assets/feelings-recall.svg)
+| Photo 1 | Photo 2 |
+|---|---|
+|![Photo 1: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 2: sad](https://commons.wikimedia.org/wiki/Special:FilePath/Young%20man%20experiencing%20immense%20sadness.jpg?width=500)|
 
-**First look only at the faces.** Say the expressions before opening the answer key. The pictures are cues, not the only possible answer.
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
+
+**Look at the two real photographs.** Say the expressions before opening the answer key. The pictures are cues, not the only possible answer.
 
 | Cue | Italian phrase | English | Make a sentence |
 |---|---|---|---|
 | 1 · smiling | **Sto benissimo!** | I'm very well! | `Oggi sto benissimo.` |
 | 2 · neutral | **Così così.** | So-so. | `Mah, così così.` |
-| 3 · unhappy | **Sto male.** | I'm not well. | `Oggi sto male.` |
-| 4 · concerned friend | **Mi dispiace.** | I'm sorry to hear that. | `Oh, mi dispiace!` |
+| 2 · unhappy | **Sto male.** | I'm not well. | `Oggi sto male.` |
+| A concerned friend's response (not photographed) | **Mi dispiace.** | I'm sorry to hear that. | `Oh, mi dispiace!` |
 
 **English bridge:** English says *I **am** fine*, but Italian often says `**sto** bene`. It does **not** mean `essere` is always wrong whenever English uses *be*. Learn this **fixed conversation pattern**: `Come stai? — Sto bene.`
 
@@ -379,7 +394,7 @@ This is an **original extension** to the Lesson 2 glossary. The **Italian words*
 3. Ask a question: `Come stai oggi?`
 4. Give a meaningful response: `Mi dispiace!`
 
-<details><summary>Recall: Picture 3 and 4 — what would the two people say?</summary>
+<details><summary>Recall: Photo 2 shows sadness: what could the person say and what could a friend reply?</summary>
 
 `Oggi sto male.` — `Oh, mi dispiace!`
 
@@ -387,9 +402,11 @@ This is an **original extension** to the Lesson 2 glossary. The **Italian words*
 
 ### Scene B — Identity cards: introduce a friend (book pp. 19–20)
 
-![Two fictional identity cards illustrating questo and questa](assets/friend-cards.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
 
-**Picture clue:** Point to the first card and say `**Questo è** Paolo.`; point to the second and say `**Questa è** Giulia.`
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+**Role-play clue:** The photo shows real people greeting, not fictional Paolo or Giulia. Invent two friends and introduce them: `Questo è Paolo` / `Questa è Giulia`.
 
 - `Questo è Paolo, **un** mio amico.`
 - `Questa è Giulia, **una** mia amica.`
@@ -408,7 +425,9 @@ This is an **original extension** to the Lesson 2 glossary. The **Italian words*
 
 ### Scene C — Language speech bubbles (book p. 21)
 
-![Three bilingual dialogue panels for language use](assets/language-bubbles.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 Study each phrase as a **question + answer pair**, not as a translated word.
 
@@ -424,7 +443,11 @@ Study each phrase as a **question + answer pair**, not as a translated word.
 
 ### Scene D — Where a person works (book pp. 22–23)
 
-![Nine original picture cues for jobs](assets/professions.svg)
+| Photo 1 | Photo 2 | Photo 3 | Photo 4 |
+|---|---|---|---|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
 
 Use **three connections per profession**:
 
@@ -451,9 +474,10 @@ This is a **useful A1 pattern**, not a complete rule for every Italian prepositi
 
 ### Scene F — Birthday number cards (book pp. 25–26)
 
-![Italian number flashcards](assets/numbers-game.svg)
+**Sound or number chart:** Follow the printed spelling/number examples below; a photograph would not demonstrate this rule accurately.
 
-**Image → number → sentence:** look at card **38**, say `trentotto`, then `Ho trentotto anni.` To avoid inventing real ages, use fictional characters.
+
+**Number → sentence:** from the printed number table: `38` → `trentotto` → `Ho trentotto anni.` To avoid inventing real ages, use fictional characters.
 
 **English bridge:** *I'm thirty-eight* → Italian `Ho trentotto anni` literally uses **have**. It is not `Sono trentotto anni`.
 

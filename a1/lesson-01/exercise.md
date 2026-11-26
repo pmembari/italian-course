@@ -67,7 +67,8 @@ Complete the sentences, then expand the solution.
 
 ## Part C — Spelling and numbers
 
-![Original visual guide to C/G sound patterns](assets/pronunciation.svg)
+**Sound or number chart:** Follow the printed spelling/number examples below; a photograph would not demonstrate this rule accurately.
+
 
 **20.** Which word has the soft C sound: `cinema` or `chitarra`?
 
@@ -95,15 +96,19 @@ Complete the sentences, then expand the solution.
 
 ## Part D — Situations and dialogues
 
-![Six pictures for vocabulary matching](assets/vocabulary-scenes.svg)
+| Photo 1 | Photo 2 | Photo 3 |
+|---|---|---|
+|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: phone](https://commons.wikimedia.org/wiki/Special:FilePath/Celullar%20or%20mobile%20phone.jpg?width=500)|![Photo 3: breakfast](https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=500)|
 
-**26. Visual matching.** Picture 1 shows an introduction; picture 3 shows which object? Name it in Italian.
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
+
+**26. Visual matching.** Photo 1 shows a greeting; photo 2 shows which object? Name it in Italian.
 
 <details><summary>Answer</summary>**Un telefono** or **il telefono**.</details>
 
-**27.** Picture 4 shows a letter/envelope. Say `lettera` in a short Italian sentence.
+**27.** Photo 3 shows coffee and a pastry. Write an Italian sentence using `caffè`.
 
-<details><summary>Possible model</summary>**La lettera è qui.** Other grammatically correct answers are welcome.</details>
+<details><summary>Possible model</summary>**Prendo un caffè.** Other grammatically correct answers are welcome.</details>
 
 **28.** Reorder the dialogue turns:
 

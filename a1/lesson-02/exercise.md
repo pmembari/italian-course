@@ -416,13 +416,17 @@
 
 ## Part F — Visual profession matching
 
-![Nine illustrated workplaces and professionals](assets/professions.svg)
+| Photo 1 | Photo 2 | Photo 3 | Photo 4 |
+|---|---|---|---|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
 
-**50.** Match cards 1–9 with this unordered list: `operaio, cuoco, impiegato, farmacista, insegnante, infermiere, giornalista, commesso, medico`.
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
+
+**50.** Name the professions visible in real photos **1–3**, then identify the workplace in photo **4**.
 
 <details><summary>Reveal card key</summary>
 
-1 **cuoco** · 2 **medico** · 3 **insegnante** · 4 **farmacista** · 5 **commesso** · 6 **operaio** · 7 **giornalista** · 8 **impiegato** · 9 **infermiere**.
+1 **cuoco** · 2 **medico** · 3 **insegnante** · 4 **farmacia**.
 
 </details>
 
@@ -470,13 +474,17 @@ These short readings are **original** and follow the source's social-post theme 
 
 ## Part H — Speaking and conversation missions
 
-![Greeting and presentation scene cards](assets/conversation-scenes.svg)
+| Photo 1 | Photo 2 | Photo 3 |
+|---|---|---|
+|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 3: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
 
-**59.** Picture 1: have two friends greet each other, ask how they feel and respond differently.
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
 
-**60.** Picture 2: introduce a fictional male friend and female friend. Use `questo` and `questa`.
+**59.** Photo 1: have two friends greet each other, ask how they feel and respond differently.
 
-**61.** Picture 3: ask a partner which languages they speak. Reply with one positive and one negative sentence.
+**60.** Photo 2: invent two fictional friends and introduce them. Use `questo` and `questa`.
+
+**61.** Photo 3: imagine meeting someone at a workplace and ask which languages they speak. Reply with one positive and one negative sentence.
 
 **62.** Play `Indovina il lavoro`: one person describes a workplace without naming the job; the other guesses.
 
@@ -486,9 +494,10 @@ These short readings are **original** and follow the source's social-post theme 
 
 ## Part I — Number and age game
 
-![Number flashcards](assets/numbers-game.svg)
+**Sound or number chart:** Follow the printed spelling/number examples below; a photograph would not demonstrate this rule accurately.
 
-**65.** Hide the word labels and read the five printed numerals aloud. Then say these original extra numbers: 22, 31, 48, 56, 99.
+
+**65.** Use the printed **number table** in Grammar; cover the words and read 21, 38, 45, 67 and 100 aloud. Then say these original extra numbers: 22, 31, 48, 56, 99.
 
 <details><summary>Reveal answers for 65</summary>
 
@@ -551,9 +560,13 @@ The following activities reinforce the visual memory scenes in [Vocabulary](voca
 
 ### 66. Picture → whole sentence
 
-![Four emotion and reaction cues](assets/feelings-recall.svg)
+| Photo 1 | Photo 2 |
+|---|---|
+|![Photo 1: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 2: sad](https://commons.wikimedia.org/wiki/Special:FilePath/Young%20man%20experiencing%20immense%20sadness.jpg?width=500)|
 
-Choose two faces, state the feeling in Italian, and respond sympathetically to one of them.
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
+
+Choose one of the two photographed faces, suggest a feeling in Italian, and respond sympathetically to one of them.
 
 <details><summary>Model response</summary>
 
@@ -563,9 +576,11 @@ Choose two faces, state the feeling in Italian, and respond sympathetically to o
 
 ### 67. Picture → two-person introduction
 
-![Two fictional friend identity cards](assets/friend-cards.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
 
-Introduce both fictional people, choosing `questo/questa` and `un/una` appropriately.
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+Imagine two fictional people (the real photo does not identify them), choosing `questo/questa` and `un/una` appropriately.
 
 <details><summary>Model response</summary>
 
@@ -575,9 +590,11 @@ Introduce both fictional people, choosing `questo/questa` and `un/una` appropria
 
 ### 68. Picture → question and answer
 
-![Three speech-bubble exchanges](assets/language-bubbles.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
 
-Ask which languages someone speaks, then make one positive and one negative sentence.
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+Use the written examples below to ask which languages someone speaks, then make one positive and one negative sentence.
 
 <details><summary>Model response</summary>
 

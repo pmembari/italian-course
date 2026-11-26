@@ -151,7 +151,8 @@ The book also contrasts **in + country** (`abito in Italia`) with **a + city** (
 
 ## 8. Numbers from 20 to 100 and ages
 
-![Five originally drawn number flashcards](assets/numbers-game.svg)
+**Sound or number chart:** Follow the printed spelling/number examples below; a photograph would not demonstrate this rule accurately.
+
 
 | Number | Italian | Number | Italian |
 |---:|---|---:|---|
@@ -194,7 +195,9 @@ Answer with **complete original sentences**, not isolated vocabulary.
 
 ## Remember it: visual patterns and English comparisons
 
-![Original grammar and memory map for Lesson 2](assets/memory-map.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 These techniques are **extra learning aids**. The grammar rules themselves are in the preceding sections and in the source book's summary on p. 27.
 

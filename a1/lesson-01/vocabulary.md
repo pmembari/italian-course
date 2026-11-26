@@ -6,7 +6,9 @@
 
 **How to learn:** Read one group at a time, cover the translation columns, reconstruct five expressions aloud, then use them in original sentences. The [lesson page](lesson.md) contains the full conversation/activity sequence from the main book.
 
-![Two contrasting greetings](assets/greetings.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 ## Contents
 
@@ -178,20 +180,22 @@
 
 ## Illustrated vocabulary: picture-to-word
 
-![Six original illustrated scene prompts](assets/vocabulary-scenes.svg)
+| Photo 1 | Photo 2 | Photo 3 |
+|---|---|---|
+|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: phone](https://commons.wikimedia.org/wiki/Special:FilePath/Celullar%20or%20mobile%20phone.jpg?width=500)|![Photo 3: breakfast](https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=500)|
 
-Match pictures **1–6** to this unordered word list:
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
+
+Match the three **real photographs (1–3)** to the words below:
 
 - `il telefono` — telephone
-- `la lettera` — letter
 - `fare conoscenza` — getting acquainted
-- `la città` — city
-- `il caffè` — coffee
+- `il caffè / il cornetto` — coffee and pastry
 - `il nome` — name
 
 <details><summary>Reveal picture key</summary>
 
-**1** fare conoscenza; **2** il nome; **3** il telefono; **4** la lettera; **5** la città; **6** il caffè.
+**1** fare conoscenza; **2** il telefono; **3** il caffè e il cornetto.
 
 </details>
 
@@ -199,7 +203,8 @@ Match pictures **1–6** to this unordered word list:
 
 ## Pronunciation picture drill
 
-![C and G letter pronunciation cards](assets/pronunciation.svg)
+**Sound or number chart:** Follow the printed spelling/number examples below; a photograph would not demonstrate this rule accurately.
+
 
 Read these aloud: **cinema**, **chitarra**, **gelato**, **spaghetti**. Explain why C and G sound different. Check the [grammar explanation](grammar.md#5-spelling-and-pronunciation).
 
@@ -297,7 +302,9 @@ Questions:
 
 ## Remember the vocabulary: picture → phrase → sentence → conversation
 
-![Original picture-based recall map for Lezione 1](assets/memory-map.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 **Rule of thumb:** A word becomes usable when you can recognize it, **retrieve it without looking**, and put it into a meaningful Italian sentence. Read the glossary for meaning, but do not stop at translation.
 
@@ -342,7 +349,7 @@ English is a **meaning bridge**, not a word-for-word sentence-building formula. 
 
 ### Picture recall: three passes
 
-Use the [six original illustrated pictures](#illustrated-vocabulary-picture-to-word). On the first pass, **name** the picture. On the second, say **one sentence**. On the third, ask **one question** involving it.
+Use the [six photographic pictures](#illustrated-vocabulary-picture-to-word). On the first pass, **name** the picture. On the second, say **one sentence**. On the third, ask **one question** involving it.
 
 Example, phone picture: `telefono` → `Ho un telefono.` → `Hai un telefono?`
 

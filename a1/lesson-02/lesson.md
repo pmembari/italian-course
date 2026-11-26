@@ -4,7 +4,11 @@
 
 > **Source: `Nuovo_Espresso_1.pdf`, pages 17–32.** Lezione 2 occupies pp. 17–29; pp. 30–32 are **Facciamo il punto 1**, a combined revision of Lessons 1–2. The matching *Glossario* chapter occupies parts of PDF pp. 7–17. All dialogues below are **original exercises**, not the publisher's scripts.
 
-![Three illustrated communication situations](assets/conversation-scenes.svg)
+| Photo 1 | Photo 2 | Photo 3 |
+|---|---|---|
+|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 3: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+
+*Real photographs; see [credits](../PHOTO_CREDITS.md).*
 
 ## Learning goals
 
@@ -18,7 +22,7 @@ Start with **[vocabulary pictures, sentence ladders and the shadowing lab](vocab
 
 1. Read each communication situation below and the corresponding **original book page**.
 2. Learn the connected structures in [Grammar](grammar.md).
-3. Study the themed words and original illustrations in [Vocabulary](vocabulary.md).
+3. Study the themed words and real photographs in [Vocabulary](vocabulary.md).
 4. Do [Exercises](exercise.md), then the book's review game on pp. 30–32.
 
 ## Page-by-page conversation and reading guide

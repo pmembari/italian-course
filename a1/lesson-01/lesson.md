@@ -4,7 +4,9 @@
 
 > This is a **conversation-led companion** to *Nuovo Espresso 1* PDF pp. **3–16** (contents p. 3, introduction p. 4, lesson activities pp. 5–16). It follows **every lesson-one conversation activity in order**, with **new original examples**, source page links and explanation. To study the exact publisher dialogues and illustrations, use the uploaded textbook itself; they are not copied into this public repository.
 
-![Two original greeting scenes](assets/greetings.svg)
+![Real photograph: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 ## Before Lesson 1 — PDF pages 3–4
 
