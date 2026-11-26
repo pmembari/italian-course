@@ -6,7 +6,7 @@
 
 | Photo 1 | Photo 2 | Photo 3 |
 |---|---|---|
-|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 3: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 3: pharmacy staff](https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=500)|
 
 *Real photographs; see [credits](../PHOTO_CREDITS.md).*
 

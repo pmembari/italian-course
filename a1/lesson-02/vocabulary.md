@@ -134,15 +134,15 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 
 | Photo 1 | Photo 2 | Photo 3 | Photo 4 |
 |---|---|---|---|
-|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacist at work](https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=500)|
 
 *Real photographs; see [credits](../PHOTO_CREDITS.md).*
 
-Identify the professions in real photographs **1–3**; photo **4** shows a related workplace, not a specific person's job.
+Identify the professions in real photographs **1–3**; photo **4** shows pharmacy staff at work.
 
 <details><summary>Reveal the matching key</summary>
 
-1 **cuoco**, 2 **medico**, 3 **insegnante**, 4 **farmacia** (workplace).
+1 **cuoco**, 2 **medico**, 3 **insegnante**, 4 **farmacista** (a professional in a pharmacy).
 
 </details>
 
@@ -323,7 +323,7 @@ Retell the exchange with **formal Lei** and a different job. Say it without read
 
 | Photo 1 | Photo 2 | Photo 3 | Photo 4 |
 |---|---|---|---|
-|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacist at work](https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=500)|
 
 *Real photographs; see [credits](../PHOTO_CREDITS.md).*
 
@@ -445,7 +445,7 @@ Study each phrase as a **question + answer pair**, not as a translated word.
 
 | Photo 1 | Photo 2 | Photo 3 | Photo 4 |
 |---|---|---|---|
-|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacist at work](https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=500)|
 
 *Real photographs; see [credits](../PHOTO_CREDITS.md).*
 

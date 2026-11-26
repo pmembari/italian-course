@@ -418,15 +418,15 @@
 
 | Photo 1 | Photo 2 | Photo 3 | Photo 4 |
 |---|---|---|---|
-|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+|![Photo 1: chef](https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=500)|![Photo 2: doctor](https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=500)|![Photo 3: teacher](https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=500)|![Photo 4: pharmacist at work](https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=500)|
 
 *Real photographs; see [credits](../PHOTO_CREDITS.md).*
 
-**50.** Name the professions visible in real photos **1–3**, then identify the workplace in photo **4**.
+**50.** Name the professions visible in real photos **1–3**, then identify the profession or workplace in photo **4**.
 
 <details><summary>Reveal card key</summary>
 
-1 **cuoco** · 2 **medico** · 3 **insegnante** · 4 **farmacia**.
+1 **cuoco** · 2 **medico** · 3 **insegnante** · 4 **farmacista / farmacia**.
 
 </details>
 
@@ -476,7 +476,7 @@ These short readings are **original** and follow the source's social-post theme 
 
 | Photo 1 | Photo 2 | Photo 3 |
 |---|---|---|
-|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 3: pharmacy](https://commons.wikimedia.org/wiki/Special:FilePath/Pharmacy%20Photo.jpg?width=500)|
+|![Photo 1: handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=500)|![Photo 2: smile](https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=500)|![Photo 3: pharmacy staff](https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=500)|
 
 *Real photographs; see [credits](../PHOTO_CREDITS.md).*
 

@@ -27,7 +27,7 @@
 
 1. **This lesson:** original conversations and short readings matching every source activity.
 2. **[Grammar →](grammar.md):** complete source grammar summary, additional verb patterns, memory aids and English comparisons.
-3. **[Vocabulary →](vocabulary.md):** expanded themed Italian–English–Persian words, original illustrations, memory maps, shadowing ladder and active recall.
+3. **[Vocabulary →](vocabulary.md):** expanded themed Italian–English–Persian words, real photographs, memory techniques, shadowing ladder and active recall.
 4. **[Exercises →](exercise.md):** mixed guided practice, reading, visual tests, sentence building, speaking and review answers.
 
 ## Source map: activities, readings and visuals

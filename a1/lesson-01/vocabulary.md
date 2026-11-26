@@ -199,7 +199,7 @@ Match the three **real photographs (1–3)** to the words below:
 
 </details>
 
-**Next:** Make an original sentence about each image. For example, for picture 1: *Due persone si salutano.* For picture 3: *Ho un telefono.*
+**Next:** Make an original sentence about each image. For example, for photo 1: *Due persone si salutano.* For photo 2: *Ho un telefono.*
 
 ## Pronunciation picture drill
 
