@@ -1,5 +1,7 @@
 # Lezione 1 — Vocabulary with examples and visual practice
 
+> **Visual key:** The small emoji beside every Italian vocabulary entry is a **memory cue**, not a literal picture or a grammar rule. Look at it, say the Italian word, and then use the word in an original sentence. Real photographs remain in the picture-practice sections; use the text for exact meaning, pronunciation and gender.
+
 [← Lesson & conversations](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises](exercise.md)
 
 > This page draws from the **Lezione 1 section** of *Nuovo Espresso 1 Glossario* (65-page Italian–Persian PDF), pp. **1–7**, checked against the uploaded source. It offers an expanded **selection**, not a reproduction of the complete glossary. English translations, original examples, and new practice tasks are added for self-study. Some sample sentences deliberately preview later grammar.
@@ -24,158 +26,158 @@
 
 *Glossary pp. 1, 6–7 · book pp. 5–6 and 16*
 
-| Italiano | English | فارسی | Example (original) |
+| Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| ciao | hi / bye (informal) | سلام / خداحافظ | Ciao, Rosa! A domani. |
-| buongiorno | good morning / hello | روز بخیر | Buongiorno, professore. |
-| buona sera | good evening | عصر بخیر | Buona sera, signora. |
-| buona notte | good night | شب بخیر | Buona notte, a domani. |
-| salve | hello (neutral) | سلام | Salve, come sta? |
-| arrivederci | goodbye (polite) | به امید دیدار | Arrivederci, signora. |
-| a presto | see you soon | به زودی می‌بینمت | Ciao, a presto! |
-| a domani | see you tomorrow | تا فردا | Arrivederci, a domani! |
-| buona giornata | have a good day | روز خوبی داشته باشید | Buona giornata, professore. |
-| alla prossima volta | until next time | تا دفعه بعد | A presto, alla prossima volta! |
-| piacere | nice to meet you | خوشبختم | Piacere, sono Luca. |
-| scusi | excuse me (formal) | ببخشید | Scusi, Lei è di Roma? |
+| 👋 ciao | hi / bye (informal) | سلام / خداحافظ | Ciao, Rosa! A domani. |
+| 👋 buongiorno | good morning / hello | روز بخیر | Buongiorno, professore. |
+| 👋 buona sera | good evening | عصر بخیر | Buona sera, signora. |
+| 👋 buona notte | good night | شب بخیر | Buona notte, a domani. |
+| 👋 salve | hello (neutral) | سلام | Salve, come sta? |
+| 👋 arrivederci | goodbye (polite) | به امید دیدار | Arrivederci, signora. |
+| 👋 a presto | see you soon | به زودی می‌بینمت | Ciao, a presto! |
+| 👋 a domani | see you tomorrow | تا فردا | Arrivederci, a domani! |
+| 👋 buona giornata | have a good day | روز خوبی داشته باشید | Buona giornata, professore. |
+| 👋 alla prossima volta | until next time | تا دفعه بعد | A presto, alla prossima volta! |
+| 🙂 piacere | nice to meet you | خوشبختم | Piacere, sono Luca. |
+| 💬 scusi | excuse me (formal) | ببخشید | Scusi, Lei è di Roma? |
 
 ## 2. People, introductions and social language
 
 *Glossary pp. 1–2, 6–7 · book pp. 7–8*
 
-| Italiano | English | فارسی | Example (original) |
+| Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| signore | gentleman / sir | آقا | Il signore si chiama Pietro. |
-| signora | lady / madam | خانم | La signora è italiana. |
-| professore | professor / teacher | استاد | Buongiorno, professore! |
-| persona | person | شخص | Questa persona è di Napoli. |
-| gruppo | group | گروه | Il gruppo è qui. |
-| nome | first name / name | نام | Qual è il tuo nome? |
-| cognome | surname | نام خانوادگی | Il mio cognome è Verdi. |
-| chiamarsi | to be called / named | نامیده شدن | Mi chiamo Anna. |
-| presentarsi | to introduce oneself | خود را معرفی کردن | È il momento di presentarsi. |
-| presentare | to present / introduce | معرفی کردن | Presento una persona. |
-| fare conoscenza | to get acquainted | آشنا شدن | Facciamo conoscenza. |
-| darsi del tu | to use informal you | تو خطاب کردن | Possiamo darci del tu? |
-| darsi del Lei | to use formal you | شما خطاب کردن | In ufficio ci diamo del Lei. |
-| amici | friends | دوستان | I miei amici sono qui. |
-| parente | relative | فامیل | Un mio parente vive in Italia. |
-| abbraccio | hug | بغل | Un abbraccio, a presto! |
-| bacio | kiss | بوسه | Un bacio alla mamma. |
-| salutare | to greet / say goodbye | سلام / خداحافظی کردن | Saluto il professore. |
+| 🙋 signore | gentleman / sir | آقا | Il signore si chiama Pietro. |
+| 🙋 signora | lady / madam | خانم | La signora è italiana. |
+| 👨‍🏫 professore | professor / teacher | استاد | Buongiorno, professore! |
+| 🙋 persona | person | شخص | Questa persona è di Napoli. |
+| 🙋 gruppo | group | گروه | Il gruppo è qui. |
+| 🏷️ nome | first name / name | نام | Qual è il tuo nome? |
+| 🏷️ cognome | surname | نام خانوادگی | Il mio cognome è Verdi. |
+| 🏷️ chiamarsi | to be called / named | نامیده شدن | Mi chiamo Anna. |
+| 🤝 presentarsi | to introduce oneself | خود را معرفی کردن | È il momento di presentarsi. |
+| 🤝 presentare | to present / introduce | معرفی کردن | Presento una persona. |
+| 🤝 fare conoscenza | to get acquainted | آشنا شدن | Facciamo conoscenza. |
+| 💬 darsi del tu | to use informal you | تو خطاب کردن | Possiamo darci del tu? |
+| 💬 darsi del Lei | to use formal you | شما خطاب کردن | In ufficio ci diamo del Lei. |
+| 🤝 amici | friends | دوستان | I miei amici sono qui. |
+| 🫂 parente | relative | فامیل | Un mio parente vive in Italia. |
+| 🤝 abbraccio | hug | بغل | Un abbraccio, a presto! |
+| 🤝 bacio | kiss | بوسه | Un bacio alla mamma. |
+| 👋 salutare | to greet / say goodbye | سلام / خداحافظی کردن | Saluto il professore. |
 
 ## 3. Pronouns, verbs and questions
 
 *Glossary pp. 1–5 · book pp. 5, 7, 10 and 13*
 
-| Italiano | English | فارسی | Example (original) |
+| Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| io | I | من | Io sono Laura. |
-| tu | you (informal) | تو | Tu sei di Roma? |
-| Lei | you (formal) | شما | Lei come si chiama? |
-| essere | to be | بودن | Sono di Milano. |
-| sono | I am / they are | هستم | Sono di Firenze. |
-| sei | you are (informal) | هستی | Sei inglese? |
-| è | he/she/you-formal is | هست | Lei è italiana. |
-| avere | to have | داشتن | Ho un indirizzo. |
-| chiedere | to ask | پرسیدن | Chiedo un nome. |
-| dire | to say | گفتن | Come si dice? |
-| come | how | چطور | Come ti chiami? |
-| quale | which | کدام | Quale parola? |
-| qual è | which/what is | کدام است | Qual è il numero? |
-| paese | country | کشور | Di quale paese sei? |
-| nazionalità | nationality | ملیت | Qual è la nazionalità? |
-| provenienza | origin | زادگاه / اصل | Chiedo la provenienza. |
-| quando | when | وقتی که | Quando arriva Marco? |
-| numero | number | عدد | Il numero è sette. |
+| 🙋 io | I | من | Io sono Laura. |
+| 🙋 tu | you (informal) | تو | Tu sei di Roma? |
+| 🙋 Lei | you (formal) | شما | Lei come si chiama? |
+| 🧑‍💻 essere | to be | بودن | Sono di Milano. |
+| 🧑‍💻 sono | I am / they are | هستم | Sono di Firenze. |
+| 🧑‍💻 sei | you are (informal) | هستی | Sei inglese? |
+| 🧑‍💻 è | he/she/you-formal is | هست | Lei è italiana. |
+| 🧑‍💻 avere | to have | داشتن | Ho un indirizzo. |
+| 💬 chiedere | to ask | پرسیدن | Chiedo un nome. |
+| 💬 dire | to say | گفتن | Come si dice? |
+| 💬 come | how | چطور | Come ti chiami? |
+| 💬 quale | which | کدام | Quale parola? |
+| 💬 qual è | which/what is | کدام است | Qual è il numero? |
+| 📍 paese | country | کشور | Di quale paese sei? |
+| 🌍 nazionalità | nationality | ملیت | Qual è la nazionalità? |
+| 📍 provenienza | origin | زادگاه / اصل | Chiedo la provenienza. |
+| ❓ quando | when | وقتی که | Quando arriva Marco? |
+| 🔢 numero | number | عدد | Il numero è sette. |
 
 ## 4. Countries, languages and nationalities
 
 *Glossary pp. 4–5 · book pp. 10–11*
 
-| Italiano | English | فارسی | Example (original) |
+| Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| italiano / italiana | Italian | ایتالیایی | Marco è italiano; Sara è italiana. |
-| inglese | English | انگلیسی | Luca è inglese. |
-| irlandese | Irish | ایرلندی | Emma è irlandese. |
-| tedesco / tedesca | German | آلمانی | Lena è tedesca. |
-| austriaco / austriaca | Austrian | اتریشی | Franz è austriaco. |
-| svizzero / svizzera | Swiss | سوئیسی | Nina è svizzera. |
-| francese | French | فرانسوی | Marie è francese. |
-| spagnolo / spagnola | Spanish | اسپانیایی | Rosa è spagnola. |
-| portoghese | Portuguese | پرتغالی | Lui è portoghese. |
-| Germania | Germany | آلمان | Berlino è in Germania. |
-| Austria | Austria | اتریش | Vienna è in Austria. |
-| Svizzera | Switzerland | سوئیس | Berna è in Svizzera. |
-| Spagna | Spain | اسپانیا | Madrid è in Spagna. |
-| Francia | France | فرانسه | Parigi è in Francia. |
-| Inghilterra | England | انگلستان | Londra è in Inghilterra. |
-| Irlanda | Ireland | ایرلند | Dublino è in Irlanda. |
-| Portogallo | Portugal | پرتغال | Lisbona è in Portogallo. |
-| città | city | شهر | Roma è una città. |
+| 🌍 italiano / italiana | Italian | ایتالیایی | Marco è italiano; Sara è italiana. |
+| 🧠 inglese | English | انگلیسی | Luca è inglese. |
+| 🌍 irlandese | Irish | ایرلندی | Emma è irlandese. |
+| 🌍 tedesco / tedesca | German | آلمانی | Lena è tedesca. |
+| 🌍 austriaco / austriaca | Austrian | اتریشی | Franz è austriaco. |
+| 🌍 svizzero / svizzera | Swiss | سوئیسی | Nina è svizzera. |
+| 🌍 francese | French | فرانسوی | Marie è francese. |
+| 🌍 spagnolo / spagnola | Spanish | اسپانیایی | Rosa è spagnola. |
+| 🌍 portoghese | Portuguese | پرتغالی | Lui è portoghese. |
+| 🇩🇪 Germania | Germany | آلمان | Berlino è in Germania. |
+| 🇦🇹 Austria | Austria | اتریش | Vienna è in Austria. |
+| 🇨🇭 Svizzera | Switzerland | سوئیس | Berna è in Svizzera. |
+| 🇪🇸 Spagna | Spain | اسپانیا | Madrid è in Spagna. |
+| 🇫🇷 Francia | France | فرانسه | Parigi è in Francia. |
+| 🇬🇧 Inghilterra | England | انگلستان | Londra è in Inghilterra. |
+| 🇮🇪 Irlanda | Ireland | ایرلند | Dublino è in Irlanda. |
+| 🇵🇹 Portogallo | Portugal | پرتغال | Lisbona è in Portogallo. |
+| 📍 città | city | شهر | Roma è una città. |
 
 ## 5. Alphabet, reading and classroom actions
 
 *Glossary pp. 1–6 · book pp. 8–9*
 
-| Italiano | English | فارسی | Example (original) |
+| Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| alfabeto | alphabet | الفبا | L'alfabeto italiano. |
-| lettera | letter | حرف | La lettera C. |
-| scrivere | to write | نوشتن | Scrivo il nome. |
-| leggere | to read | خواندن | Leggo il dialogo. |
-| ascoltare | to listen | گوش دادن | Ascolto e ripeto. |
-| ripetere | to repeat | تکرار کردن | Ripeto la parola. |
-| completare | to complete | کامل کردن | Completo la frase. |
-| dialogo | dialogue | گفتگو | Leggiamo un dialogo. |
-| abbinare | to match | جور کردن | Abbino le parole. |
-| disegno | drawing | نقاشی | Il disegno è semplice. |
-| verificare | to check / verify | بررسی کردن | Verifico la risposta. |
-| ordinare | to order / arrange | مرتب کردن | Ordino le parole. |
-| pronunciare | to pronounce | تلفظ کردن | Pronuncio il nome. |
-| suono | sound | صدا | Il suono è diverso. |
-| ricostruire | to reconstruct | دوباره ساختن | Ricostruisco il dialogo. |
-| frase | sentence | جمله | Scrivo una frase. |
-| studente | student | دانشجو / دانش‌آموز | Lo studente ascolta. |
-| compagno | classmate | هم‌کلاسی | Il compagno ripete. |
-| modello | model | نمونه | Seguo il modello. |
-| esercizio | exercise | تمرین | Faccio un esercizio. |
+| 🔤 alfabeto | alphabet | الفبا | L'alfabeto italiano. |
+| 🔤 lettera | letter | حرف | La lettera C. |
+| ✍️ scrivere | to write | نوشتن | Scrivo il nome. |
+| 📖 leggere | to read | خواندن | Leggo il dialogo. |
+| 🎧 ascoltare | to listen | گوش دادن | Ascolto e ripeto. |
+| 🎧 ripetere | to repeat | تکرار کردن | Ripeto la parola. |
+| ✍️ completare | to complete | کامل کردن | Completo la frase. |
+| 💬 dialogo | dialogue | گفتگو | Leggiamo un dialogo. |
+| ✍️ abbinare | to match | جور کردن | Abbino le parole. |
+| 🎨 disegno | drawing | نقاشی | Il disegno è semplice. |
+| ✍️ verificare | to check / verify | بررسی کردن | Verifico la risposta. |
+| ✍️ ordinare | to order / arrange | مرتب کردن | Ordino le parole. |
+| 🔤 pronunciare | to pronounce | تلفظ کردن | Pronuncio il nome. |
+| 🔤 suono | sound | صدا | Il suono è diverso. |
+| ✍️ ricostruire | to reconstruct | دوباره ساختن | Ricostruisco il dialogo. |
+| 🏷️ frase | sentence | جمله | Scrivo una frase. |
+| 🙋 studente | student | دانشجو / دانش‌آموز | Lo studente ascolta. |
+| 🙋 compagno | classmate | هم‌کلاسی | Il compagno ripete. |
+| 🔤 modello | model | نمونه | Seguo il modello. |
+| ✍️ esercizio | exercise | تمرین | Faccio un esercizio. |
 
 ## 6. Contact details and useful everyday words
 
 *Glossary pp. 4–6 · book pp. 11–12*
 
-| Italiano | English | فارسی | Example (original) |
+| Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| indirizzo | address | آدرس | L'indirizzo è inventato. |
-| cellulare | mobile phone | موبایل | Ho un cellulare. |
-| numero di telefono | phone number | شماره تلفن | Qual è il numero di telefono? |
-| foglio | sheet of paper | برگه | Scrivo su un foglio. |
-| domanda | question | سؤال | Faccio una domanda. |
-| risultato | result | نتیجه | Confronto il risultato. |
-| confrontare | to compare | مقایسه کردن | Confronto due risposte. |
-| conoscere | to know / meet | شناختن | Conosco Anna. |
-| immaginario | imaginary / fictional | خیالی | Uso un nome immaginario. |
-| a sinistra | on the left | سمت چپ | Il numero è a sinistra. |
-| a destra | on the right | سمت راست | Il nome è a destra. |
-| a turno | in turns | به نوبت | Parliamo a turno. |
+| 📍 indirizzo | address | آدرس | L'indirizzo è inventato. |
+| 📱 cellulare | mobile phone | موبایل | Ho un cellulare. |
+| 📱 numero di telefono | phone number | شماره تلفن | Qual è il numero di telefono? |
+| 📄 foglio | sheet of paper | برگه | Scrivo su un foglio. |
+| 💬 domanda | question | سؤال | Faccio una domanda. |
+| 🔢 risultato | result | نتیجه | Confronto il risultato. |
+| ✍️ confrontare | to compare | مقایسه کردن | Confronto due risposte. |
+| 🤝 conoscere | to know / meet | شناختن | Conosco Anna. |
+| 🧩 immaginario | imaginary / fictional | خیالی | Uso un nome immaginario. |
+| 🧭 a sinistra | on the left | سمت چپ | Il numero è a sinistra. |
+| 🧭 a destra | on the right | سمت راست | Il nome è a destra. |
+| 💬 a turno | in turns | به نوبت | Parliamo a turno. |
 
 ## 7. Pronunciation-picture words from book p. 8
 
 *Book p. 8; corresponding glossary entries p. 3*
 
-| Italiano | English | فارسی | Example (original) |
+| Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| caffè | coffee | قهوه | Il caffè è buono. |
-| gatto | cat | گربه | Il gatto è qui. |
-| cinema | cinema | سینما | Il cinema è vicino. |
-| chitarra | guitar | گیتار | Ho una chitarra. |
-| gelato | ice cream | بستنی | Il gelato è buono. |
-| giornale | newspaper | روزنامه | Leggo il giornale. |
-| formaggio | cheese | پنیر | Mi piace il formaggio. |
-| cane | dog | سگ | Il cane è qui. |
-| zucchero | sugar | شکر | Lo zucchero è bianco. |
-| medico | doctor | پزشک | Il medico è italiano. |
+| ☕ caffè | coffee | قهوه | Il caffè è buono. |
+| 🐈 gatto | cat | گربه | Il gatto è qui. |
+| 🎬 cinema | cinema | سینما | Il cinema è vicino. |
+| 🎸 chitarra | guitar | گیتار | Ho una chitarra. |
+| 🍨 gelato | ice cream | بستنی | Il gelato è buono. |
+| 📖 giornale | newspaper | روزنامه | Leggo il giornale. |
+| 🧀 formaggio | cheese | پنیر | Mi piace il formaggio. |
+| 🐕 cane | dog | سگ | Il cane è qui. |
+| 🍬 zucchero | sugar | شکر | Lo zucchero è bianco. |
+| 🧑‍⚕️ medico | doctor | پزشک | Il medico è italiano. |
 
 
 ## Illustrated vocabulary: picture-to-word

@@ -1,5 +1,7 @@
 # Lezione 3 — Vocabulary, pictures, sentences and shadowing
 
+> **Visual key:** The small emoji beside every Italian vocabulary entry is a **memory cue**, not a literal picture or a grammar rule. Look at it, say the Italian word, and then use the word in an original sentence. Real photographs remain in the picture-practice sections; use the text for exact meaning, pronunciation and gender.
+
 [← Lesson & conversations](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises](exercise.md)
 
 > **Source:** *Nuovo Espresso 1 Glossario*, Lesson 3 entries on **PDF pp. 17–25**, compared with *Nuovo Espresso 1* pp. **33–46**. This is an **expanded selected study list**, not the full third-party glossary. The English glosses, illustrative sentences and exercises are new additions. Some examples introduce natural extra grammar as an optional preview.
@@ -26,128 +28,128 @@
 
 ## 1. Drinks and café orders
 
-| Italiano | English | فارسی | Original sentence |
+| Visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| bevanda | drink / beverage | نوشیدنی | Vorrei una bevanda fresca. |
-| caffè | coffee | قهوه | Prendo un caffè, grazie. |
-| cappuccino | cappuccino | کاپوچینو | Un cappuccino, per favore. |
-| tè al limone | lemon tea | چای لیمویی | Vorrei un tè al limone. |
-| tè al latte | tea with milk | چای با شیر | Preferisco il tè al latte. |
-| latte | milk | شیر | Un bicchiere di latte, grazie. |
-| acqua minerale | mineral water | آب معدنی | Prendo un'acqua minerale. |
-| acqua naturale | still water | آب بدون گاز | Preferisco l'acqua naturale. |
-| spremuta | freshly squeezed juice | آب‌میوه تازه | Vorrei una spremuta d'arancia. |
-| aranciata | orange soft drink | نوشابه پرتقالی | Prendiamo un'aranciata. |
-| pompelmo | grapefruit | گریپ‌فروت | Mi piace il pompelmo. |
-| aperitivo | aperitif / pre-dinner drink | نوشیدنی پیش از غذا | Prendiamo un aperitivo. |
-| bicchiere | glass | لیوان | Un bicchiere d'acqua, grazie. |
-| bottiglia | bottle | بطری | C'è una bottiglia sul tavolo. |
-| ghiaccio | ice | یخ | Un'acqua senza ghiaccio, per favore. |
+| 💧 bevanda | drink / beverage | نوشیدنی | Vorrei una bevanda fresca. |
+| ☕ caffè | coffee | قهوه | Prendo un caffè, grazie. |
+| ☕ cappuccino | cappuccino | کاپوچینو | Un cappuccino, per favore. |
+| 🍵 tè al limone | lemon tea | چای لیمویی | Vorrei un tè al limone. |
+| 🍵 tè al latte | tea with milk | چای با شیر | Preferisco il tè al latte. |
+| 🥛 latte | milk | شیر | Un bicchiere di latte, grazie. |
+| 💧 acqua minerale | mineral water | آب معدنی | Prendo un'acqua minerale. |
+| 💧 acqua naturale | still water | آب بدون گاز | Preferisco l'acqua naturale. |
+| 🍊 spremuta | freshly squeezed juice | آب‌میوه تازه | Vorrei una spremuta d'arancia. |
+| 🍊 aranciata | orange soft drink | نوشابه پرتقالی | Prendiamo un'aranciata. |
+| 🍋 pompelmo | grapefruit | گریپ‌فروت | Mi piace il pompelmo. |
+| ☕ aperitivo | aperitif / pre-dinner drink | نوشیدنی پیش از غذا | Prendiamo un aperitivo. |
+| 🥤 bicchiere | glass | لیوان | Un bicchiere d'acqua, grazie. |
+| 🍾 bottiglia | bottle | بطری | C'è una bottiglia sul tavolo. |
+| 💧 ghiaccio | ice | یخ | Un'acqua senza ghiaccio, per favore. |
 
 ## 2. Snacks and ordering language
 
-| Italiano | English | فارسی | Original sentence |
+| Visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| cornetto | Italian breakfast pastry | کروسان ایتالیایی | Vorrei un cornetto. |
-| crema | custard / cream | کرم | Un cornetto con la crema. |
-| marmellata | jam | مربا | Preferisco la marmellata. |
-| panino | sandwich / bread roll | ساندویچ | Prendo un panino. |
-| tramezzino | triangular sandwich | ساندویچ مثلثی | Vorrei un tramezzino. |
-| toast | toasted sandwich | تُست | Prendiamo due toast. |
-| menù | menu | منو | Posso vedere il menù? |
-| prendere | to take / order | گرفتن / سفارش دادن | Prendo un tè. |
-| desiderare | to wish / want | خواستن | Che cosa desidera? |
-| vorrei | I would like | مایلم / می‌خواهم | Vorrei un panino. |
-| per me | for me | برای من | Per me un caffè. |
-| per favore | please | لطفاً | Un tè, per favore. |
-| per cortesia | please (polite) | لطفاً | Il conto, per cortesia. |
-| ordinazione | order (food/drink) | سفارش | Il cameriere prende l'ordinazione. |
+| 🥐 cornetto | Italian breakfast pastry | کروسان ایتالیایی | Vorrei un cornetto. |
+| 🍮 crema | custard / cream | کرم | Un cornetto con la crema. |
+| 🍓 marmellata | jam | مربا | Preferisco la marmellata. |
+| 🥪 panino | sandwich / bread roll | ساندویچ | Prendo un panino. |
+| 🥪 tramezzino | triangular sandwich | ساندویچ مثلثی | Vorrei un tramezzino. |
+| 🥪 toast | toasted sandwich | تُست | Prendiamo due toast. |
+| 📋 menù | menu | منو | Posso vedere il menù? |
+| 🤲 prendere | to take / order | گرفتن / سفارش دادن | Prendo un tè. |
+| 🤲 desiderare | to wish / want | خواستن | Che cosa desidera? |
+| 🤲 vorrei | I would like | مایلم / می‌خواهم | Vorrei un panino. |
+| 🤲 per me | for me | برای من | Per me un caffè. |
+| 💬 per favore | please | لطفاً | Un tè, per favore. |
+| 💬 per cortesia | please (polite) | لطفاً | Il conto, per cortesia. |
+| 📋 ordinazione | order (food/drink) | سفارش | Il cameriere prende l'ordinazione. |
 
 ## 3. Menu courses, foods and preferences
 
-| Italiano | English | فارسی | Original sentence |
+| Visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| antipasto | starter / appetizer | پیش‌غذا | Prendiamo un antipasto. |
-| primo piatto | first course | غذای اول | Vorrei un primo piatto. |
-| secondo piatto | main course | غذای دوم | Preferisco un secondo. |
-| contorno | side dish | مخلفات | Prendo un contorno di verdure. |
-| dessert | dessert | دسر | Per dessert prendo un gelato. |
-| pasta | pasta | پاستا | Preferisco la pasta. |
-| spaghetti | spaghetti | اسپاگتی | Prendo gli spaghetti. |
-| tortellini | stuffed pasta | تورتلینی | Vorrei i tortellini. |
-| lasagne | lasagne | لازانیا | Le lasagne sono buone. |
-| risotto | risotto / rice dish | ریزوتو | Prendiamo un risotto. |
-| carne | meat | گوشت | Non mangio carne. |
-| pesce | fish | ماهی | Preferisco il pesce. |
-| pollo | chicken | مرغ | Prendo il pollo. |
-| insalata | salad | سالاد | L'insalata è fresca. |
-| patatine fritte | French fries | سیب‌زمینی سرخ‌کرده | Vorrei le patatine fritte. |
-| formaggio | cheese | پنیر | Il formaggio è buono. |
-| frutta fresca | fresh fruit | میوه تازه | Prendo la frutta fresca. |
-| gelato | ice cream | بستنی | Il gelato è buonissimo. |
-| preferire | to prefer | ترجیح دادن | Preferisco il pesce. |
-| volere | to want | خواستن | Vuoi un dolce? |
+| 🥗 antipasto | starter / appetizer | پیش‌غذا | Prendiamo un antipasto. |
+| 🍝 primo piatto | first course | غذای اول | Vorrei un primo piatto. |
+| 🍽️ secondo piatto | main course | غذای دوم | Preferisco un secondo. |
+| 🥗 contorno | side dish | مخلفات | Prendo un contorno di verdure. |
+| 🍮 dessert | dessert | دسر | Per dessert prendo un gelato. |
+| 🍝 pasta | pasta | پاستا | Preferisco la pasta. |
+| 🍝 spaghetti | spaghetti | اسپاگتی | Prendo gli spaghetti. |
+| 🍝 tortellini | stuffed pasta | تورتلینی | Vorrei i tortellini. |
+| 🍝 lasagne | lasagne | لازانیا | Le lasagne sono buone. |
+| 🍚 risotto | risotto / rice dish | ریزوتو | Prendiamo un risotto. |
+| 🥩 carne | meat | گوشت | Non mangio carne. |
+| 🐟 pesce | fish | ماهی | Preferisco il pesce. |
+| 🍗 pollo | chicken | مرغ | Prendo il pollo. |
+| 🥗 insalata | salad | سالاد | L'insalata è fresca. |
+| 🍟 patatine fritte | French fries | سیب‌زمینی سرخ‌کرده | Vorrei le patatine fritte. |
+| 🧀 formaggio | cheese | پنیر | Il formaggio è buono. |
+| 🍇 frutta fresca | fresh fruit | میوه تازه | Prendo la frutta fresca. |
+| 🍨 gelato | ice cream | بستنی | Il gelato è buonissimo. |
+| 💜 preferire | to prefer | ترجیح دادن | Preferisco il pesce. |
+| 🤲 volere | to want | خواستن | Vuoi un dolce? |
 
 ## 4. Tableware, extras and the bill
 
-| Italiano | English | فارسی | Original sentence |
+| Visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| tavolo | table | میز | Il tavolo è pronto. |
-| piatto | plate / dish | بشقاب / غذا | Mi porta un piatto? |
-| forchetta | fork | چنگال | Manca una forchetta. |
-| coltello | knife | چاقو | C'è un coltello sul tavolo. |
-| cucchiaio | spoon | قاشق | Vorrei un cucchiaio. |
-| cucchiaino | teaspoon | قاشق چای‌خوری | Mi porta un cucchiaino? |
-| tovagliolo | napkin | دستمال سفره | Un tovagliolo, per favore. |
-| pane | bread | نان | Mi porta un po' di pane? |
-| sale | salt | نمک | Il sale è sul tavolo. |
-| pepe | pepper | فلفل | Vorrei un po' di pepe. |
-| olio | oil | روغن | L'olio è vicino al pane. |
-| aceto | vinegar | سرکه | C'è l'aceto sul tavolo? |
-| conto | bill / check | صورت‌حساب | Il conto, per favore. |
-| cameriere / cameriera | waiter / waitress | پیشخدمت | Il cameriere arriva. |
-| cliente | customer | مشتری | Il cliente vuole il menù. |
-| buono / buona | good (adjective) | خوب | La pizza è buona. |
-| bene | well (adverb) | به‌خوبی | Qui si mangia bene. |
-| mancare | to be missing / lacking | کم بودن / نبودن | Manca un bicchiere. |
+| 🍽️ tavolo | table | میز | Il tavolo è pronto. |
+| 🍽️ piatto | plate / dish | بشقاب / غذا | Mi porta un piatto? |
+| 🍴 forchetta | fork | چنگال | Manca una forchetta. |
+| 🔪 coltello | knife | چاقو | C'è un coltello sul tavolo. |
+| 🥄 cucchiaio | spoon | قاشق | Vorrei un cucchiaio. |
+| 🥄 cucchiaino | teaspoon | قاشق چای‌خوری | Mi porta un cucchiaino? |
+| 🧻 tovagliolo | napkin | دستمال سفره | Un tovagliolo, per favore. |
+| 🍞 pane | bread | نان | Mi porta un po' di pane? |
+| 🧂 sale | salt | نمک | Il sale è sul tavolo. |
+| 🧂 pepe | pepper | فلفل | Vorrei un po' di pepe. |
+| 🫒 olio | oil | روغن | L'olio è vicino al pane. |
+| 🍶 aceto | vinegar | سرکه | C'è l'aceto sul tavolo? |
+| 🧾 conto | bill / check | صورت‌حساب | Il conto, per favore. |
+| 👨‍🍳 cameriere / cameriera | waiter / waitress | پیشخدمت | Il cameriere arriva. |
+| 🙋 cliente | customer | مشتری | Il cliente vuole il menù. |
+| 👍 buono / buona | good (adjective) | خوب | La pizza è buona. |
+| ✅ bene | well (adverb) | به‌خوبی | Qui si mangia bene. |
+| 🚫 mancare | to be missing / lacking | کم بودن / نبودن | Manca un bicchiere. |
 
 ## 5. Restaurants, reading ads and reservations
 
-| Italiano | English | فارسی | Original sentence |
+| Visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| ristorante | restaurant | رستوران | Il ristorante è aperto. |
-| trattoria | traditional casual restaurant | تراتوریا / غذاخوری سنتی | Ceniamo in trattoria. |
-| pizzeria | pizzeria | پیتزافروشی | La pizzeria è vicina. |
-| bar | café / bar | کافه / بار | Prendo un caffè al bar. |
-| gelateria | ice-cream shop | بستنی‌فروشی | Andiamo in gelateria. |
-| chiosco | kiosk / snack stand | کیوسک | Il chiosco è aperto. |
-| rosticceria | prepared-food shop | فروشگاه غذای آماده | Compro qualcosa in rosticceria. |
-| annuncio | advertisement / notice | آگهی | Leggo l'annuncio. |
-| vegetariano / vegetariana | vegetarian | گیاهخوار | Cerco un ristorante vegetariano. |
-| aperto / aperta | open | باز | È aperto stasera? |
-| chiuso / chiusa | closed | بسته / تعطیل | Il locale è chiuso lunedì. |
-| prenotare | to reserve / book | رزرو کردن | Vorrei prenotare un tavolo. |
-| prenotazione | reservation | رزرو | Ho una prenotazione. |
-| invito | invitation | دعوت | Grazie per l'invito. |
-| ospite | guest | مهمان | Invitiamo quattro ospiti. |
-| stasera | this evening | امشب | Stasera andiamo al ristorante. |
-| a più tardi | see you later | بعداً می‌بینمت | Grazie, a più tardi! |
-| per quante persone? | for how many people? | برای چند نفر؟ | Un tavolo per quante persone? |
+| 🪑 ristorante | restaurant | رستوران | Il ristorante è aperto. |
+| 🍝 trattoria | traditional casual restaurant | تراتوریا / غذاخوری سنتی | Ceniamo in trattoria. |
+| 🍕 pizzeria | pizzeria | پیتزافروشی | La pizzeria è vicina. |
+| ☕ bar | café / bar | کافه / بار | Prendo un caffè al bar. |
+| 🍨 gelateria | ice-cream shop | بستنی‌فروشی | Andiamo in gelateria. |
+| 🏪 chiosco | kiosk / snack stand | کیوسک | Il chiosco è aperto. |
+| 🍝 rosticceria | prepared-food shop | فروشگاه غذای آماده | Compro qualcosa in rosticceria. |
+| 📢 annuncio | advertisement / notice | آگهی | Leggo l'annuncio. |
+| 🌱 vegetariano / vegetariana | vegetarian | گیاهخوار | Cerco un ristorante vegetariano. |
+| 🔓 aperto / aperta | open | باز | È aperto stasera? |
+| 🚫 chiuso / chiusa | closed | بسته / تعطیل | Il locale è chiuso lunedì. |
+| 🪑 prenotare | to reserve / book | رزرو کردن | Vorrei prenotare un tavolo. |
+| 🪑 prenotazione | reservation | رزرو | Ho una prenotazione. |
+| 🎁 invito | invitation | دعوت | Grazie per l'invito. |
+| 🙋 ospite | guest | مهمان | Invitiamo quattro ospiti. |
+| 📅 stasera | this evening | امشب | Stasera andiamo al ristorante. |
+| 📅 a più tardi | see you later | بعداً می‌بینمت | Grazie, a più tardi! |
+| ❓ per quante persone? | for how many people? | برای چند نفر؟ | Un tavolo per quante persone? |
 
 ## 6. Useful classroom and reading words
 
-| Italiano | English | فارسی | Original sentence |
+| Visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| scegliere | to choose | انتخاب کردن | Scegli il piatto. |
-| abbinare | to match | وصل کردن | Abbina le bevande alle immagini. |
-| ascoltare | to listen | گوش دادن | Ascolta il dialogo. |
-| leggere | to read | خواندن | Leggi il menù. |
-| completare | to complete | کامل کردن | Completa la frase. |
-| dialogo | dialogue | گفتگو | Leggo un dialogo. |
-| interrogativo | question word | واژه پرسشی | Quale è un interrogativo. |
-| plurale | plural | جمع | Qual è il plurale? |
-| singolare | singular | مفرد | La parola è al singolare. |
-| piacere | to like / pleasure | دوست داشتن / لذت | Mi piace il gelato. |
+| 🧠 scegliere | to choose | انتخاب کردن | Scegli il piatto. |
+| ✍️ abbinare | to match | وصل کردن | Abbina le bevande alle immagini. |
+| 🎧 ascoltare | to listen | گوش دادن | Ascolta il dialogo. |
+| 📖 leggere | to read | خواندن | Leggi il menù. |
+| ✍️ completare | to complete | کامل کردن | Completa la frase. |
+| 💬 dialogo | dialogue | گفتگو | Leggo un dialogo. |
+| 💬 interrogativo | question word | واژه پرسشی | Quale è un interrogativo. |
+| 🔤 plurale | plural | جمع | Qual è il plurale? |
+| 🔤 singolare | singular | مفرد | La parola è al singolare. |
+| 🙂 piacere | to like / pleasure | دوست داشتن / لذت | Mi piace il gelato. |
 
 
 ## Picture memory lab — three rounds
