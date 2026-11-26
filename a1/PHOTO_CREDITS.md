@@ -104,3 +104,10 @@ The following Commons images are newly referenced by the Lesson 6/7 source-photo
 | Duomo di Firenze | George M. Groutas | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Florence, Duomo di Firenze.jpg](https://commons.wikimedia.org/wiki/File:Florence,_Duomo_di_Firenze.jpg) |
 
 Other Lesson 6/7 thumbnails reuse photographs already credited in earlier sections of this file (clock, restaurant, reception, cycling, pool, calendar, beach, reading and food). A generic beach scene should **not** be represented as a specifically Italian location when its source shows another country.
+
+
+## Lesson 10 contextual portrait
+
+| Subject | Creator / source | License | Original file |
+|---|---|---|---|
+| Historical family portrait (used as context, not as a depiction of fictional lesson characters) | P. B. Abery photograph, National Library of Wales / Commons uploader Jason.nlw | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Family portrait (1293715).jpg](https://commons.wikimedia.org/wiki/File:Family_portrait_(1293715).jpg) |

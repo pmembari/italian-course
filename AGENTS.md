@@ -13,7 +13,7 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 
 - Edit **one lesson at a time**. Inspect its actual textbook and glossary pages before adding claims or detailed source references.
 - Main navigation: `README.md` → `a1/README.md` → `a1/lesson-NN/lesson.md`.
-- Lezioni 1–7 have exactly four files each; Lezioni 8–10 remain drafts. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
+- Lezioni 1–7 and 10 have four files each; Lezioni 8–9 remain drafts. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
 - Migrate and verify only **one lesson at a time**; unmigrated chapters remain draft files.
 - **Lesson 2 covers PDF pp. 17–32**, including **Facciamo il punto 1** on pp. 30–32; include end-of-unit review pages in source maps rather than treating them as unrelated to the lesson.
 - Keep the lesson **self-contained**: book pages, communication goals, grammar, selective vocabulary, short original examples, practice with collapsible solutions, speaking task and next-step link.
@@ -37,6 +37,11 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 - Lesson 6 requested pages **75–89**: the unit is **75–88** and p. **89** opens Lesson 7. Supplementary **Esercizi 6** begins on p. **174** in the longer scan.
 - Lesson 7 requested pages **89–105**: the unit is **89–101**, **Facciamo il punto 3** is **102–104**, and p. **105** opens Lesson 8. Supplementary **Esercizi 7** begins on p. **180**.
 - Base picture-referencing practice on the actual source pictures, but don't redistribute publisher artwork in this public repo. Use verified freely reusable Commons photographs plus credits for independently displayed images.
+
+## Lesson 10 page boundaries
+
+- Lesson 10 source PDF **pp. 129–144**: activities **130–138**, grammar **p. 139**, video and culture **pp. 140–141**, final **Facciamo il punto 4** review **pp. 142–144**.
+- Use the textbook's family tree, source photos and gesture screenshots as prompts, but do not republish entire copyrighted images/readings and exercises in this public repository. Write original matched practice and model answers.
 
 ## Memory and recall teaching standard
 

@@ -4,7 +4,7 @@
 
 The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3). For Lezione 1 we include PDF pp. 3–16 in the coverage: p. 3 contains the contents overview, p. 4 the course introduction, and pp. 5–16 the actual lesson activities. The illustrated vocabulary tasks in Lessons 1–7 now use **real, openly licensed Wikimedia Commons photographs**; see [photographer credits and licenses](PHOTO_CREDITS.md). These images are hosted externally and are not publisher textbook artwork.
 
-Development is **incremental**: Lezioni 1–7 have four-file modules, while Lezioni 8–10 remain outline/draft material awaiting page-by-page verification.
+Development is **incremental**: Lezioni 1–7 and 10 have four-file modules, while Lezioni 8–9 remain draft material; Lezione 10 is a four-file learning module awaiting page-by-page verification.
 
 | Book lesson | Theme | Textbook main pages | Course status |
 |---|---|---|---|
@@ -17,7 +17,7 @@ Development is **incremental**: Lezioni 1–7 have four-file modules, while Lezi
 | 07 | **[Andiamo in vacanza!](lesson-07/lesson.md)** | **89–105** (chapter 89–101; review 102–104; L8 opens at 105) | Expanded, photo-assisted, 57 exercises |
 | 08 | [Sapori d'Italia](08-sapori-ditalia.md) | 106–116 | Draft |
 | 09 | [Vita quotidiana](09-vita-quotidiana.md) | 117–128 | Draft |
-| 10 | [La famiglia](10-la-famiglia.md) | 129–141 | Draft |
+| 10 | **[La famiglia](lesson-10/lesson.md)** | **129–144** (activities 129–138; grammar 139; video/culture 140–141; final review 142–144) | Expanded with trilingual vocabulary and 70 exercises |
 
 The book includes *Facciamo il punto* reviews after Lezioni 2, 5, 7, and 10 (pp. 30–32, 72–74, 102–104, 142–144). Its exercise section begins on p. 145; the selected **239-page** *Nuovo_Espresso_1.pdf* includes the additional activities. **Esercizi 6** starts on p. 174 and **Esercizi 7** on p. 180. The alternate 150-page scan contains only the first six supplementary exercise pages.
 
