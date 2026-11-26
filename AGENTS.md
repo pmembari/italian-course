@@ -39,6 +39,7 @@ For grammar and vocabulary add a concise **Remember it** section per lesson:
 - Do not use abstract icons/SVG object grids as vocabulary images when an appropriate real photograph is available. Do not imply a real portrait depicts a named fictional person or that an intact hotel room has a visible defect.
 - Match picture-based exercises and answer keys to **what the selected photos visibly contain**; remove outdated numbering when replacing graphics.
 - Grammar, spelling and number-form rules should use accurate text/tables; a contextual photo is not evidence of a rule.
+- Add a compact **meaningful visual cue (emoji or small reusable photo)** beside **every core vocabulary term** in each Italian–English–Persian vocabulary table, without sacrificing the example sentence or narrow-screen readability. Explain that the cue is a mnemonic rather than the term's exact meaning.
 - Build vocabulary practice as picture → Italian chunk → complete sentence → question/answer → short dialogue.
 - Explicitly label **English bridges** as explanations and name where literal translation misleads (for example, Italian `ho ... anni` versus English “I am ... years old”).
 - Separate a **mnemonic** from an actual grammar rule; note useful exceptions and false friends.

@@ -40,8 +40,8 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 | 🔀 invece | instead / whereas | در عوض | Io parlo inglese; lei invece parla francese. |
 | 🧑‍💻 sapere | to know | دانستن | Sai parlare italiano? |
 | 💬 sì / no | yes / no | بله / نه | Sì, grazie. No, grazie. |
-| 🧠 festa | party | مهمانی | Vado a una festa. |
-| 🧠 libreria | bookshop | کتابفروشی | Lavoro in una libreria. |
+| 🎉 festa | party | مهمانی | Vado a una festa. |
+| 📚 libreria | bookshop | کتابفروشی | Lavoro in una libreria. |
 | 🤝 conoscente | acquaintance | آشنا | È un mio conoscente. |
 
 ## 3. Languages & communication
@@ -59,7 +59,7 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 | 🌍 il russo | Russian language | روسی | Non parlo russo. |
 | 🌍 il greco | Greek language | یونانی | Parli greco? |
 | 🌍 l'olandese | Dutch language | هلندی | Studio olandese. |
-| 🧠 un po' | a little | یه کم | Parlo un po' di italiano. |
+| 🤏 un po' | a little | یه کم | Parlo un po' di italiano. |
 | 💬 molto bene | very well | خیلی خوب | Parla molto bene. |
 | 🤝 conoscere | to know / to be familiar with | شناختن / بلد بودن | Conosco questa lingua. |
 

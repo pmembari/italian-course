@@ -98,7 +98,7 @@
 | Visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
 | 🌍 italiano / italiana | Italian | ایتالیایی | Marco è italiano; Sara è italiana. |
-| 🧠 inglese | English | انگلیسی | Luca è inglese. |
+| 🇬🇧 inglese | English | انگلیسی | Luca è inglese. |
 | 🌍 irlandese | Irish | ایرلندی | Emma è irlandese. |
 | 🌍 tedesco / tedesca | German | آلمانی | Lena è tedesca. |
 | 🌍 austriaco / austriaca | Austrian | اتریشی | Franz è austriaco. |

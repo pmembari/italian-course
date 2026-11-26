@@ -138,12 +138,12 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 |---|---|---|---|
 | 💵 mancia | tip / gratuity | انعام | La mancia non è sempre obbligatoria. |
 | 📄 scontrino | receipt | رسید | Chiedo lo scontrino. |
-| 🧠 bancone | counter | پیشخوان | Pago al bancone. |
+| 🛎️ bancone | counter | پیشخوان | Pago al bancone. |
 | 💵 pagare | to pay | پرداخت کردن | Pago alla cassa. |
 | 💵 moneta | coin | سکه | Ho una moneta. |
 | 👨‍🍳 cameriera | waitress | پیشخدمت زن | La cameriera è gentile. |
 | 🚶 in piedi | standing | ایستاده | Bevo un caffè in piedi. |
-| 🧠 aspettare | to wait | منتظر ماندن | Aspetto il barista. |
+| ⌛ aspettare | to wait | منتظر ماندن | Aspetto il barista. |
 | 📦 progetto | project | پروژه | Facciamo un progetto. |
 | 📄 bilancio | self-assessment | ارزیابی | Completo il bilancio. |
 

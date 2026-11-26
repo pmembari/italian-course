@@ -140,7 +140,7 @@
 
 | Visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| 🧠 scegliere | to choose | انتخاب کردن | Scegli il piatto. |
+| ☑️ scegliere | to choose | انتخاب کردن | Scegli il piatto. |
 | ✍️ abbinare | to match | وصل کردن | Abbina le bevande alle immagini. |
 | 🎧 ascoltare | to listen | گوش دادن | Ascolta il dialogo. |
 | 📖 leggere | to read | خواندن | Leggi il menù. |
