@@ -6,13 +6,23 @@
 
 ## Picture-first vocabulary
 
-![Twelve hotel amenity illustrations](assets/hotel-facilities.svg)
+|Photo 1|Photo 2|Photo 3|Photo 4|
+|---|---|---|---|
+|![Photo 1: room](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=500)|![Photo 2: reception](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=500)|![Photo 3: pool](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Swimming%20Pool.jpg?width=500)|![Photo 4: shower](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%2C%20(IMG%208927).jpg?width=500)|
 
-![Eight problem and request recall cards](assets/hotel-problems.svg)
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
-![Eight Italian date and price flashcards](assets/calendar-cards.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: shower](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%2C%20(IMG%208927).jpg?width=500)|![Photo 2: room](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=500)|
 
-Before reading the tables, choose any five numbered cards, retrieve an Italian word **without looking**, and build a sentence. Then check your answer.
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
+
+![Real photograph: calendar](https://commons.wikimedia.org/wiki/Special:FilePath/Calendar%20(close-up%2C%20shallow%20depth%20of%20field).jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+Before reading the tables, look at the **four hotel photographs** and describe what is actually visible. The shower and room photographs are normal facilities, **not proof that anything is broken**. Name objects in Italian and form questions using `c'è / ci sono`. Then check your answer.
 
 ## 1. Hotel, lodging and rooms
 

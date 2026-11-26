@@ -116,7 +116,9 @@ Choose a new subject or object and produce **two complete Italian sentences** wi
 
 ## Picture-based grammar recall
 
-![Original grammar cue cards](assets/calendar-cards.svg)
+![Real photograph: calendar](https://commons.wikimedia.org/wiki/Special:FilePath/Calendar%20(close-up%2C%20shallow%20depth%20of%20field).jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 - One room → `C'è una camera.` Two rooms → `Ci sono due camere.`
 - Broken television → `Il televisore non funziona.`

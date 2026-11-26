@@ -4,7 +4,11 @@
 
 > **Requested coverage:** *Nuovo_Espresso_1.pdf* pp. **59–75**. Actual chapter pp. **59–71**. Pages 72–74 review Lessons 3–5; page 75 begins Lesson 6. The matching Italian–Persian glossary occupies approximately PDF pp. **30–39**. This course uses **new original dialogues, visuals and practice**, not copied textbook pages.
 
-![Original visual learning cards](assets/hotel-facilities.svg)
+|Photo 1|Photo 2|Photo 3|Photo 4|
+|---|---|---|---|
+|![Photo 1: room](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=500)|![Photo 2: reception](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=500)|![Photo 3: pool](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Swimming%20Pool.jpg?width=500)|![Photo 4: shower](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%2C%20(IMG%208927).jpg?width=500)|
+
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
 ## Learning outcomes
 

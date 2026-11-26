@@ -250,19 +250,27 @@ Read each prompt, answer **in Italian**, then expand only after an attempt.
 
 ## Part B — Picture recognition
 
-![Themed illustrated recall cards](assets/hotel-facilities.svg)
+|Photo 1|Photo 2|Photo 3|Photo 4|
+|---|---|---|---|
+|![Photo 1: room](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=500)|![Photo 2: reception](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=500)|![Photo 3: pool](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Swimming%20Pool.jpg?width=500)|![Photo 4: shower](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%2C%20(IMG%208927).jpg?width=500)|
 
-**31.** Identify picture cards 1–8. Say an Italian phrase with the correct verb/article for each.
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
+
+**31.** Identify the four photographs: a hotel room, a reception area, a swimming pool and a shower. Say one or two Italian expressions for each. No photograph shows all eight amenities from the old diagram.
 
 <details><summary>Sample card labels</summary>
 
-1. camera; 2. bagno; 3. doccia; 4. parcheggio; 5. piscina; 6. ascensore; 7. Wi-Fi; 8. televisore. Now create original sentences, checking conjugation and articles.
+1. `camera`; 2. `reception`; 3. `piscina`; 4. `doccia`. Practice other facilities using the vocabulary table. Now create original sentences, checking conjugation and articles.
 
 </details>
 
-![More illustrated prompts](assets/hotel-problems.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: shower](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%2C%20(IMG%208927).jpg?width=500)|![Photo 2: room](https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=500)|
 
-**32.** Choose four pictured items and make **four full sentences** and **two questions**. Try to say the sentences without looking at any translation.
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
+
+**32.** Study the two **real hotel photographs**. Invent four hypothetical hotel complaints and two polite questions. **Do not claim the photographed shower or room is broken**; the task is language practice. Try to say the sentences without looking at any translation.
 
 **33.** Use the visual cues as a speaking exercise with a partner: show a card without its label, ask a question, and let the other person answer.
 
