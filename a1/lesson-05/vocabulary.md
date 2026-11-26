@@ -58,12 +58,12 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 | ❄️ aria condizionata | air conditioning | تهویه مطبوع | C'è l'aria condizionata. |
 | ♨️ riscaldamento | heating | گرمایش | Il riscaldamento funziona. |
 | 📶 collegamento Wi-Fi | Wi-Fi connection | اتصال وای‌فای | C'è il Wi-Fi? |
-| 🌅 balcone | balcony | بالکن | La camera ha un balcone. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Balcony.JPG?width=120" width="54" alt="Photo of hotel balcony"> **balcone** | balcony | بالکن | La camera ha un balcone. |
 | 🌅 vista sul mare | sea view | چشم‌انداز دریا | Vorrei la vista sul mare. |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20a%20dog.jpg?width=120" width="54" alt="Photo of dog"> **cani ammessi** | dogs allowed | ورود سگ مجاز | Qui sono ammessi i cani. |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Washing-machine.jpg?width=120" width="54" alt="Photo of washing machine"> **lavatrice** | washing machine | ماشین لباسشویی | C'è la lavatrice. |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=120" width="54" alt="Photo of hotel bedroom"> **letto** | bed | تخت | Ci sono due letti. |
-| 🧻 asciugamano | towel | حوله | Manca un asciugamano. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Atlantic%20in%20Hamburg%20-%20bath%20towel.jpg?width=120" width="54" alt="Photo of bath towel"> **asciugamano** | towel | حوله | Manca un asciugamano. |
 | 🗝️ chiave | key | کلید | Ecco la chiave. |
 
 ## 3. Problem solving
@@ -97,8 +97,8 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 | 🧳 vacanza | holiday | تعطیلات | Siamo in vacanza. |
 | 🏠 casavacanze | holiday rental | خانه تعطیلات | Leggo un annuncio di casevacanze. |
 | 🏠 bilocale | two-room apartment | آپارتمان دو اتاقه | C'è un bilocale libero. |
-| 🏖️ spiaggia | beach | ساحل | È vicino alla spiaggia. |
-| 🏖️ lungomare | seafront | ساحل دریا | È sul lungomare. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20Manual%20Antonio%20beach%20panorama.jpg?width=120" width="54" alt="Photo of beach"> **spiaggia** | beach | ساحل | È vicino alla spiaggia. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20Manual%20Antonio%20beach%20panorama.jpg?width=120" width="54" alt="Photo of beach shoreline"> **lungomare** | seafront | ساحل دریا | È sul lungomare. |
 | 🚉 stazione | station | ایستگاه | È vicino alla stazione. |
 | 📍 zona centrale | central area | منطقه مرکزی | Preferisco una zona centrale. |
 | 👍 ben arredato | well furnished | خوب مبله | L'appartamento è ben arredato. |

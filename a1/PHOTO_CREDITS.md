@@ -85,4 +85,9 @@ Individual photos appear at **54 px width** next to the Italian word. These are 
 | washing machine | Baruzza | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Washing-machine.jpg](https://commons.wikimedia.org/wiki/File:Washing-machine.jpg) |
 | glass of water | Derek Jensen | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Glass-of-water.jpg](https://commons.wikimedia.org/wiki/File:Glass-of-water.jpg) |
 
+
+| hotel balcony | Quant | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Hotel Balcony.JPG](https://commons.wikimedia.org/wiki/File:Hotel_Balcony.JPG) |
+| bath towel | Lupus in Saxonia | [Commons file license](https://commons.wikimedia.org/wiki/File:Hotel_Atlantic_in_Hamburg_-_bath_towel.jpg) | [Hotel Atlantic in Hamburg - bath towel.jpg](https://commons.wikimedia.org/wiki/File:Hotel_Atlantic_in_Hamburg_-_bath_towel.jpg) |
+| beach | Jackhynes | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [A Manual Antonio beach panorama.jpg](https://commons.wikimedia.org/wiki/File:A_Manual_Antonio_beach_panorama.jpg) |
+
 **Note:** License information is linked to each source file; the file page is the final reference if metadata changes. The course does not alter the photos; only their display width is set in Markdown HTML.
