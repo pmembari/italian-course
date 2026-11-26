@@ -8,11 +8,19 @@
 
 ## Visual entry points
 
-![Original picture cards of café drinks and snacks](assets/drink-cards.svg)
+![Real photograph: breakfast](https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=500)
 
-![Original food and restaurant picture cards](assets/food-cards.svg)
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
-![Original illustrated restaurant table setting](assets/table-setting.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: pizza](https://commons.wikimedia.org/wiki/Special:FilePath/Italian%20Pizza.jpg?width=500)|![Photo 2: food](https://commons.wikimedia.org/wiki/Special:FilePath/Collage%20cucina%20italiana.jpg?width=500)|
+
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
+
+![Real photograph: table](https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 **First attempt:** before reading the lists below, say what you recognize. Use the Italian article with every noun; then check your guesses.
 
@@ -146,19 +154,23 @@
 
 ### Round 1: drink and snack pictures
 
-Look at [the first picture sheet](assets/drink-cards.svg). Try to name items **1–8** before revealing answers.
+Look at the **real breakfast photograph** above. Identify **two visible items** in Italian before opening the answers.
 
 <details><summary>Show suggested drink-card answers</summary>
 
-1 **un caffè**, 2 **un cappuccino**, 3 **una spremuta**, 4 **un tè**, 5 **un'acqua minerale**, 6 **un cornetto**, 7 **un panino**, 8 **un gelato**.
+**Un cappuccino** and **un cornetto**. The image does not show all eight products from the old SVG grid.
 
 </details>
 
 ### Round 2: choose a dish from a picture
 
-![Food picture prompts](assets/food-cards.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: pizza](https://commons.wikimedia.org/wiki/Special:FilePath/Italian%20Pizza.jpg?width=500)|![Photo 2: food](https://commons.wikimedia.org/wiki/Special:FilePath/Collage%20cucina%20italiana.jpg?width=500)|
 
-Look at the eight foods and use `Vorrei...` or `Preferisco...` for **four different cards**.
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
+
+Look at the real pizza photo and the collage of Italian foods. Identify visible dishes, then practise **four sentences** with `Vorrei...` or `Preferisco...`.
 
 <details><summary>Four model sentences</summary>
 
@@ -168,13 +180,15 @@ Look at the eight foods and use `Vorrei...` or `Preferisco...` for **four differ
 
 ### Round 3: set the table
 
-![Picture of a place setting with numbers](assets/table-setting.svg)
+![Real photograph: table](https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=500)
 
-Match visual numbers to **piatto, forchetta, coltello, cucchiaio, bicchiere, tovagliolo, pane, bottiglia**.
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+Identify **only objects visible** in the real table-setting photo, such as `piatto`, `forchetta`, `coltello` and `bicchiere`. For the remaining objects, use the word list as a sentence-building exercise.
 
 <details><summary>Answer key</summary>
 
-1 **piatto** · 2 **forchetta** · 3 **coltello** · 4 **cucchiaio** · 5 **bicchiere** · 6 **tovagliolo** · 7 **pane** · 8 **bottiglia**.
+Examples to look for: **piatto**, **forchetta**, **coltello**, **bicchiere**. Do not assume the photo contains all items.
 
 </details>
 
@@ -194,7 +208,11 @@ Don't simply recite Italian → English. **Produce the new Italian question**, c
 
 ## Memory connections and English traps
 
-![Original English–Italian memory chart](assets/memory-scenes.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: breakfast](https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=500)|![Photo 2: table](https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=500)|
+
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
 | Italian | Helpful association | Avoid this misunderstanding |
 |---|---|---|

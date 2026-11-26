@@ -4,7 +4,11 @@
 
 > **Requested coverage:** *Nuovo_Espresso_1.pdf* pp. **47–59**. Actual chapter pp. **47–58**. Page 59 opens Lesson 5. The matching Italian–Persian glossary occupies approximately PDF pp. **25–30**. This course uses **new original dialogues, visuals and practice**, not copied textbook pages.
 
-![Original visual learning cards](assets/activity-cards.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: cycling](https://commons.wikimedia.org/wiki/Special:FilePath/Running%20and%20cycling.JPG?width=500)|![Photo 2: reading](https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=500)|
+
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
 ## Learning outcomes
 
@@ -208,7 +212,7 @@ Discuss hobbies, sports, routines and weekends; express frequency and likes/disl
 
 ## Practice sequence and memory method
 
-1. **See:** Cover the captions on the original picture cards.
+1. **See:** Cover the captions on the real photographs.
 2. **Recall:** Say the Italian item with an article or correct verb form.
 3. **Connect:** Read its English meaning but note where word-for-word translation fails.
 4. **Build:** Make a statement and then a question using the same item.

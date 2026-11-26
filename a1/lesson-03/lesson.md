@@ -4,7 +4,11 @@
 
 > **Book range requested: PDF pp. 33–47.** *Nuovo Espresso 1* **Lezione 3** itself covers **pp. 33–46**; **p. 47 begins Lezione 4, Tempo libero**. It is mapped as a transition, not mislabelled Lesson 3 content. The Italian–Persian glossary's Lesson 3 appears across **PDF pp. 17–25**, with its main entries on pp. 18–25.
 
-![Original café, restaurant and reservation conversation scenes](assets/restaurant-scenes.svg)
+|Photo 1|Photo 2|Photo 3|
+|---|---|---|
+|![Photo 1: breakfast](https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=500)|![Photo 2: table](https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=500)|![Photo 3: restaurant](https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20interior%20with%20empty%20tables%20prepared%20for%20guests.jpg?width=500)|
+
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
 ## What you will learn
 

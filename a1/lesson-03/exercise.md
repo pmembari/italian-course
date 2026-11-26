@@ -480,19 +480,25 @@
 
 ## Part F — Visual vocabulary retrieval
 
-![Drink and snack picture grid](assets/drink-cards.svg)
+![Real photograph: breakfast](https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=500)
 
-**58.** Label visual cards 1–8 in Italian, with the correct articles.
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+**58.** Study the **real photograph** and name at least two visible breakfast items in Italian, using articles.
 
 <details><summary>Answer key</summary>
 
-1 **un caffè** · 2 **un cappuccino** · 3 **una spremuta** · 4 **un tè** · 5 **un'acqua minerale** · 6 **un cornetto** · 7 **un panino** · 8 **un gelato**.
+**un cappuccino** and **un cornetto** are visible.
 
 </details>
 
-![Eight food picture cards](assets/food-cards.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: pizza](https://commons.wikimedia.org/wiki/Special:FilePath/Italian%20Pizza.jpg?width=500)|![Photo 2: food](https://commons.wikimedia.org/wiki/Special:FilePath/Collage%20cucina%20italiana.jpg?width=500)|
 
-**59.** Choose five cards; make sentences alternating `vorrei`, `prendo`, `preferisco`.
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
+
+**59.** Use the **pizza photo and the Italian-food collage**. Make five original sentences about dishes that you can identify, alternating `vorrei`, `prendo`, and `preferisco`.
 
 <details><summary>Example solutions</summary>
 
@@ -500,13 +506,15 @@
 
 </details>
 
-![Original numbered table-setting picture](assets/table-setting.svg)
+![Real photograph: table](https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=500)
 
-**60.** Name cards 1–8. Then say which three objects are missing from your imaginary table.
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+**60.** Identify three or more objects **actually visible** in the photograph; then invent three missing objects at a hypothetical table.
 
 <details><summary>Answer key</summary>
 
-1 `piatto`, 2 `forchetta`, 3 `coltello`, 4 `cucchiaio`, 5 `bicchiere`, 6 `tovagliolo`, 7 `pane`, 8 `bottiglia`. Example: `Manca una forchetta. Manca un bicchiere. Manca un tovagliolo.`
+Look for `piatto`, `forchetta`, `coltello` and `bicchiere` (visibility may vary). Hypothetical example: `Manca una forchetta. Manca un bicchiere. Manca un tovagliolo.`
 
 </details>
 

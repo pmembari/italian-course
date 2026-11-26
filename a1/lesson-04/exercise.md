@@ -250,19 +250,25 @@ Read each prompt, answer **in Italian**, then expand only after an attempt.
 
 ## Part B — Picture recognition
 
-![Themed illustrated recall cards](assets/activity-cards.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: cycling](https://commons.wikimedia.org/wiki/Special:FilePath/Running%20and%20cycling.JPG?width=500)|![Photo 2: reading](https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=500)|
 
-**31.** Identify picture cards 1–8. Say an Italian phrase with the correct verb/article for each.
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
+
+**31.** Identify **photo 1** (running/cycling) and **photo 2** (reading). Say one Italian verb and one complete sentence for each.
 
 <details><summary>Sample card labels</summary>
 
-1. leggere; 2. correre; 3. ballare; 4. dormire; 5. andare in bici; 6. suonare; 7. nuotare; 8. sciare. Now create original sentences, checking conjugation and articles.
+1. `correre` / `andare in bicicletta`; 2. `leggere`. Now create original sentences, checking conjugation and articles.
 
 </details>
 
-![More illustrated prompts](assets/time-cards.svg)
+![Real photograph: clock](https://commons.wikimedia.org/wiki/Special:FilePath/Analog%20Clock.jpg?width=500)
 
-**32.** Choose four pictured items and make **four full sentences** and **two questions**. Try to say the sentences without looking at any translation.
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+**32.** Look at the real clock photograph. Choose **four clock times from the grammar table** and make four sentences plus two `A che ora...?` questions; the clock photo itself shows only one time. Try to say the sentences without looking at any translation.
 
 **33.** Use the visual cues as a speaking exercise with a partner: show a card without its label, ask a question, and let the other person answer.
 

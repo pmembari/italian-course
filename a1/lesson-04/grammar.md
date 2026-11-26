@@ -98,7 +98,9 @@ Choose a new subject or object and produce **two complete Italian sentences** wi
 
 ## Picture-based grammar recall
 
-![Original grammar cue cards](assets/preference-cards.svg)
+![Real photograph: reading](https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 - Picture of a running person → `Corro spesso.` → `Corri spesso?`
 - Two books → `Mi piacciono i libri.`, not ❌ `Mi piace i libri.`

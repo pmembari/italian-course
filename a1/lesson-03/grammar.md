@@ -69,7 +69,9 @@ The source dialogues on p. 37 practise these verbs, which are not identical to t
 
 ## 3. Definite articles: singular and plural (source p. 43)
 
-![An original noun/article visual recall diagram](assets/article-memory.svg)
+![Real photograph: pizza](https://commons.wikimedia.org/wiki/Special:FilePath/Italian%20Pizza.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 | Noun begins with | Masculine singular → plural | Feminine singular → plural |
 |---|---|---|
@@ -167,7 +169,9 @@ These are **original extension examples** based on the book's communication goal
 
 ## Visual memory and retrieval practice
 
-![Original multi-stage memory chart for Lesson 3](assets/grammar-memory.svg)
+![Real photograph: table](https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
 ### Four picture rules
 

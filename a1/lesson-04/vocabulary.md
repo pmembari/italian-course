@@ -6,13 +6,21 @@
 
 ## Picture-first vocabulary
 
-![Twelve illustrated activity recall cards](assets/activity-cards.svg)
+|Photo 1|Photo 2|
+|---|---|
+|![Photo 1: cycling](https://commons.wikimedia.org/wiki/Special:FilePath/Running%20and%20cycling.JPG?width=500)|![Photo 2: reading](https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=500)|
 
-![Six clock and schedule recall cards](assets/time-cards.svg)
+*Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
-![Six preference and frequency reminder cards](assets/preference-cards.svg)
+![Real photograph: clock](https://commons.wikimedia.org/wiki/Special:FilePath/Analog%20Clock.jpg?width=500)
 
-Before reading the tables, choose any five numbered cards, retrieve an Italian word **without looking**, and build a sentence. Then check your answer.
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+![Real photograph: reading](https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=500)
+
+*Real photograph. [Credits](../PHOTO_CREDITS.md).*
+
+Before reading the tables, look at the **cycling/running photo**, the **reading photo**, and the **real clock**. Retrieve the Italian activities and a time expression, then build sentences. A photograph shows one moment, not all twelve old illustrated activities. Then check your answer.
 
 ## 1. Hobbies and leisure
 
