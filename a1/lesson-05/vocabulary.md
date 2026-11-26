@@ -1,6 +1,6 @@
 # Lezione 5 — Vocabulary, pictures, memory and speaking
 
-> **Visual key:** The small emoji beside every Italian vocabulary entry is a **memory cue**, not a literal picture or a grammar rule. Look at it, say the Italian word, and then use the word in an original sentence. Real photographs remain in the picture-practice sections; use the text for exact meaning, pronunciation and gender.
+> **Visual key:** For a concrete word with a suitable verified Commons photo, the table shows a **small real photograph**. For abstract words or concepts without a clear matched photo, it shows an **emoji as a fallback**. A photo illustrates the word, not a fictional person or an Italian grammar rule. Photos may be repeated for closely related terms. Always check the Italian wording and example sentence; [photo credits and licenses](../PHOTO_CREDITS.md).
 
 [← Lesson](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises](exercise.md)
 
@@ -28,47 +28,47 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 
 ## 1. Hotel, lodging and rooms
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
-| 🏨 albergo | hotel | هتل | Cerco un albergo. |
-| 🏠 camera | room | اتاق | Vorrei una camera. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=120" width="54" alt="Photo of hotel bedroom"> **albergo** | hotel | هتل | Cerco un albergo. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=120" width="54" alt="Photo of hotel bedroom"> **camera** | room | اتاق | Vorrei una camera. |
 | 🏠 camera singola | single room | اتاق یک نفره | Avete una camera singola? |
-| 🏠 camera doppia | double/twin room | اتاق دو نفره | Vorrei una camera doppia. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=120" width="54" alt="Photo of hotel bedroom"> **camera doppia** | double/twin room | اتاق دو نفره | Vorrei una camera doppia. |
 | 🏠 camera matrimoniale | double-bed room | اتاق تخت دونفره | Preferisco una matrimoniale. |
-| 🛁 bagno | bathroom | حمام | La camera ha un bagno. |
-| 💧 doccia | shower | دوش | C'è una doccia? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%2C%20(IMG%208927).jpg?width=120" width="54" alt="Photo of shower"> **bagno** | bathroom | حمام | La camera ha un bagno. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%2C%20(IMG%208927).jpg?width=120" width="54" alt="Photo of shower"> **doccia** | shower | دوش | C'è una doccia? |
 | 🍽️ colazione | breakfast | صبحانه | La colazione è compresa. |
 | 🍽️ colazione compresa | breakfast included | صبحانه شامل | Novanta euro, colazione compresa. |
-| 🏨 reception | hotel reception | پذیرش | Chiedo alla reception. |
-| 🪑 prenotazione | reservation | رزرو | Ho una prenotazione. |
-| 🪑 prenotare | to book | رزرو کردن | Vorrei prenotare. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=120" width="54" alt="Photo of hotel reception"> **reception** | hotel reception | پذیرش | Chiedo alla reception. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=120" width="54" alt="Photo of hotel reception"> **prenotazione** | reservation | رزرو | Ho una prenotazione. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=120" width="54" alt="Photo of hotel reception"> **prenotare** | to book | رزرو کردن | Vorrei prenotare. |
 | 🌙 a notte | per night | هر شب | Costa ottanta euro a notte. |
 | 🪴 disponibile | available | موجود / در دسترس | La camera è disponibile. |
 | 🪴 libero / libera | free / vacant | آزاد / خالی | Avete una camera libera? |
 
 ## 2. Facilities and service
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
 | 🅿️ parcheggio | parking | پارکینگ | C'è il parcheggio. |
-| 🏊 piscina | pool | استخر | L'albergo ha una piscina. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Swimming%20Pool.jpg?width=120" width="54" alt="Photo of swimming pool"> **piscina** | pool | استخر | L'albergo ha una piscina. |
 | 🛗 ascensore | lift | آسانسور | C'è un ascensore. |
 | 📺 televisore | television | تلویزیون | Il televisore non funziona. |
-| 📱 telefono | telephone | تلفن | C'è il telefono in camera. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Celullar%20or%20mobile%20phone.jpg?width=120" width="54" alt="Photo of mobile phone"> **telefono** | telephone | تلفن | C'è il telefono in camera. |
 | ❄️ aria condizionata | air conditioning | تهویه مطبوع | C'è l'aria condizionata. |
 | ♨️ riscaldamento | heating | گرمایش | Il riscaldamento funziona. |
 | 📶 collegamento Wi-Fi | Wi-Fi connection | اتصال وای‌فای | C'è il Wi-Fi? |
 | 🌅 balcone | balcony | بالکن | La camera ha un balcone. |
 | 🌅 vista sul mare | sea view | چشم‌انداز دریا | Vorrei la vista sul mare. |
-| 🐕 cani ammessi | dogs allowed | ورود سگ مجاز | Qui sono ammessi i cani. |
-| 🧺 lavatrice | washing machine | ماشین لباسشویی | C'è la lavatrice. |
-| 🛏️ letto | bed | تخت | Ci sono due letti. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20a%20dog.jpg?width=120" width="54" alt="Photo of dog"> **cani ammessi** | dogs allowed | ورود سگ مجاز | Qui sono ammessi i cani. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Washing-machine.jpg?width=120" width="54" alt="Photo of washing machine"> **lavatrice** | washing machine | ماشین لباسشویی | C'è la lavatrice. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20room.jpg?width=120" width="54" alt="Photo of hotel bedroom"> **letto** | bed | تخت | Ci sono due letti. |
 | 🧻 asciugamano | towel | حوله | Manca un asciugamano. |
 | 🗝️ chiave | key | کلید | Ecco la chiave. |
 
 ## 3. Problem solving
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
 | ⚠️ problema | problem | مشکل | Ho un problema. |
 | 🚫 non funziona | doesn't work | کار نمی‌کند | La lampada non funziona. |
@@ -88,7 +88,7 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 
 ## 4. Holiday accommodation
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
 | 🏠 appartamento | apartment | آپارتمان | Affittiamo un appartamento. |
 | 💵 affitto | rent | اجاره | L'affitto è mensile. |
@@ -108,7 +108,7 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 
 ## 5. Dates, numbers and correspondence
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
 | 📅 gennaio | January | ژانویه | Arrivo a gennaio. |
 | 📅 febbraio | February | فوریه | Parto a febbraio. |
@@ -122,7 +122,7 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 | 📅 ottobre | October | اکتبر | Vengo a ottobre. |
 | 📅 novembre | November | نوامبر | Parto a novembre. |
 | 📅 dicembre | December | دسامبر | Arrivo a dicembre. |
-| 📅 data | date | تاریخ | Qual è la data? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Calendar%20(close-up%2C%20shallow%20depth%20of%20field).jpg?width=120" width="54" alt="Photo of calendar"> **data** | date | تاریخ | Qual è la data? |
 | 🎂 primo | first | اول | Il primo luglio. |
 | 🎂 secondo | second | دوم | Il secondo piano. |
 | 🎂 terzo | third | سوم | Il terzo giorno. |
@@ -134,7 +134,7 @@ Before reading the tables, look at the **four hotel photographs** and describe w
 
 ## 6. Review and café culture
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
 | 💵 mancia | tip / gratuity | انعام | La mancia non è sempre obbligatoria. |
 | 📄 scontrino | receipt | رسید | Chiedo lo scontrino. |

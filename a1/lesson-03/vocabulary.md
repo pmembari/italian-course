@@ -1,6 +1,6 @@
 # Lezione 3 — Vocabulary, pictures, sentences and shadowing
 
-> **Visual key:** The small emoji beside every Italian vocabulary entry is a **memory cue**, not a literal picture or a grammar rule. Look at it, say the Italian word, and then use the word in an original sentence. Real photographs remain in the picture-practice sections; use the text for exact meaning, pronunciation and gender.
+> **Visual key:** For a concrete word with a suitable verified Commons photo, the table shows a **small real photograph**. For abstract words or concepts without a clear matched photo, it shows an **emoji as a fallback**. A photo illustrates the word, not a fictional person or an Italian grammar rule. Photos may be repeated for closely related terms. Always check the Italian wording and example sentence; [photo credits and licenses](../PHOTO_CREDITS.md).
 
 [← Lesson & conversations](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises](exercise.md)
 
@@ -28,34 +28,34 @@
 
 ## 1. Drinks and café orders
 
-| Visual · Italiano | English | فارسی | Original sentence |
+| Foto / visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| 💧 bevanda | drink / beverage | نوشیدنی | Vorrei una bevanda fresca. |
-| ☕ caffè | coffee | قهوه | Prendo un caffè, grazie. |
-| ☕ cappuccino | cappuccino | کاپوچینو | Un cappuccino, per favore. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glass-of-water.jpg?width=120" width="54" alt="Photo of glass of water"> **bevanda** | drink / beverage | نوشیدنی | Vorrei una bevanda fresca. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Espresso%20Coffee%2001.jpg?width=120" width="54" alt="Photo of espresso"> **caffè** | coffee | قهوه | Prendo un caffè, grazie. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=120" width="54" alt="Photo of cappuccino and cornetto"> **cappuccino** | cappuccino | کاپوچینو | Un cappuccino, per favore. |
 | 🍵 tè al limone | lemon tea | چای لیمویی | Vorrei un tè al limone. |
-| 🍵 tè al latte | tea with milk | چای با شیر | Preferisco il tè al latte. |
-| 🥛 latte | milk | شیر | Un bicchiere di latte, grazie. |
-| 💧 acqua minerale | mineral water | آب معدنی | Prendo un'acqua minerale. |
-| 💧 acqua naturale | still water | آب بدون گاز | Preferisco l'acqua naturale. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glass%20of%20milk.jpg?width=120" width="54" alt="Photo of milk"> **tè al latte** | tea with milk | چای با شیر | Preferisco il tè al latte. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glass%20of%20milk.jpg?width=120" width="54" alt="Photo of milk"> **latte** | milk | شیر | Un bicchiere di latte, grazie. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glass-of-water.jpg?width=120" width="54" alt="Photo of glass of water"> **acqua minerale** | mineral water | آب معدنی | Prendo un'acqua minerale. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glass-of-water.jpg?width=120" width="54" alt="Photo of glass of water"> **acqua naturale** | still water | آب بدون گاز | Preferisco l'acqua naturale. |
 | 🍊 spremuta | freshly squeezed juice | آب‌میوه تازه | Vorrei una spremuta d'arancia. |
 | 🍊 aranciata | orange soft drink | نوشابه پرتقالی | Prendiamo un'aranciata. |
 | 🍋 pompelmo | grapefruit | گریپ‌فروت | Mi piace il pompelmo. |
 | ☕ aperitivo | aperitif / pre-dinner drink | نوشیدنی پیش از غذا | Prendiamo un aperitivo. |
-| 🥤 bicchiere | glass | لیوان | Un bicchiere d'acqua, grazie. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glass-of-water.jpg?width=120" width="54" alt="Photo of glass of water"> **bicchiere** | glass | لیوان | Un bicchiere d'acqua, grazie. |
 | 🍾 bottiglia | bottle | بطری | C'è una bottiglia sul tavolo. |
 | 💧 ghiaccio | ice | یخ | Un'acqua senza ghiaccio, per favore. |
 
 ## 2. Snacks and ordering language
 
-| Visual · Italiano | English | فارسی | Original sentence |
+| Foto / visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| 🥐 cornetto | Italian breakfast pastry | کروسان ایتالیایی | Vorrei un cornetto. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=120" width="54" alt="Photo of cappuccino and cornetto"> **cornetto** | Italian breakfast pastry | کروسان ایتالیایی | Vorrei un cornetto. |
 | 🍮 crema | custard / cream | کرم | Un cornetto con la crema. |
 | 🍓 marmellata | jam | مربا | Preferisco la marmellata. |
-| 🥪 panino | sandwich / bread roll | ساندویچ | Prendo un panino. |
-| 🥪 tramezzino | triangular sandwich | ساندویچ مثلثی | Vorrei un tramezzino. |
-| 🥪 toast | toasted sandwich | تُست | Prendiamo due toast. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sandwich.jpg?width=120" width="54" alt="Photo of sandwich"> **panino** | sandwich / bread roll | ساندویچ | Prendo un panino. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sandwich.jpg?width=120" width="54" alt="Photo of sandwich"> **tramezzino** | triangular sandwich | ساندویچ مثلثی | Vorrei un tramezzino. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sandwich.jpg?width=120" width="54" alt="Photo of sandwich"> **toast** | toasted sandwich | تُست | Prendiamo due toast. |
 | 📋 menù | menu | منو | Posso vedere il menù? |
 | 🤲 prendere | to take / order | گرفتن / سفارش دادن | Prendo un tè. |
 | 🤲 desiderare | to wish / want | خواستن | Che cosa desidera? |
@@ -63,45 +63,45 @@
 | 🤲 per me | for me | برای من | Per me un caffè. |
 | 💬 per favore | please | لطفاً | Un tè, per favore. |
 | 💬 per cortesia | please (polite) | لطفاً | Il conto, per cortesia. |
-| 📋 ordinazione | order (food/drink) | سفارش | Il cameriere prende l'ordinazione. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=120" width="54" alt="Photo of restaurant table"> **ordinazione** | order (food/drink) | سفارش | Il cameriere prende l'ordinazione. |
 
 ## 3. Menu courses, foods and preferences
 
-| Visual · Italiano | English | فارسی | Original sentence |
+| Foto / visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| 🥗 antipasto | starter / appetizer | پیش‌غذا | Prendiamo un antipasto. |
-| 🍝 primo piatto | first course | غذای اول | Vorrei un primo piatto. |
-| 🍽️ secondo piatto | main course | غذای دوم | Preferisco un secondo. |
-| 🥗 contorno | side dish | مخلفات | Prendo un contorno di verdure. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Collage%20cucina%20italiana.jpg?width=120" width="54" alt="Photo of Italian food dishes"> **antipasto** | starter / appetizer | پیش‌غذا | Prendiamo un antipasto. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti.jpg?width=120" width="54" alt="Photo of spaghetti"> **primo piatto** | first course | غذای اول | Vorrei un primo piatto. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Collage%20cucina%20italiana.jpg?width=120" width="54" alt="Photo of Italian food dishes"> **secondo piatto** | main course | غذای دوم | Preferisco un secondo. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20salad.jpg?width=120" width="54" alt="Photo of salad"> **contorno** | side dish | مخلفات | Prendo un contorno di verdure. |
 | 🍮 dessert | dessert | دسر | Per dessert prendo un gelato. |
-| 🍝 pasta | pasta | پاستا | Preferisco la pasta. |
-| 🍝 spaghetti | spaghetti | اسپاگتی | Prendo gli spaghetti. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti.jpg?width=120" width="54" alt="Photo of spaghetti"> **pasta** | pasta | پاستا | Preferisco la pasta. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti.jpg?width=120" width="54" alt="Photo of spaghetti"> **spaghetti** | spaghetti | اسپاگتی | Prendo gli spaghetti. |
 | 🍝 tortellini | stuffed pasta | تورتلینی | Vorrei i tortellini. |
 | 🍝 lasagne | lasagne | لازانیا | Le lasagne sono buone. |
 | 🍚 risotto | risotto / rice dish | ریزوتو | Prendiamo un risotto. |
 | 🥩 carne | meat | گوشت | Non mangio carne. |
 | 🐟 pesce | fish | ماهی | Preferisco il pesce. |
 | 🍗 pollo | chicken | مرغ | Prendo il pollo. |
-| 🥗 insalata | salad | سالاد | L'insalata è fresca. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20salad.jpg?width=120" width="54" alt="Photo of salad"> **insalata** | salad | سالاد | L'insalata è fresca. |
 | 🍟 patatine fritte | French fries | سیب‌زمینی سرخ‌کرده | Vorrei le patatine fritte. |
-| 🧀 formaggio | cheese | پنیر | Il formaggio è buono. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cheese.jpg?width=120" width="54" alt="Photo of cheese"> **formaggio** | cheese | پنیر | Il formaggio è buono. |
 | 🍇 frutta fresca | fresh fruit | میوه تازه | Prendo la frutta fresca. |
-| 🍨 gelato | ice cream | بستنی | Il gelato è buonissimo. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gelato%20fatto%20in%20casa.jpg?width=120" width="54" alt="Photo of ice cream"> **gelato** | ice cream | بستنی | Il gelato è buonissimo. |
 | 💜 preferire | to prefer | ترجیح دادن | Preferisco il pesce. |
 | 🤲 volere | to want | خواستن | Vuoi un dolce? |
 
 ## 4. Tableware, extras and the bill
 
-| Visual · Italiano | English | فارسی | Original sentence |
+| Foto / visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| 🍽️ tavolo | table | میز | Il tavolo è pronto. |
-| 🍽️ piatto | plate / dish | بشقاب / غذا | Mi porta un piatto? |
-| 🍴 forchetta | fork | چنگال | Manca una forchetta. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=120" width="54" alt="Photo of restaurant table"> **tavolo** | table | میز | Il tavolo è pronto. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=120" width="54" alt="Photo of restaurant table"> **piatto** | plate / dish | بشقاب / غذا | Mi porta un piatto? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fork%20isolated%20on%20white%20background%2003.jpg?width=120" width="54" alt="Photo of fork"> **forchetta** | fork | چنگال | Manca una forchetta. |
 | 🔪 coltello | knife | چاقو | C'è un coltello sul tavolo. |
 | 🥄 cucchiaio | spoon | قاشق | Vorrei un cucchiaio. |
 | 🥄 cucchiaino | teaspoon | قاشق چای‌خوری | Mi porta un cucchiaino? |
-| 🧻 tovagliolo | napkin | دستمال سفره | Un tovagliolo, per favore. |
-| 🍞 pane | bread | نان | Mi porta un po' di pane? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Table%20setting%20in%20a%20restaurant.JPG?width=120" width="54" alt="Photo of restaurant table"> **tovagliolo** | napkin | دستمال سفره | Un tovagliolo, per favore. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Loaf%20Of%20Bread.jpg?width=120" width="54" alt="Photo of bread"> **pane** | bread | نان | Mi porta un po' di pane? |
 | 🧂 sale | salt | نمک | Il sale è sul tavolo. |
 | 🧂 pepe | pepper | فلفل | Vorrei un po' di pepe. |
 | 🫒 olio | oil | روغن | L'olio è vicino al pane. |
@@ -110,26 +110,26 @@
 | 👨‍🍳 cameriere / cameriera | waiter / waitress | پیشخدمت | Il cameriere arriva. |
 | 🙋 cliente | customer | مشتری | Il cliente vuole il menù. |
 | 👍 buono / buona | good (adjective) | خوب | La pizza è buona. |
-| ✅ bene | well (adverb) | به‌خوبی | Qui si mangia bene. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=120" width="54" alt="Photo of smiling person"> **bene** | well (adverb) | به‌خوبی | Qui si mangia bene. |
 | 🚫 mancare | to be missing / lacking | کم بودن / نبودن | Manca un bicchiere. |
 
 ## 5. Restaurants, reading ads and reservations
 
-| Visual · Italiano | English | فارسی | Original sentence |
+| Foto / visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
-| 🪑 ristorante | restaurant | رستوران | Il ristorante è aperto. |
-| 🍝 trattoria | traditional casual restaurant | تراتوریا / غذاخوری سنتی | Ceniamo in trattoria. |
-| 🍕 pizzeria | pizzeria | پیتزافروشی | La pizzeria è vicina. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20interior%20with%20empty%20tables%20prepared%20for%20guests.jpg?width=120" width="54" alt="Photo of restaurant interior"> **ristorante** | restaurant | رستوران | Il ristorante è aperto. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20interior%20with%20empty%20tables%20prepared%20for%20guests.jpg?width=120" width="54" alt="Photo of restaurant interior"> **trattoria** | traditional casual restaurant | تراتوریا / غذاخوری سنتی | Ceniamo in trattoria. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Italian%20Pizza.jpg?width=120" width="54" alt="Photo of pizza"> **pizzeria** | pizzeria | پیتزافروشی | La pizzeria è vicina. |
 | ☕ bar | café / bar | کافه / بار | Prendo un caffè al bar. |
-| 🍨 gelateria | ice-cream shop | بستنی‌فروشی | Andiamo in gelateria. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gelato%20fatto%20in%20casa.jpg?width=120" width="54" alt="Photo of ice cream"> **gelateria** | ice-cream shop | بستنی‌فروشی | Andiamo in gelateria. |
 | 🏪 chiosco | kiosk / snack stand | کیوسک | Il chiosco è aperto. |
 | 🍝 rosticceria | prepared-food shop | فروشگاه غذای آماده | Compro qualcosa in rosticceria. |
 | 📢 annuncio | advertisement / notice | آگهی | Leggo l'annuncio. |
-| 🌱 vegetariano / vegetariana | vegetarian | گیاهخوار | Cerco un ristorante vegetariano. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20salad.jpg?width=120" width="54" alt="Photo of salad"> **vegetariano / vegetariana** | vegetarian | گیاهخوار | Cerco un ristorante vegetariano. |
 | 🔓 aperto / aperta | open | باز | È aperto stasera? |
 | 🚫 chiuso / chiusa | closed | بسته / تعطیل | Il locale è chiuso lunedì. |
-| 🪑 prenotare | to reserve / book | رزرو کردن | Vorrei prenotare un tavolo. |
-| 🪑 prenotazione | reservation | رزرو | Ho una prenotazione. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=120" width="54" alt="Photo of hotel reception"> **prenotare** | to reserve / book | رزرو کردن | Vorrei prenotare un tavolo. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Reception%20.jpg?width=120" width="54" alt="Photo of hotel reception"> **prenotazione** | reservation | رزرو | Ho una prenotazione. |
 | 🎁 invito | invitation | دعوت | Grazie per l'invito. |
 | 🙋 ospite | guest | مهمان | Invitiamo quattro ospiti. |
 | 📅 stasera | this evening | امشب | Stasera andiamo al ristorante. |
@@ -138,18 +138,18 @@
 
 ## 6. Useful classroom and reading words
 
-| Visual · Italiano | English | فارسی | Original sentence |
+| Foto / visual · Italiano | English | فارسی | Original sentence |
 |---|---|---|---|
 | ☑️ scegliere | to choose | انتخاب کردن | Scegli il piatto. |
 | ✍️ abbinare | to match | وصل کردن | Abbina le bevande alle immagini. |
 | 🎧 ascoltare | to listen | گوش دادن | Ascolta il dialogo. |
-| 📖 leggere | to read | خواندن | Leggi il menù. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=120" width="54" alt="Photo of reading"> **leggere** | to read | خواندن | Leggi il menù. |
 | ✍️ completare | to complete | کامل کردن | Completa la frase. |
 | 💬 dialogo | dialogue | گفتگو | Leggo un dialogo. |
 | 💬 interrogativo | question word | واژه پرسشی | Quale è un interrogativo. |
 | 🔤 plurale | plural | جمع | Qual è il plurale? |
 | 🔤 singolare | singular | مفرد | La parola è al singolare. |
-| 🙂 piacere | to like / pleasure | دوست داشتن / لذت | Mi piace il gelato. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **piacere** | to like / pleasure | دوست داشتن / لذت | Mi piace il gelato. |
 
 
 ## Picture memory lab — three rounds

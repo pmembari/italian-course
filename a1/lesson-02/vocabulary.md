@@ -1,6 +1,6 @@
 # Lezione 2 — Illustrated vocabulary and practice
 
-> **Visual key:** The small emoji beside every Italian vocabulary entry is a **memory cue**, not a literal picture or a grammar rule. Look at it, say the Italian word, and then use the word in an original sentence. Real photographs remain in the picture-practice sections; use the text for exact meaning, pronunciation and gender.
+> **Visual key:** For a concrete word with a suitable verified Commons photo, the table shows a **small real photograph**. For abstract words or concepts without a clear matched photo, it shows an **emoji as a fallback**. A photo illustrates the word, not a fictional person or an Italian grammar rule. Photos may be repeated for closely related terms. Always check the Italian wording and example sentence; [photo credits and licenses](../PHOTO_CREDITS.md).
 
 [← Lesson & conversations](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises →](exercise.md)
 
@@ -12,14 +12,14 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 
 ## 1. Social greetings & feelings
 
-| Visual · Italian | English | فارسی | Original example |
+| Foto / visual · Italian | English | فارسی | Original example |
 |---|---|---|---|
-| 💬 come va? | how's it going? | اوضاع چطوره؟ | Ciao, come va oggi? |
-| 💬 come stai? | how are you? (informal) | حالت چطوره؟ | Come stai, Paola? |
-| 💬 come sta? | how are you? (formal) | حالتون چطوره؟ | Buongiorno, come sta? |
-| ✅ bene | well | خوب | Sto bene, grazie. |
-| 🙂 benissimo | very well | خیلی خوب | Benissimo, grazie! |
-| 😔 male | badly | بد | Oggi sto male. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **come va?** | how's it going? | اوضاع چطوره؟ | Ciao, come va oggi? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **come stai?** | how are you? (informal) | حالت چطوره؟ | Come stai, Paola? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **come sta?** | how are you? (formal) | حالتون چطوره؟ | Buongiorno, come sta? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=120" width="54" alt="Photo of smiling person"> **bene** | well | خوب | Sto bene, grazie. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Smiling%20woman%20(Unsplash).jpg?width=120" width="54" alt="Photo of smiling person"> **benissimo** | very well | خیلی خوب | Benissimo, grazie! |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Young%20man%20experiencing%20immense%20sadness.jpg?width=120" width="54" alt="Photo of sad expression"> **male** | badly | بد | Oggi sto male. |
 | 🙂 non c'è male | not bad | بد نیست | Non c'è male, grazie. |
 | 📅 oggi | today | امروز | Oggi lavoro. |
 | 😔 mi dispiace | I'm sorry | متأسفم | Oh, mi dispiace! |
@@ -29,24 +29,24 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 
 ## 2. Introducing people
 
-| Visual · Italian | English | فارسی | Original example |
+| Foto / visual · Italian | English | فارسی | Original example |
 |---|---|---|---|
 | 🙋 questo | this (masculine) | این (مذکر) | Questo è Marco. |
 | 🙋 questa | this (feminine) | این (مؤنث) | Questa è Sara. |
-| 🤝 un amico | a male friend | یک دوست (مذکر) | È un mio amico. |
-| 🤝 un'amica | a female friend | یک دوست (مؤنث) | È una mia amica. |
-| 🤝 presentazione | introduction | معرفی | Faccio una presentazione. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **un amico** | a male friend | یک دوست (مذکر) | È un mio amico. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **un'amica** | a female friend | یک دوست (مؤنث) | È una mia amica. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **presentazione** | introduction | معرفی | Faccio una presentazione. |
 | 🙋 personaggio | character | شخصیت | Il personaggio si chiama Leo. |
 | 🔀 invece | instead / whereas | در عوض | Io parlo inglese; lei invece parla francese. |
 | 🧑‍💻 sapere | to know | دانستن | Sai parlare italiano? |
 | 💬 sì / no | yes / no | بله / نه | Sì, grazie. No, grazie. |
 | 🎉 festa | party | مهمانی | Vado a una festa. |
 | 📚 libreria | bookshop | کتابفروشی | Lavoro in una libreria. |
-| 🤝 conoscente | acquaintance | آشنا | È un mio conoscente. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **conoscente** | acquaintance | آشنا | È un mio conoscente. |
 
 ## 3. Languages & communication
 
-| Visual · Italian | English | فارسی | Original example |
+| Foto / visual · Italian | English | فارسی | Original example |
 |---|---|---|---|
 | 💬 parlare | to speak | حرف زدن | Parlo italiano. |
 | 💬 lingua | language | زبان | Che lingue parli? |
@@ -61,42 +61,42 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 | 🌍 l'olandese | Dutch language | هلندی | Studio olandese. |
 | 🤏 un po' | a little | یه کم | Parlo un po' di italiano. |
 | 💬 molto bene | very well | خیلی خوب | Parla molto bene. |
-| 🤝 conoscere | to know / to be familiar with | شناختن / بلد بودن | Conosco questa lingua. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **conoscere** | to know / to be familiar with | شناختن / بلد بودن | Conosco questa lingua. |
 
 ## 4. Work, professions & workplaces
 
-| Visual · Italian | English | فارسی | Original example |
+| Foto / visual · Italian | English | فارسی | Original example |
 |---|---|---|---|
 | 🧑‍💻 lavoro | work / job | کار | Che lavoro fai? |
 | 🧑‍💻 fare | to do / make | انجام دادن | Faccio il cuoco. |
 | 🧑‍💻 lavorare | to work | کار کردن | Lavoro in un ufficio. |
 | ⚖️ avvocato / avvocata | lawyer | وکیل | È avvocata. |
 | 📰 giornalista | journalist | خبرنگار | Fa la giornalista. |
-| 💊 farmacista | pharmacist | داروساز | Lavora in farmacia. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=120" width="54" alt="Photo of pharmacy and staff"> **farmacista** | pharmacist | داروساز | Lavora in farmacia. |
 | 🛒 commesso / commessa | shop assistant | فروشنده | La commessa lavora in negozio. |
 | 🩺 infermiere / infermiera | nurse | پرستار | Fa l'infermiera. |
 | 🏭 operaio / operaia | factory worker | کارگر | Lavora in fabbrica. |
-| 👨‍🍳 cuoco / cuoca | cook / chef | آشپز | Sono cuoca. |
-| 👨‍🏫 insegnante | teacher | معلم | Lavora in una scuola. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Chef%20cooking.jpg?width=120" width="54" alt="Photo of cook at work"> **cuoco / cuoca** | cook / chef | آشپز | Sono cuoca. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=120" width="54" alt="Photo of teacher in classroom"> **insegnante** | teacher | معلم | Lavora in una scuola. |
 | 🧑‍💻 segretaria | secretary | منشی | Faccio la segretaria. |
 | 🧑‍💻 impiegato / impiegata | office employee | کارمند | Sono impiegata. |
 | 🏗️ architetto / architetta | architect | معمار | È architetto. |
-| 🧑‍⚕️ medico / medica | doctor | پزشک | Faccio il medico. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=120" width="54" alt="Photo of doctor at work"> **medico / medica** | doctor | پزشک | Faccio il medico. |
 | 🏭 fabbrica | factory | کارخانه | Lavora in una fabbrica. |
-| 💊 farmacia | pharmacy | داروخانه | Lavoro in farmacia. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20drugstore.jpg?width=120" width="54" alt="Photo of pharmacy and staff"> **farmacia** | pharmacy | داروخانه | Lavoro in farmacia. |
 | 🏪 negozio | shop | مغازه | Lavora in un negozio. |
-| 🪑 ristorante | restaurant | رستوران | Lavorano in un ristorante. |
-| 🏥 ospedale | hospital | بیمارستان | Lavora in ospedale. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20interior%20with%20empty%20tables%20prepared%20for%20guests.jpg?width=120" width="54" alt="Photo of restaurant interior"> **ristorante** | restaurant | رستوران | Lavorano in un ristorante. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hospital%20building%20A.jpg?width=120" width="54" alt="Photo of hospital"> **ospedale** | hospital | بیمارستان | Lavora in ospedale. |
 | 🧑‍💻 ufficio | office | دفتر | Sono in ufficio. |
-| 🏫 scuola | school | مدرسه | Lavora a scuola. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/School%20Classroom%20With%20Equipment%20-%20Creative%20Commons%20Attribution%20Only.jpg?width=120" width="54" alt="Photo of classroom"> **scuola** | school | مدرسه | Lavora a scuola. |
 | 🧑‍💻 posto di lavoro | workplace | محل کار | Qual è il tuo posto di lavoro? |
 
 ## 5. Cities, living and social posts
 
-| Visual · Italian | English | فارسی | Original example |
+| Foto / visual · Italian | English | فارسی | Original example |
 |---|---|---|---|
 | 🏠 abitare | to live (reside) | زندگی کردن | Abito a Milano. |
-| ✍️ studiare | to study | درس خواندن | Studio italiano. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=120" width="54" alt="Photo of reading"> **studiare** | to study | درس خواندن | Studio italiano. |
 | 📍 qui | here | اینجا | Abito qui. |
 | 🔎 cercare | to look for | جستجو کردن | Cerco una stanza. |
 | 🎁 offrire | to offer | پیشنهاد کردن | Offro una stanza. |
@@ -114,7 +114,7 @@ Learn **one themed group** at a time. Read the model sentences, cover the meanin
 
 ## 6. Numbers, age and study terms
 
-| Visual · Italian | English | فارسی | Original example |
+| Foto / visual · Italian | English | فارسی | Original example |
 |---|---|---|---|
 | ❓ quanti anni hai? | how old are you? | چند سالته؟ | Quanti anni hai? |
 | 🎂 anno / anni | year / years | سال | Ho ventitré anni. |

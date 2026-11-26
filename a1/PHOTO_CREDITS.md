@@ -38,3 +38,51 @@ These photographs were selected from **Wikimedia Commons** to replace the earlie
 ## License note
 
 Creative Commons license names do not imply that the whole course uses the same license. Each source photo retains its own license and attribution requirements. Changes to a photograph may trigger share-alike terms; review the source's original notice before adapting it.
+
+
+## Small vocabulary photos in the four-column tables
+
+Individual photos appear at **54 px width** next to the Italian word. These are externally hosted Commons thumbnails, and the following file-level credits cover every source used in the vocabulary tables. A photo may illustrate several closely related terms, but not an unrelated abstract concept.
+
+| Visual subject | Author / credit | License | Commons original |
+|---|---|---|---|
+| bread | congerdesign | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Loaf Of Bread.jpg](https://commons.wikimedia.org/wiki/File:Loaf_Of_Bread.jpg) |
+| cappuccino and cornetto | Ensahequ | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Cornetto e cappuccino.jpg](https://commons.wikimedia.org/wiki/File:Cornetto_e_cappuccino.jpg) |
+| calendar | Dafne Cholet | [CC BY 2.0](https://creativecommons.org/licenses/BY/2.0/) | [Calendar (close-up, shallow depth of field).jpg](https://commons.wikimedia.org/wiki/File:Calendar_(close-up%2C_shallow_depth_of_field).jpg) |
+| cat | Barkathnisa Ashaqilahi | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [The Cat.jpg](https://commons.wikimedia.org/wiki/File:The_Cat.jpg) |
+| cheese | National Cancer Institute | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Cheese.jpg](https://commons.wikimedia.org/wiki/File:Cheese.jpg) |
+| cook at work | Delasoul1 | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Chef cooking.jpg](https://commons.wikimedia.org/wiki/File:Chef_cooking.jpg) |
+| classroom | Educators.co.uk | [CC BY (see file)](https://commons.wikimedia.org/wiki/File:School_Classroom_With_Equipment_-_Creative_Commons_Attribution_Only.jpg) | [School Classroom With Equipment - Creative Commons Attribution Only.jpg](https://commons.wikimedia.org/wiki/File:School_Classroom_With_Equipment_-_Creative_Commons_Attribution_Only.jpg) |
+| clock | KH Fajla Rabby | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Analog Clock.jpg](https://commons.wikimedia.org/wiki/File:Analog_Clock.jpg) |
+| cycling and running | Batu55 | [CC BY-SA 3.0](https://creativecommons.org/licenses/BY-SA/3.0/) | [Running and cycling.JPG](https://commons.wikimedia.org/wiki/File:Running_and_cycling.JPG) |
+| doctor at work | National Cancer Institute | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Doctor examines patient with stethoscope.jpg](https://commons.wikimedia.org/wiki/File:Doctor_examines_patient_with_stethoscope.jpg) |
+| dog | ContaDeletada2906 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Photo of a dog.jpg](https://commons.wikimedia.org/wiki/File:Photo_of_a_dog.jpg) |
+| espresso | Jubair1985 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Espresso Coffee 01.jpg](https://commons.wikimedia.org/wiki/File:Espresso_Coffee_01.jpg) |
+| Italian food dishes | Lasagnolo9 | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Collage cucina italiana.jpg](https://commons.wikimedia.org/wiki/File:Collage_cucina_italiana.jpg) |
+| fork | Jonatan Svensson Glad | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Fork isolated on white background 03.jpg](https://commons.wikimedia.org/wiki/File:Fork_isolated_on_white_background_03.jpg) |
+| ice cream | Cinzia Ungari | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Gelato fatto in casa.jpg](https://commons.wikimedia.org/wiki/File:Gelato_fatto_in_casa.jpg) |
+| guitar | Arashk rp2 | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [A Classical Guitar.jpg](https://commons.wikimedia.org/wiki/File:A_Classical_Guitar.jpg) |
+| greeting or meeting | Dhiriart | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Two Friends Shaking Hands.jpg](https://commons.wikimedia.org/wiki/File:Two_Friends_Shaking_Hands.jpg) |
+| hospital | Bamjos | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Hospital building A.jpg](https://commons.wikimedia.org/wiki/File:Hospital_building_A.jpg) |
+| milk | Santeri Viinamäki | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Glass of milk.jpg](https://commons.wikimedia.org/wiki/File:Glass_of_milk.jpg) |
+| pharmacy and staff | Bigfall91 | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Inside drugstore.jpg](https://commons.wikimedia.org/wiki/File:Inside_drugstore.jpg) |
+| mobile phone | Indoda Engumfowethu | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Celullar or mobile phone.jpg](https://commons.wikimedia.org/wiki/File:Celullar_or_mobile_phone.jpg) |
+| piano keys | Raysonho | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [PianoKeyboard2.jpg](https://commons.wikimedia.org/wiki/File:PianoKeyboard2.jpg) |
+| pizza | TwnPines2 | [CC BY-SA 2.0](https://creativecommons.org/licenses/BY-SA/2.0/) | [Italian Pizza.jpg](https://commons.wikimedia.org/wiki/File:Italian_Pizza.jpg) |
+| swimming pool | Princessor2022 | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Hotel Swimming Pool.jpg](https://commons.wikimedia.org/wiki/File:Hotel_Swimming_Pool.jpg) |
+| reading | Los Cardinalos | [CC BY 2.0](https://creativecommons.org/licenses/BY/2.0/) | [Reading.jpg](https://commons.wikimedia.org/wiki/File:Reading.jpg) |
+| hotel reception | The Down Town Hotel | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Hotel Reception .jpg](https://commons.wikimedia.org/wiki/File:Hotel_Reception_.jpg) |
+| restaurant interior | Shixart1985 | [CC BY 2.0](https://creativecommons.org/licenses/BY/2.0/) | [Restaurant interior with empty tables prepared for guests.jpg](https://commons.wikimedia.org/wiki/File:Restaurant_interior_with_empty_tables_prepared_for_guests.jpg) |
+| hotel bedroom | Dale Cruse | [CC BY 2.0](https://creativecommons.org/licenses/BY/2.0/) | [Hotel room.jpg](https://commons.wikimedia.org/wiki/File:Hotel_room.jpg) |
+| sad expression | Ananian | [CC BY-SA 3.0](https://creativecommons.org/licenses/BY-SA/3.0/) | [Young man experiencing immense sadness.jpg](https://commons.wikimedia.org/wiki/File:Young_man_experiencing_immense_sadness.jpg) |
+| salad | Aerous | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [A salad.jpg](https://commons.wikimedia.org/wiki/File:A_salad.jpg) |
+| sandwich | PDphotos.org | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Sandwich.jpg](https://commons.wikimedia.org/wiki/File:Sandwich.jpg) |
+| shower | Matti Blume | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Hotel, (IMG 8927).jpg](https://commons.wikimedia.org/wiki/File:Hotel%2C_(IMG_8927).jpg) |
+| smiling person | Allef Vinicius | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Smiling woman (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Smiling_woman_(Unsplash).jpg) |
+| spaghetti | Tim Bartel | [CC BY-SA 2.0](https://creativecommons.org/licenses/BY-SA/2.0/) | [Spaghetti.jpg](https://commons.wikimedia.org/wiki/File:Spaghetti.jpg) |
+| restaurant table | Mattes | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Table setting in a restaurant.JPG](https://commons.wikimedia.org/wiki/File:Table_setting_in_a_restaurant.JPG) |
+| teacher in classroom | Nkpelawuni | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [A teacher in class.jpg](https://commons.wikimedia.org/wiki/File:A_teacher_in_class.jpg) |
+| washing machine | Baruzza | [CC BY-SA 4.0](https://creativecommons.org/licenses/BY-SA/4.0/) | [Washing-machine.jpg](https://commons.wikimedia.org/wiki/File:Washing-machine.jpg) |
+| glass of water | Derek Jensen | [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) | [Glass-of-water.jpg](https://commons.wikimedia.org/wiki/File:Glass-of-water.jpg) |
+
+**Note:** License information is linked to each source file; the file page is the final reference if metadata changes. The course does not alter the photos; only their display width is set in Markdown HTML.

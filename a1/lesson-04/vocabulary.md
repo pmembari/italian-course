@@ -1,6 +1,6 @@
 # Lezione 4 — Vocabulary, pictures, memory and speaking
 
-> **Visual key:** The small emoji beside every Italian vocabulary entry is a **memory cue**, not a literal picture or a grammar rule. Look at it, say the Italian word, and then use the word in an original sentence. Real photographs remain in the picture-practice sections; use the text for exact meaning, pronunciation and gender.
+> **Visual key:** For a concrete word with a suitable verified Commons photo, the table shows a **small real photograph**. For abstract words or concepts without a clear matched photo, it shows an **emoji as a fallback**. A photo illustrates the word, not a fictional person or an Italian grammar rule. Photos may be repeated for closely related terms. Always check the Italian wording and example sentence; [photo credits and licenses](../PHOTO_CREDITS.md).
 
 [← Lesson](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises](exercise.md)
 
@@ -26,16 +26,16 @@ Before reading the tables, look at the **cycling/running photo**, the **reading 
 
 ## 1. Hobbies and leisure
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
 | 🕒 tempo libero | free time | اوقات فراغت | Nel tempo libero leggo. |
 | 📱 chattare | to chat online | چت کردن | Chatto con gli amici. |
 | 😴 dormire | to sleep | خوابیدن | Dormo otto ore. |
 | 💃 ballare | to dance | رقصیدن | Mi piace ballare. |
-| 🚲 andare in bicicletta | to cycle | دوچرخه‌سواری کردن | Vado in bicicletta. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Running%20and%20cycling.JPG?width=120" width="54" alt="Photo of cycling and running"> **andare in bicicletta** | to cycle | دوچرخه‌سواری کردن | Vado in bicicletta. |
 | 🏋️ fare ginnastica | to exercise | نرمش کردن | Faccio ginnastica. |
-| 🏃 correre | to run | دویدن | Corro al parco. |
-| 🏋️ fare sport | to do sports | ورزش کردن | Di solito faccio sport. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Running%20and%20cycling.JPG?width=120" width="54" alt="Photo of cycling and running"> **correre** | to run | دویدن | Corro al parco. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Running%20and%20cycling.JPG?width=120" width="54" alt="Photo of cycling and running"> **fare sport** | to do sports | ورزش کردن | Di solito faccio sport. |
 | ⚽ giocare a calcio | to play football | فوتبال بازی کردن | Gioco a calcio. |
 | 🚶 fare una passeggiata | to take a walk | پیاده‌روی کردن | Faccio una passeggiata. |
 | 🛒 fare la spesa | to shop for groceries | خرید کردن | Faccio la spesa. |
@@ -46,7 +46,7 @@ Before reading the tables, look at the **cycling/running photo**, the **reading 
 
 ## 2. Frequency and days
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
 | 🔁 di solito | usually | معمولاً | Di solito esco il sabato. |
 | 🔁 sempre | always | همیشه | Leggo sempre la sera. |
@@ -54,7 +54,7 @@ Before reading the tables, look at the **cycling/running photo**, the **reading 
 | 🔁 qualche volta | sometimes | بعضی وقت‌ها | Qualche volta ballo. |
 | 🔁 mai | never / ever | هرگز | Non scio mai. |
 | 🧩 quasi | almost | تقریباً | Quasi sempre studio. |
-| 📅 fine settimana | weekend | آخر هفته | Il fine settimana sono libero. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Calendar%20(close-up%2C%20shallow%20depth%20of%20field).jpg?width=120" width="54" alt="Photo of calendar"> **fine settimana** | weekend | آخر هفته | Il fine settimana sono libero. |
 | 📆 lunedì | Monday | دوشنبه | Lunedì lavoro. |
 | 📆 martedì | Tuesday | سه‌شنبه | Martedì studio. |
 | 📆 mercoledì | Wednesday | چهارشنبه | Mercoledì nuoto. |
@@ -65,11 +65,11 @@ Before reading the tables, look at the **cycling/running photo**, the **reading 
 
 ## 3. Interests and culture
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
-| 🏊 piscina | swimming pool | استخر | Vado in piscina. |
-| 🎸 chitarra | guitar | گیتار | Suono la chitarra. |
-| 🎹 pianoforte | piano | پیانو | Suona il pianoforte. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Swimming%20Pool.jpg?width=120" width="54" alt="Photo of swimming pool"> **piscina** | swimming pool | استخر | Vado in piscina. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20Classical%20Guitar.jpg?width=120" width="54" alt="Photo of guitar"> **chitarra** | guitar | گیتار | Suono la chitarra. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PianoKeyboard2.jpg?width=120" width="54" alt="Photo of piano keys"> **pianoforte** | piano | پیانو | Suona il pianoforte. |
 | 🎸 basso | bass guitar | گیتار بیس | Suona il basso. |
 | 🎵 canzone | song | آهنگ | Ascolto una canzone. |
 | 🎵 musica classica | classical music | موسیقی کلاسیک | Mi piace la musica classica. |
@@ -85,9 +85,9 @@ Before reading the tables, look at the **cycling/running photo**, the **reading 
 
 ## 4. Preferences and conversations
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
-| 🙂 piacere | to like | دوست داشتن | Mi piace leggere. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **piacere** | to like | دوست داشتن | Mi piace leggere. |
 | 🙂 mi piace | I like (singular/infinitive) | دوست دارم | Mi piace il cinema. |
 | 🙂 mi piacciono | I like (plural) | دوست دارم | Mi piacciono i libri. |
 | 🙂 anche a me | me too | من هم | Anche a me piace. |
@@ -103,17 +103,17 @@ Before reading the tables, look at the **cycling/running photo**, the **reading 
 
 ## 5. Time and organization
 
-| Visual · Italiano | English | فارسی | Original example |
+| Foto / visual · Italiano | English | فارسی | Original example |
 |---|---|---|---|
-| 🕰️ ora | hour / time | ساعت | Che ora è? |
-| 🕰️ orologio | clock / watch | ساعت | Guardo l'orologio. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Analog%20Clock.jpg?width=120" width="54" alt="Photo of clock"> **ora** | hour / time | ساعت | Che ora è? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Analog%20Clock.jpg?width=120" width="54" alt="Photo of clock"> **orologio** | clock / watch | ساعت | Guardo l'orologio. |
 | 🕰️ mezza | half (hour) | نیم | Sono le sei e mezza. |
 | 🕰️ un quarto | quarter | یک ربع | Sono le quattro e un quarto. |
 | 🌙 mezzanotte | midnight | نیمه‌شب | È mezzanotte. |
-| 📅 agenda | diary / planner | دفتر برنامه | Scrivo sull'agenda. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Calendar%20(close-up%2C%20shallow%20depth%20of%20field).jpg?width=120" width="54" alt="Photo of calendar"> **agenda** | diary / planner | دفتر برنامه | Scrivo sull'agenda. |
 | 📅 impegno | commitment | قرار / کار | Ho un impegno oggi. |
-| 🕰️ alle otto | at eight | ساعت هشت | Ci vediamo alle otto. |
-| ❓ a che ora? | at what time? | چه ساعتی؟ | A che ora usciamo? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Analog%20Clock.jpg?width=120" width="54" alt="Photo of clock"> **alle otto** | at eight | ساعت هشت | Ci vediamo alle otto. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Analog%20Clock.jpg?width=120" width="54" alt="Photo of clock"> **a che ora?** | at what time? | چه ساعتی؟ | A che ora usciamo? |
 
 
 ## Visual memory prompts — say a sentence, not a translation

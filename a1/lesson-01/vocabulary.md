@@ -1,6 +1,6 @@
 # Lezione 1 — Vocabulary with examples and visual practice
 
-> **Visual key:** The small emoji beside every Italian vocabulary entry is a **memory cue**, not a literal picture or a grammar rule. Look at it, say the Italian word, and then use the word in an original sentence. Real photographs remain in the picture-practice sections; use the text for exact meaning, pronunciation and gender.
+> **Visual key:** For a concrete word with a suitable verified Commons photo, the table shows a **small real photograph**. For abstract words or concepts without a clear matched photo, it shows an **emoji as a fallback**. A photo illustrates the word, not a fictional person or an Italian grammar rule. Photos may be repeated for closely related terms. Always check the Italian wording and example sentence; [photo credits and licenses](../PHOTO_CREDITS.md).
 
 [← Lesson & conversations](lesson.md) · [Grammar](grammar.md) · **Vocabulary** · [Exercises](exercise.md)
 
@@ -26,51 +26,51 @@
 
 *Glossary pp. 1, 6–7 · book pp. 5–6 and 16*
 
-| Visual · Italiano | English | فارسی | Example (original) |
+| Foto / visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| 👋 ciao | hi / bye (informal) | سلام / خداحافظ | Ciao, Rosa! A domani. |
-| 👋 buongiorno | good morning / hello | روز بخیر | Buongiorno, professore. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **ciao** | hi / bye (informal) | سلام / خداحافظ | Ciao, Rosa! A domani. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **buongiorno** | good morning / hello | روز بخیر | Buongiorno, professore. |
 | 👋 buona sera | good evening | عصر بخیر | Buona sera, signora. |
 | 👋 buona notte | good night | شب بخیر | Buona notte, a domani. |
-| 👋 salve | hello (neutral) | سلام | Salve, come sta? |
-| 👋 arrivederci | goodbye (polite) | به امید دیدار | Arrivederci, signora. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **salve** | hello (neutral) | سلام | Salve, come sta? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **arrivederci** | goodbye (polite) | به امید دیدار | Arrivederci, signora. |
 | 👋 a presto | see you soon | به زودی می‌بینمت | Ciao, a presto! |
 | 👋 a domani | see you tomorrow | تا فردا | Arrivederci, a domani! |
 | 👋 buona giornata | have a good day | روز خوبی داشته باشید | Buona giornata, professore. |
 | 👋 alla prossima volta | until next time | تا دفعه بعد | A presto, alla prossima volta! |
-| 🙂 piacere | nice to meet you | خوشبختم | Piacere, sono Luca. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **piacere** | nice to meet you | خوشبختم | Piacere, sono Luca. |
 | 💬 scusi | excuse me (formal) | ببخشید | Scusi, Lei è di Roma? |
 
 ## 2. People, introductions and social language
 
 *Glossary pp. 1–2, 6–7 · book pp. 7–8*
 
-| Visual · Italiano | English | فارسی | Example (original) |
+| Foto / visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
 | 🙋 signore | gentleman / sir | آقا | Il signore si chiama Pietro. |
 | 🙋 signora | lady / madam | خانم | La signora è italiana. |
-| 👨‍🏫 professore | professor / teacher | استاد | Buongiorno, professore! |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20teacher%20in%20class.jpg?width=120" width="54" alt="Photo of teacher in classroom"> **professore** | professor / teacher | استاد | Buongiorno, professore! |
 | 🙋 persona | person | شخص | Questa persona è di Napoli. |
 | 🙋 gruppo | group | گروه | Il gruppo è qui. |
 | 🏷️ nome | first name / name | نام | Qual è il tuo nome? |
 | 🏷️ cognome | surname | نام خانوادگی | Il mio cognome è Verdi. |
 | 🏷️ chiamarsi | to be called / named | نامیده شدن | Mi chiamo Anna. |
-| 🤝 presentarsi | to introduce oneself | خود را معرفی کردن | È il momento di presentarsi. |
-| 🤝 presentare | to present / introduce | معرفی کردن | Presento una persona. |
-| 🤝 fare conoscenza | to get acquainted | آشنا شدن | Facciamo conoscenza. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **presentarsi** | to introduce oneself | خود را معرفی کردن | È il momento di presentarsi. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **presentare** | to present / introduce | معرفی کردن | Presento una persona. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **fare conoscenza** | to get acquainted | آشنا شدن | Facciamo conoscenza. |
 | 💬 darsi del tu | to use informal you | تو خطاب کردن | Possiamo darci del tu? |
 | 💬 darsi del Lei | to use formal you | شما خطاب کردن | In ufficio ci diamo del Lei. |
-| 🤝 amici | friends | دوستان | I miei amici sono qui. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **amici** | friends | دوستان | I miei amici sono qui. |
 | 🫂 parente | relative | فامیل | Un mio parente vive in Italia. |
 | 🤝 abbraccio | hug | بغل | Un abbraccio, a presto! |
 | 🤝 bacio | kiss | بوسه | Un bacio alla mamma. |
-| 👋 salutare | to greet / say goodbye | سلام / خداحافظی کردن | Saluto il professore. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **salutare** | to greet / say goodbye | سلام / خداحافظی کردن | Saluto il professore. |
 
 ## 3. Pronouns, verbs and questions
 
 *Glossary pp. 1–5 · book pp. 5, 7, 10 and 13*
 
-| Visual · Italiano | English | فارسی | Example (original) |
+| Foto / visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
 | 🙋 io | I | من | Io sono Laura. |
 | 🙋 tu | you (informal) | تو | Tu sei di Roma? |
@@ -95,7 +95,7 @@
 
 *Glossary pp. 4–5 · book pp. 10–11*
 
-| Visual · Italiano | English | فارسی | Example (original) |
+| Foto / visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
 | 🌍 italiano / italiana | Italian | ایتالیایی | Marco è italiano; Sara è italiana. |
 | 🇬🇧 inglese | English | انگلیسی | Luca è inglese. |
@@ -120,12 +120,12 @@
 
 *Glossary pp. 1–6 · book pp. 8–9*
 
-| Visual · Italiano | English | فارسی | Example (original) |
+| Foto / visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
 | 🔤 alfabeto | alphabet | الفبا | L'alfabeto italiano. |
 | 🔤 lettera | letter | حرف | La lettera C. |
 | ✍️ scrivere | to write | نوشتن | Scrivo il nome. |
-| 📖 leggere | to read | خواندن | Leggo il dialogo. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Reading.jpg?width=120" width="54" alt="Photo of reading"> **leggere** | to read | خواندن | Leggo il dialogo. |
 | 🎧 ascoltare | to listen | گوش دادن | Ascolto e ripeto. |
 | 🎧 ripetere | to repeat | تکرار کردن | Ripeto la parola. |
 | ✍️ completare | to complete | کامل کردن | Completo la frase. |
@@ -138,8 +138,8 @@
 | 🔤 suono | sound | صدا | Il suono è diverso. |
 | ✍️ ricostruire | to reconstruct | دوباره ساختن | Ricostruisco il dialogo. |
 | 🏷️ frase | sentence | جمله | Scrivo una frase. |
-| 🙋 studente | student | دانشجو / دانش‌آموز | Lo studente ascolta. |
-| 🙋 compagno | classmate | هم‌کلاسی | Il compagno ripete. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/School%20Classroom%20With%20Equipment%20-%20Creative%20Commons%20Attribution%20Only.jpg?width=120" width="54" alt="Photo of classroom"> **studente** | student | دانشجو / دانش‌آموز | Lo studente ascolta. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/School%20Classroom%20With%20Equipment%20-%20Creative%20Commons%20Attribution%20Only.jpg?width=120" width="54" alt="Photo of classroom"> **compagno** | classmate | هم‌کلاسی | Il compagno ripete. |
 | 🔤 modello | model | نمونه | Seguo il modello. |
 | ✍️ esercizio | exercise | تمرین | Faccio un esercizio. |
 
@@ -147,16 +147,16 @@
 
 *Glossary pp. 4–6 · book pp. 11–12*
 
-| Visual · Italiano | English | فارسی | Example (original) |
+| Foto / visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
 | 📍 indirizzo | address | آدرس | L'indirizzo è inventato. |
-| 📱 cellulare | mobile phone | موبایل | Ho un cellulare. |
-| 📱 numero di telefono | phone number | شماره تلفن | Qual è il numero di telefono? |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Celullar%20or%20mobile%20phone.jpg?width=120" width="54" alt="Photo of mobile phone"> **cellulare** | mobile phone | موبایل | Ho un cellulare. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Celullar%20or%20mobile%20phone.jpg?width=120" width="54" alt="Photo of mobile phone"> **numero di telefono** | phone number | شماره تلفن | Qual è il numero di telefono? |
 | 📄 foglio | sheet of paper | برگه | Scrivo su un foglio. |
 | 💬 domanda | question | سؤال | Faccio una domanda. |
 | 🔢 risultato | result | نتیجه | Confronto il risultato. |
 | ✍️ confrontare | to compare | مقایسه کردن | Confronto due risposte. |
-| 🤝 conoscere | to know / meet | شناختن | Conosco Anna. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Two%20Friends%20Shaking%20Hands.jpg?width=120" width="54" alt="Photo of greeting or meeting"> **conoscere** | to know / meet | شناختن | Conosco Anna. |
 | 🧩 immaginario | imaginary / fictional | خیالی | Uso un nome immaginario. |
 | 🧭 a sinistra | on the left | سمت چپ | Il numero è a sinistra. |
 | 🧭 a destra | on the right | سمت راست | Il nome è a destra. |
@@ -166,18 +166,18 @@
 
 *Book p. 8; corresponding glossary entries p. 3*
 
-| Visual · Italiano | English | فارسی | Example (original) |
+| Foto / visual · Italiano | English | فارسی | Example (original) |
 |---|---|---|---|
-| ☕ caffè | coffee | قهوه | Il caffè è buono. |
-| 🐈 gatto | cat | گربه | Il gatto è qui. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Espresso%20Coffee%2001.jpg?width=120" width="54" alt="Photo of espresso"> **caffè** | coffee | قهوه | Il caffè è buono. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/The%20Cat.jpg?width=120" width="54" alt="Photo of cat"> **gatto** | cat | گربه | Il gatto è qui. |
 | 🎬 cinema | cinema | سینما | Il cinema è vicino. |
-| 🎸 chitarra | guitar | گیتار | Ho una chitarra. |
-| 🍨 gelato | ice cream | بستنی | Il gelato è buono. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/A%20Classical%20Guitar.jpg?width=120" width="54" alt="Photo of guitar"> **chitarra** | guitar | گیتار | Ho una chitarra. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gelato%20fatto%20in%20casa.jpg?width=120" width="54" alt="Photo of ice cream"> **gelato** | ice cream | بستنی | Il gelato è buono. |
 | 📖 giornale | newspaper | روزنامه | Leggo il giornale. |
-| 🧀 formaggio | cheese | پنیر | Mi piace il formaggio. |
-| 🐕 cane | dog | سگ | Il cane è qui. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cheese.jpg?width=120" width="54" alt="Photo of cheese"> **formaggio** | cheese | پنیر | Mi piace il formaggio. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20a%20dog.jpg?width=120" width="54" alt="Photo of dog"> **cane** | dog | سگ | Il cane è qui. |
 | 🍬 zucchero | sugar | شکر | Lo zucchero è bianco. |
-| 🧑‍⚕️ medico | doctor | پزشک | Il medico è italiano. |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20examines%20patient%20with%20stethoscope.jpg?width=120" width="54" alt="Photo of doctor at work"> **medico** | doctor | پزشک | Il medico è italiano. |
 
 
 ## Illustrated vocabulary: picture-to-word
