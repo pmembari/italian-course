@@ -4,6 +4,58 @@
 
 > **Source alignment:** `Nuovo_Espresso_1.pdf`, pp. **17–32**; activities on pp. 18–26, summary p. 27, video/culture pp. 28–29, and **Facciamo il punto 1** pp. 30–32. The tasks here are new originals, not reproductions of publisher exercises or the answer keys. Expand answers only after trying.
 
+## Actual textbook picture exercises — embedded crops
+
+Look at each original book image **here**, try the task, then open the model response. These are **new companion exercises** linked to the actual source pictures, not the publisher's answer key.
+
+### Picture A · p. 18 — How is each person?
+
+![How is each person? — actual cropped image from Nuovo Espresso 1](assets/p18_greeting_scenes.jpg)
+
+**Try:** Look at the cartoon situations. Practise responses to *Come stai?* using *bene*, *benissimo*, *così così* and *male*.
+
+<details><summary>Reveal model answer</summary>
+
+**A:** Come stai? **B:** Benissimo, grazie! Alternative: **Così così, e tu?** Feelings are inferred practice, not diagnoses of the pictured people.
+
+</details>
+
+### Picture B · p. 20 — Introduce the six people
+
+![Introduce the six people — actual cropped image from Nuovo Espresso 1](assets/p20_people_portraits.jpg)
+
+**Try:** Point to two portraits. Invent suitable names, then use *Questo è* and *Questa è*. Do not treat invented names as real photo identities.
+
+<details><summary>Reveal model answer</summary>
+
+**Questo è Marco. Questa è Giulia.** For a formal exchange: **Buongiorno, Lei come si chiama?**
+
+</details>
+
+### Picture C · p. 23 — Jobs and workplaces
+
+![Jobs and workplaces — actual cropped image from Nuovo Espresso 1](assets/p23_job_photos.jpg)
+
+**Try:** Match the visible professional scenes to the textbook's occupation labels. Say where two workers could work.
+
+<details><summary>Reveal model answer</summary>
+
+Examples: **Il medico lavora in ospedale. L'insegnante lavora a scuola. Il cuoco lavora in un ristorante.** Base the actual matching on visible objects and the book labels.
+
+</details>
+
+### Picture D · p. 26 — Number-reading game
+
+![Number-reading game — actual cropped image from Nuovo Espresso 1](assets/p26_number_visuals.jpg)
+
+**Try:** Point to any five printed numerals, read them aloud, and use two as fictional ages.
+
+<details><summary>Reveal model answer</summary>
+
+Examples: **Ho ventitré anni. Mia sorella ha trentotto anni.** For age use **avere**, not the English structure *I am 23*.
+
+</details>
+
 ## Suggested study routine
 
 1. Solve Part A without looking back.

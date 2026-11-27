@@ -4,6 +4,58 @@
 
 **Source alignment:** *Nuovo Espresso 1*, Lezione 1, pp. 5–16. These are **original, additional exercises**. Use your lawful copy of the textbook for its own activities. Attempt each item first; expand solutions only after answering.
 
+## Actual textbook picture exercises — embedded crops
+
+Look at each original book image **here**, try the task, then open the model response. These are **new companion exercises** linked to the actual source pictures, not the publisher's answer key.
+
+### Picture A · p. 6 — Greetings: formal or informal?
+
+![Greetings: formal or informal? — actual cropped image from Nuovo Espresso 1](assets/p6_greeting_photos.jpg)
+
+**Try:** Look at the four photographs. Which conversations would naturally start with *Ciao* and which could use *Buongiorno* or *Buonasera*? Write two greetings.
+
+<details><summary>Reveal model answer</summary>
+
+Model: **Ciao, Anna! Come stai?** (informal) and **Buongiorno, professore! Come sta?** (formal). Time and social relationship matter; a photograph alone does not establish the exact relationship.
+
+</details>
+
+### Picture B · p. 7 — Introductions in different settings
+
+![Introductions in different settings — actual cropped image from Nuovo Espresso 1](assets/p7_people_scenes.jpg)
+
+**Try:** Choose two illustrated encounters. Compose a two-line greeting and introduce yourself.
+
+<details><summary>Reveal model answer</summary>
+
+**A:** Buongiorno, sono Carlo. **B:** Piacere, mi chiamo Giulia. For friends: **Ciao! Come ti chiami?**
+
+</details>
+
+### Picture C · p. 8 — Actual picture vocabulary
+
+![Actual picture vocabulary — actual cropped image from Nuovo Espresso 1](assets/p8_vocabulary_pictures.jpg)
+
+**Try:** Cover the captions and name six depicted things. Then make two full Italian sentences using any objects.
+
+<details><summary>Reveal model answer</summary>
+
+Visible labels include **caffè, spaghetti, gatto, cinema, chitarra, gelato, giornale, formaggio, cane, zucchero, medico**. Examples: **Il gatto è qui. Vorrei un caffè.**
+
+</details>
+
+### Picture D · p. 11 — Numbers from the illustrated digits
+
+![Numbers from the illustrated digits — actual cropped image from Nuovo Espresso 1](assets/p11_numbers_pictures.jpg)
+
+**Try:** Find seven, thirteen and twenty. Say them aloud, then give a fictional telephone number digit by digit.
+
+<details><summary>Reveal model answer</summary>
+
+**sette, tredici, venti**. Example digit reading: **tre–due–otto–cinque**.
+
+</details>
+
 ## Part A — Greetings and social register
 
 **1.** You meet a professor at 10:00. Choose: `Ciao!` / `Buongiorno!`.

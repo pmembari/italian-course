@@ -8,6 +8,19 @@
 
 *Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
+## Actual textbook image gallery
+
+These are **focused original crops from the supplied textbook**, not stock-photo substitutions. Use the image together with its original companion exercise in [Exercises](exercise.md). Original publisher rights apply; [image credits](../PHOTO_CREDITS.md).
+
+| Page 6 · Greetings: formal or informal? | Page 7 · Introductions in different settings |
+|---|---|
+| ![Greetings: formal or informal? — actual cropped image from Nuovo Espresso 1](assets/p6_greeting_photos.jpg) | ![Introductions in different settings — actual cropped image from Nuovo Espresso 1](assets/p7_people_scenes.jpg) |
+
+| Page 8 · Actual picture vocabulary | Page 11 · Numbers from the illustrated digits |
+|---|---|
+| ![Actual picture vocabulary — actual cropped image from Nuovo Espresso 1](assets/p8_vocabulary_pictures.jpg) | ![Numbers from the illustrated digits — actual cropped image from Nuovo Espresso 1](assets/p11_numbers_pictures.jpg) |
+
+
 ## Before Lesson 1 — PDF pages 3–4
 
 - **Page 3 — Indice:** gives the course map, including the first lesson's communication and grammar topics and where other lessons begin.

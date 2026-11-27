@@ -12,6 +12,26 @@
 
 *Real photograph. [Credits](../PHOTO_CREDITS.md).*
 
+## Original book image memory cards
+
+Read the objects in these actual book visuals **before** looking at any translations. Use the sentence models in [Exercises](exercise.md#actual-textbook-picture-exercises--embedded-crops).
+
+**Page 6 — Greetings: formal or informal?**
+
+![Greetings: formal or informal? — actual cropped image from Nuovo Espresso 1](assets/p6_greeting_photos.jpg)
+
+**Page 7 — Introductions in different settings**
+
+![Introductions in different settings — actual cropped image from Nuovo Espresso 1](assets/p7_people_scenes.jpg)
+
+**Page 8 — Actual picture vocabulary**
+
+![Actual picture vocabulary — actual cropped image from Nuovo Espresso 1](assets/p8_vocabulary_pictures.jpg)
+
+**Page 11 — Numbers from the illustrated digits**
+
+![Numbers from the illustrated digits — actual cropped image from Nuovo Espresso 1](assets/p11_numbers_pictures.jpg)
+
 ## Contents
 
 1. [1. Greetings, parting and polite expressions](#1-greetings-parting-and-polite-expressions)

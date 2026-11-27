@@ -6,6 +6,26 @@
 
 > **Source:** `Nuovo Espresso 1 Glossario.pdf`, **Lezione 2**, PDF pp. **7–17** (page boundaries overlap with neighboring chapters). The Italian terms below are a **selected expanded learning set** rather than a transcription of every glossary line. The English glosses and practice sentences are original; Persian glosses are brief study aids. Main-book references: **pp. 17–32**.
 
+## Original book image memory cards
+
+Read the objects in these actual book visuals **before** looking at any translations. Use the sentence models in [Exercises](exercise.md#actual-textbook-picture-exercises--embedded-crops).
+
+**Page 18 — How is each person?**
+
+![How is each person? — actual cropped image from Nuovo Espresso 1](assets/p18_greeting_scenes.jpg)
+
+**Page 20 — Introduce the six people**
+
+![Introduce the six people — actual cropped image from Nuovo Espresso 1](assets/p20_people_portraits.jpg)
+
+**Page 23 — Jobs and workplaces**
+
+![Jobs and workplaces — actual cropped image from Nuovo Espresso 1](assets/p23_job_photos.jpg)
+
+**Page 26 — Number-reading game**
+
+![Number-reading game — actual cropped image from Nuovo Espresso 1](assets/p26_number_visuals.jpg)
+
 ## How to study
 
 Learn **one themed group** at a time. Read the model sentences, cover the meanings, speak the Italian expression, and use it in a different sentence. If an example uses a verb not yet taught, focus first on the target vocabulary.

@@ -10,6 +10,19 @@
 
 *Real photographs; see [credits](../PHOTO_CREDITS.md).*
 
+## Actual textbook image gallery
+
+These are **focused original crops from the supplied textbook**, not stock-photo substitutions. Use the image together with its original companion exercise in [Exercises](exercise.md). Original publisher rights apply; [image credits](../PHOTO_CREDITS.md).
+
+| Page 18 · How is each person? | Page 20 · Introduce the six people |
+|---|---|
+| ![How is each person? — actual cropped image from Nuovo Espresso 1](assets/p18_greeting_scenes.jpg) | ![Introduce the six people — actual cropped image from Nuovo Espresso 1](assets/p20_people_portraits.jpg) |
+
+| Page 23 · Jobs and workplaces | Page 26 · Number-reading game |
+|---|---|
+| ![Jobs and workplaces — actual cropped image from Nuovo Espresso 1](assets/p23_job_photos.jpg) | ![Number-reading game — actual cropped image from Nuovo Espresso 1](assets/p26_number_visuals.jpg) |
+
+
 ## Learning goals
 
 Ask **come stai/sta** and respond naturally; introduce a friend; describe nationalities, languages, jobs and workplaces; read a short social post; ask for someone's age; count 20–100; use regular **-are** verbs, **essere/avere/fare/stare**, articles, negation and question words; complete the book's first combined review.
