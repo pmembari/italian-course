@@ -338,6 +338,6 @@ Complete all five for a fictional meal, then repeat with different foods. Use th
 - [ ] I have practiced the book's visual activities on pp. 34, 36, 39, 41 and 46.
 - [ ] I reviewed grammar on p. 43; video tasks only if the recording was available.
 
-**Sources:** the uploaded *Nuovo_Espresso_1.pdf* pp. **33–47** and *Nuovo Espresso 1 Glossario.pdf* Lezione 3 pp. **17–25**. Original pictures and dialogues in this GitHub module are **new**, avoiding redistribution of publisher illustrations and long copyrighted passages.
+**Sources:** the uploaded *Nuovo_Espresso_1.pdf* pp. **33–47** and *Nuovo Espresso 1 Glossario.pdf* Lezione 3 pp. **17–25**. Companion conversations and exercises are **original teaching content**; selected picture panels above are **cropped directly from the publisher's book**, with their non-CC rights disclosed in [PHOTO_CREDITS.md](../PHOTO_CREDITS.md).
 
 [← A1 menu](../README.md) · [Grammar →](grammar.md) · [Vocabulary →](vocabulary.md) · [Exercises →](exercise.md) · [Next lesson →](../lesson-04/lesson.md)

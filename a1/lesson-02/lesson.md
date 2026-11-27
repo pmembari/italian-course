@@ -344,7 +344,7 @@ Start with **[vocabulary pictures, sentence ladders and the shadowing lab](vocab
 
 - Main source checked visually: **`Nuovo_Espresso_1.pdf` pp. 17–32**, including photographed professions, illustrated dialogues, social posts, numbers, review board, map and video stills.
 - Vocabulary source: **`Nuovo Espresso 1 Glossario.pdf`**, Italian–Persian, chapter `Lezione 2` spanning PDF pp. **7–17** (boundary pages also contain adjacent chapters).
-- **Publisher audio/video and copyright illustrations are not republished**. Listening- and video-dependent questions in the original book cannot be graded from these pages alone.
+- **Publisher audio/video are not republished; selected book illustration crops are embedded for picture practice with source and rights disclosed in PHOTO_CREDITS.md**. Listening- and video-dependent questions in the original book cannot be graded from these pages alone.
 - New illustrations here are original, designed for teaching and visual recognition.
 
 [← A1 menu](../README.md) · **Next: [Grammar →](grammar.md)** · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)

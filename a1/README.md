@@ -2,7 +2,7 @@
 
 [← Course home](../README.md)
 
-The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3). For Lezione 1 we include PDF pp. 3–16 in the coverage: p. 3 contains the contents overview, p. 4 the course introduction, and pp. 5–16 the actual lesson activities. The illustrated vocabulary tasks in Lessons 1–7 now use **real, openly licensed Wikimedia Commons photographs**; see [photographer credits and licenses](PHOTO_CREDITS.md). These images are hosted externally and are not publisher textbook artwork.
+The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3). For Lezione 1 we include PDF pp. 3–16 in the coverage: p. 3 contains the contents overview, p. 4 the course introduction, and pp. 5–16 the actual lesson activities. Lessons **1–10** use visual vocabulary prompts. Alongside externally hosted Wikimedia Commons photographs, the course includes **focused textbook image crops** from *Nuovo Espresso 1* so picture exercises can be completed in-page. These publisher images **are not CC-licensed**; see [photo and source credits](PHOTO_CREDITS.md).
 
 Development is **incremental**: all ten A1 lessons now have linked four-file modules. Continue verifying source fidelity and improving image-based practice in later revisions.
 

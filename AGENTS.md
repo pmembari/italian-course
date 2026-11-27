@@ -49,6 +49,12 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 - Lesson 9 covers **117–128**; **129** begins Lesson 10. It emphasizes personal routines, reflexive verbs, time periods, frequency, invitations and greetings, and celebrations.
 - Lessons 8–10 contain selected crops from the user's PDF. List every book crop in `a1/PHOTO_CREDITS.md` separately from Commons photos, and do not label these publisher images as CC licensed. In the public repository, preserve source and rights disclosure and prefer brief focused teaching crops over large reproductions.
 
+## Textbook image practice in Lessons 1–10
+
+- Lessons 1–7 now include **31 source-image crops** under `lesson-NN/assets`, inserted directly in `lesson.md`, `vocabulary.md`, and `exercise.md`. Lessons 8–10 have their own source crops as well.
+- Each textbook crop needs a page number, specific image-reading task, and model answer. Do not replace book-image exercises with only a page reference or unrelated stock photo.
+- The copyright holder retains rights to the book images. List every crop and modification in `a1/PHOTO_CREDITS.md` separately from Commons attribution; no claim of Creative Commons licensing for textbook art.
+
 ## Memory and recall teaching standard
 
 For grammar and vocabulary add a concise **Remember it** section per lesson:

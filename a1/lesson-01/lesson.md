@@ -270,6 +270,6 @@ Greet people, introduce yourself, ask for names and places of origin, distinguis
 | *Nuovo Espresso 1* | Additional exercise section begins | **145**; the supplied PDF contains **150 pages total** |
 | *Nuovo Espresso 1 Glossario* | Lezione 1 word list, classroom instructions, cultural expressions | **1–7** (Lezione 2 begins on p. 7) |
 
-**Copyright and completeness:** This file lists and explains all main activity situations from the pages, but does **not** reproduce the original copyrighted dialogues, exercises or screenshots. Original listening/video exercises depend on audio not supplied in this GitHub repo.
+**Copyright and completeness:** This file lists and explains all main activity situations from the pages, but does **not** reproduce full publisher dialogues or exercise sets; selected **source-picture crops** are displayed above with attribution and a separate publisher-rights notice. Original listening/video exercises depend on audio not supplied in this GitHub repo.
 
 **Continue:** [Grammar →](grammar.md) · [Vocabulary and examples →](vocabulary.md) · [Exercises →](exercise.md)

@@ -2,7 +2,7 @@
 
 [← A1 course](../README.md) · **Lesson** · [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · [Exercises](exercise.md)
 
-> **Requested coverage:** *Nuovo_Espresso_1.pdf* pp. **59–75**. Actual chapter pp. **59–71**. Pages 72–74 review Lessons 3–5; page 75 begins Lesson 6. The matching Italian–Persian glossary occupies approximately PDF pp. **30–39**. This course uses **new original dialogues, visuals and practice**, not copied textbook pages.
+> **Requested coverage:** *Nuovo_Espresso_1.pdf* pp. **59–75**. Actual chapter pp. **59–71**. Pages 72–74 review Lessons 3–5; page 75 begins Lesson 6. The matching Italian–Persian glossary occupies approximately PDF pp. **30–39**. This course uses **original companion dialogues and practice**, along with **focused crops of the original textbook's pictures**. It does not reproduce complete publisher pages; see [image rights](../PHOTO_CREDITS.md).
 
 |Photo 1|Photo 2|Photo 3|Photo 4|
 |---|---|---|---|
