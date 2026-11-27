@@ -6,6 +6,34 @@
 
 **Visual-first rule:** **real Commons photos for clearly matched concrete nouns and actions**, emoji only when a helpful, appropriately licensed photograph is not available (especially abstract structures). For picture recall, describe what you actually see. Every term has a complete **original Italian sentence**, not just a translation.
 
+## Real source pictures for word recall
+
+Name the original photographed destinations and illustrated holiday/weather scenes before checking their Italian terms. The exact images also appear beside the [companion answer checks](exercise.md#actual-book-picture-practice--with-model-answers).
+
+**Book p. 90: Six holiday destination photographs**
+
+![Textbook p. 90: Six holiday destination photographs](assets/p90_holiday_pictures.jpg)
+
+**Book p. 92: Two illustrated vacation emails**
+
+![Textbook p. 92: Two illustrated vacation emails](assets/p92_holiday_emails.jpg)
+
+**Book p. 94: Holiday story picture sequence**
+
+![Textbook p. 94: Holiday story picture sequence](assets/p94_holiday_comic.jpg)
+
+**Book p. 97: Four original weather cartoons**
+
+![Textbook p. 97: Four original weather cartoons](assets/p97_weather_cartoons.jpg)
+
+**Book p. 98: Weather map and directions**
+
+![Textbook p. 98: Weather map and directions](assets/p98_forecast_map.jpg)
+
+**Book p. 102: Facciamo il punto 3 board**
+
+![Textbook p. 102: Facciamo il punto 3 board](assets/p102_review_game.jpg)
+
 ## Holiday places and travel styles
 
 | Photo / visual + italiano | English | فارسی | Italian example |
@@ -131,7 +159,7 @@
 | ☀️ **prendere il sole** | sunbathe | آفتاب گرفتن | Abbiamo preso il sole. |
 | 🔝 **superlativo assoluto** | absolute superlative | صفت بسیار عالی | Bellissimo è un superlativo assoluto. |
 
-## Picture recall from the actual textbook (not redistributed)
+## Additional picture recall using original cropped book images
 
 The book contains **six holiday photos (p. 90)**, **offers (p. 91)**, **two traveller emails (p. 92)**, an **activity Bingo board and comic (p. 94)**, **weather cartoons (p. 97)** and an **Italian forecast map (p. 98)**.
 

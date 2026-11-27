@@ -4,11 +4,39 @@
 
 > **Requested source range:** *Nuovo_Espresso_1.pdf* pp. **89–105**. Chapter itself: **pp. 89–101**. Pages 102–104 contain Facciamo il punto 3; page 105 opens Lesson 8. Matching Italian–Persian glossary: PDF pp. **44–50**, including boundary pages.
 
+## Real textbook pictures — embedded crops
+
+These are **the actual images from your uploaded *Nuovo Espresso 1* PDF**, including the holiday photo set, illustrated source emails and weather maps. Follow the matching [picture exercises](exercise.md#actual-book-picture-practice--with-model-answers), not just a page reference. Publisher rights and provenance are in [PHOTO_CREDITS.md](../PHOTO_CREDITS.md).
+
+### Book p. 90 — Six holiday destination photographs
+
+![Textbook p. 90: Six holiday destination photographs](assets/p90_holiday_pictures.jpg)
+
+### Book p. 92 — Two illustrated vacation emails
+
+![Textbook p. 92: Two illustrated vacation emails](assets/p92_holiday_emails.jpg)
+
+### Book p. 94 — Holiday story picture sequence
+
+![Textbook p. 94: Holiday story picture sequence](assets/p94_holiday_comic.jpg)
+
+### Book p. 97 — Four original weather cartoons
+
+![Textbook p. 97: Four original weather cartoons](assets/p97_weather_cartoons.jpg)
+
+### Book p. 98 — Weather map and directions
+
+![Textbook p. 98: Weather map and directions](assets/p98_forecast_map.jpg)
+
+### Book p. 102 — Facciamo il punto 3 board
+
+![Textbook p. 102: Facciamo il punto 3 board](assets/p102_review_game.jpg)
+
 ## Goals and learning method
 
 Read vacation offers and personal emails; talk about past holidays using **passato prossimo**, **avere/essere** and irregular participles; discuss weather and geography; describe past-time expressions; and complete the combined Lessons 6–7 review.
 
-Use **see → say → sentence → dialogue → hidden recall**. Each source activity below gets an original model dialogue and a book-specific picture/reading task. The photographs in this GitHub course are licensed substitutes, **not copied publisher art**.
+Use **see → say → sentence → dialogue → hidden recall**. Each source activity below gets an original model dialogue and a book-specific picture/reading task. Both third-party photos and focused original textbook crops are used here. Their distinct rights and sources are listed in [PHOTO_CREDITS.md](../PHOTO_CREDITS.md).
 
 ## Real-photo preview and textbook-picture tasks
 

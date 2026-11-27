@@ -4,6 +4,82 @@
 
 > **Book alignment:** *Nuovo_Espresso_1.pdf* pp. **89–105**. This workbook contains **new original exercises** plus references to the publisher's pictures and activities. It does **not copy the printed publisher exercise text**, artwork, audio, video, or official answer key.
 
+## Actual book picture practice — with model answers
+
+These are **real focused crops of the original textbook pictures**. Attempt the companion task beside each picture, then reveal a model answer. The exercises here are new originals; any publisher audio/video comprehension requires the authorized recording.
+
+### Picture 1 — Six holiday destination photographs (p. 90)
+
+![Textbook p. 90: Six holiday destination photographs](assets/p90_holiday_pictures.jpg)
+
+**Try:** Match the six original photographs to vacation types: mountains, a lake city, cruise, thermal bath, cycling trip and historic city. Explain which you prefer.
+
+<details><summary>Reveal example answer</summary>
+
+**Preferisco la montagna perché mi piace camminare.** Look carefully at source labels; the pictures are examples, not current travel advertisements.
+
+</details>
+
+### Picture 2 — Two illustrated vacation emails (p. 92)
+
+![Textbook p. 92: Two illustrated vacation emails](assets/p92_holiday_emails.jpg)
+
+**Try:** Read the source messages shown in the crop. Find at least three examples of **ho/sono + past participle**, then paraphrase the holiday in your own words.
+
+<details><summary>Reveal example answer</summary>
+
+**Ho visitato...**, **sono andato/a...**, **ho fatto...** are useful example patterns. Use the exact verbs in the pictured emails for a source-specific answer.
+
+</details>
+
+### Picture 3 — Holiday story picture sequence (p. 94)
+
+![Textbook p. 94: Holiday story picture sequence](assets/p94_holiday_comic.jpg)
+
+**Try:** Use the actual illustrated sequence to tell a short holiday story in **passato prossimo** with *prima*, *poi* and *alla fine*.
+
+<details><summary>Reveal example answer</summary>
+
+**Prima sono partito/a, poi ho visitato una città e alla fine sono tornato/a a casa.** Adjust the story to match the source panels.
+
+</details>
+
+### Picture 4 — Four original weather cartoons (p. 97)
+
+![Textbook p. 97: Four original weather cartoons](assets/p97_weather_cartoons.jpg)
+
+**Try:** Match the four weather pictures to *fa caldo, fa freddo, c'è vento, piove*. Ask how the weather was yesterday.
+
+<details><summary>Reveal example answer</summary>
+
+**Che tempo ha fatto ieri? — Ha piovuto.** For today's weather: **Oggi fa caldo / fa freddo / c'è vento**.
+
+</details>
+
+### Picture 5 — Weather map and directions (p. 98)
+
+![Textbook p. 98: Weather map and directions](assets/p98_forecast_map.jpg)
+
+**Try:** Find *nord, sud, est, ovest*. Say two weather sentences using the printed map as a historical textbook example, not a live forecast.
+
+<details><summary>Reveal example answer</summary>
+
+**Al nord ci sono nuvole. Al sud c'è il sole.** These are language-model examples; check the source map before stating its specific conditions.
+
+</details>
+
+### Picture 6 — Facciamo il punto 3 board (p. 102)
+
+![Textbook p. 102: Facciamo il punto 3 board](assets/p102_review_game.jpg)
+
+**Try:** Choose three visible review-game spaces and create a direction request, holiday story and weather sentence using Lessons 6–7.
+
+<details><summary>Reveal example answer</summary>
+
+**Scusi, dov'è il museo? Ieri sono andato/a a Venezia. Oggi piove.** The activity is new companion practice for the original pictured game.
+
+</details>
+
 ## Part A — Sentence and grammar recall (1–42)
 
 Try each one **before** opening the answer. After a correct answer, make a different sentence using the same pattern.
