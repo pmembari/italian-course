@@ -402,6 +402,8 @@ Attempt each before expanding its answer, then invent a different sentence based
 
 ## Part B — Actual textbook picture and reading exercises
 
+![Actual textbook crop — page 118](assets/p118_daily_people.jpg)
+
 **50.** **p. 118 — daily-life photographs.** Match a new routine phrase to each of the **five original photographs**; distinguish an observation from a guess.
 
 <details><summary>How to check</summary>
@@ -417,6 +419,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
 
 </details>
+
+![Actual textbook crop — page 120](assets/p120_routine_comic.jpg)
 
 **52.** **p. 120 — eight-panel daily routine.** Describe each original numbered panel using at least one reflexive verb; then reorder as a day.
 
@@ -434,6 +438,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 </details>
 
+![Actual textbook crop — page 122](assets/p122_davide_saturday.jpg)
+
 **54.** **p. 122 — Davide's Saturday.** Describe all **six** real comic frames; rewrite the story in first person.
 
 <details><summary>How to check</summary>
@@ -441,6 +447,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
 
 </details>
+
+![Actual textbook crop — page 123](assets/p123_ernesto_day.jpg)
 
 **55.** **p. 123 — Ernesto's day.** Read the clocks from the actual illustration and retell his actions using `prima, poi, dopo`.
 
@@ -457,6 +465,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
 
 </details>
+
+![Actual textbook crop — page 124](assets/p124_sms_invites.jpg)
 
 **57.** **p. 124 — illustrated SMS replies.** Read the messages and write a brief natural response to each; choose the appropriate greeting.
 
@@ -481,6 +491,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
 
 </details>
+
+![Actual textbook crop — page 128](assets/p128_gift_objects.jpg)
 
 **60.** **p. 128 — gift photographs.** Identify the real depicted gift objects, then choose a plausible occasion for each.
 

@@ -8,6 +8,30 @@
 
 You will order food in shops, name ingredients and four seasons, ask for precise quantities in **grammi, etti, chili, litri, pezzi** and **confezioni**, use **lo/la/li/le** and **ne**, and discuss recipe verbs and impersonal **si**.
 
+## Real cropped textbook illustrations
+
+The images immediately below are **actual focused crops from the uploaded book**, not replacements or generic internet photos. Use the image first, then answer the next exercise. Their publisher provenance and rights status are documented in [PHOTO_CREDITS](../PHOTO_CREDITS.md).
+
+### Source page 106
+
+![Actual textbook crop — page 106](assets/p106_food_illustrations.jpg)
+
+### Source page 108
+
+![Actual textbook crop — page 108](assets/p108_food_shops.jpg)
+
+### Source page 109
+
+![Actual textbook crop — page 109](assets/p109_shop_dialogue.jpg)
+
+### Source page 111
+
+![Actual textbook crop — page 111](assets/p111_recipe_verbs.jpg)
+
+### Source page 116
+
+![Actual textbook crop — page 116](assets/p116_italian_products.jpg)
+
 ## The original-book visual route
 
 | Page | Actual textbook section | Learning task |

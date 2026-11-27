@@ -410,6 +410,8 @@ Attempt each before expanding its answer, then invent a different sentence based
 
 ## Part B — Actual textbook picture and reading exercises
 
+![Actual textbook crop — page 106](assets/p106_food_illustrations.jpg)
+
 **51.** **p. 106 — 26 food drawings.** Choose six pictures from the **actual grid**; name the foods and group them by season. Verify against the numbered labels.
 
 <details><summary>How to check</summary>
@@ -426,6 +428,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 </details>
 
+![Actual textbook crop — page 108](assets/p108_food_shops.jpg)
+
 **53.** **p. 108 — three shop photographs.** Write `mercato`, `panificio`, `macelleria` under the appropriate **original photographs**. Make three short purchases.
 
 <details><summary>How to check</summary>
@@ -433,6 +437,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
 
 </details>
+
+![Actual textbook crop — page 109](assets/p109_shop_dialogue.jpg)
 
 **54.** **p. 109 — store conversation.** Read the source shopping conversation, find an order by weight and a request using **ne**.
 
@@ -449,6 +455,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
 
 </details>
+
+![Actual textbook crop — page 111](assets/p111_recipe_verbs.jpg)
 
 **56.** **p. 111 — five recipe drawings.** Say **cuocere, versare, mescolare, aggiungere, tagliare** while pointing to the matching real drawing; then invent a vegetable recipe.
 
@@ -481,6 +489,8 @@ Use the original visible words and details in the cropped textbook picture, or c
 Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
 
 </details>
+
+![Actual textbook crop — page 116](assets/p116_italian_products.jpg)
 
 **60.** **p. 116 — Italian food products.** Identify at least four products from the actual seven-product image. Say which you would like to try.
 

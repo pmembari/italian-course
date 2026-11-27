@@ -4,7 +4,7 @@
 
 **Source-led selection:** *Nuovo Espresso 1* Lezione 8, textbook PDF pp. 105–116, cross-checked with the Italian–Persian glossary. Each Italian model sentence is **new educational text**, not a copied publisher dialogue. Pictures in the textbook are identified in [Lesson](lesson.md).
 
-**Visual method:** each Italian entry has a quick emoji memory cue while concrete groups are illustrated in the scanned book images; when an exact, licensed external photo is available, it takes priority. The word spelling, translation and example remain the definitive reference.
+**Visual method:** each Italian entry has a quick emoji memory cue and the concrete groups are now illustrated by **actual cropped textbook pictures below**; when an exact, licensed external photo is available, it takes priority. The word spelling, translation and example remain the definitive reference.
 
 ## Stagioni e alimenti
 
@@ -121,6 +121,30 @@
 | 🔁 **abitudine** | habit | عادت | È un'abitudine comune. |
 | 🥗 **dieta mediterranea** | Mediterranean diet | رژیم مدیترانه‌ای | Conosco la dieta mediterranea. |
 | 📦 **prodotto** | product | محصول | È un prodotto locale. |
+
+## Original book images — see, say, recall
+
+These illustrations are actual cropped textbook assets. Say the Italian words for what you see, then form full sentences. **They are separate from the emoji mnemonic cues in the tables.**
+
+### Book page 106
+
+![Actual textbook crop — page 106](assets/p106_food_illustrations.jpg)
+
+### Book page 108
+
+![Actual textbook crop — page 108](assets/p108_food_shops.jpg)
+
+### Book page 109
+
+![Actual textbook crop — page 109](assets/p109_shop_dialogue.jpg)
+
+### Book page 111
+
+![Actual textbook crop — page 111](assets/p111_recipe_verbs.jpg)
+
+### Book page 116
+
+![Actual textbook crop — page 116](assets/p116_italian_products.jpg)
 
 ## Picture-to-word learning with the **actual textbook**
 

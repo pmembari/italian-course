@@ -121,6 +121,17 @@ Other Lesson 6/7 thumbnails reuse photographs already credited in earlier sectio
 
 | Lesson | Textbook page | Original visual / asset | Modification |
 |---|---:|---|---|
+| 8 | 106 | [p106_food_illustrations.jpg](lesson-08/assets/p106_food_illustrations.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 8 | 108 | [p108_food_shops.jpg](lesson-08/assets/p108_food_shops.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 8 | 109 | [p109_shop_dialogue.jpg](lesson-08/assets/p109_shop_dialogue.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 8 | 111 | [p111_recipe_verbs.jpg](lesson-08/assets/p111_recipe_verbs.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 8 | 116 | [p116_italian_products.jpg](lesson-08/assets/p116_italian_products.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 9 | 118 | [p118_daily_people.jpg](lesson-09/assets/p118_daily_people.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 9 | 120 | [p120_routine_comic.jpg](lesson-09/assets/p120_routine_comic.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 9 | 122 | [p122_davide_saturday.jpg](lesson-09/assets/p122_davide_saturday.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 9 | 123 | [p123_ernesto_day.jpg](lesson-09/assets/p123_ernesto_day.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 9 | 124 | [p124_sms_invites.jpg](lesson-09/assets/p124_sms_invites.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
+| 9 | 128 | [p128_gift_objects.jpg](lesson-09/assets/p128_gift_objects.jpg) | Focused crop from scanned textbook PDF; resized and JPEG-compressed |
 | 10 | 130 | [Family news photographs](lesson-10/assets/p130_family_photos.jpg) | Cropped from original textbook scan; reduced JPEG |
 | 10 | 131 | [Family genealogy chart](lesson-10/assets/p131_family_tree.jpg) | Cropped from original textbook scan; reduced JPEG |
 | 10 | 133 | [Family comparison silhouettes](lesson-10/assets/p133_family_comparison.jpg) | Cropped from original textbook scan; reduced JPEG |

@@ -4,7 +4,7 @@
 
 **Source-led selection:** *Nuovo Espresso 1* Lezione 9, textbook PDF pp. 117–128, cross-checked with the Italian–Persian glossary. Each Italian model sentence is **new educational text**, not a copied publisher dialogue. Pictures in the textbook are identified in [Lesson](lesson.md).
 
-**Visual method:** each Italian entry has a quick emoji memory cue while concrete groups are illustrated in the scanned book images; when an exact, licensed external photo is available, it takes priority. The word spelling, translation and example remain the definitive reference.
+**Visual method:** each Italian entry has a quick emoji memory cue and the concrete groups are now illustrated by **actual cropped textbook pictures below**; when an exact, licensed external photo is available, it takes priority. The word spelling, translation and example remain the definitive reference.
 
 ## Routine and reflexive verbs
 
@@ -127,6 +127,34 @@
 | 🗓️ **occupato / occupata** | busy | مشغول | Domani sono occupata. |
 | 🆓 **libero / libera** | free / available | آزاد | Venerdì sono libero. |
 | 🤝 **promettere** | to promise | قول دادن | Prometto di chiamarti. |
+
+## Original book images — see, say, recall
+
+These illustrations are actual cropped textbook assets. Say the Italian words for what you see, then form full sentences. **They are separate from the emoji mnemonic cues in the tables.**
+
+### Book page 118
+
+![Actual textbook crop — page 118](assets/p118_daily_people.jpg)
+
+### Book page 120
+
+![Actual textbook crop — page 120](assets/p120_routine_comic.jpg)
+
+### Book page 122
+
+![Actual textbook crop — page 122](assets/p122_davide_saturday.jpg)
+
+### Book page 123
+
+![Actual textbook crop — page 123](assets/p123_ernesto_day.jpg)
+
+### Book page 124
+
+![Actual textbook crop — page 124](assets/p124_sms_invites.jpg)
+
+### Book page 128
+
+![Actual textbook crop — page 128](assets/p128_gift_objects.jpg)
 
 ## Picture-to-word learning with the **actual textbook**
 

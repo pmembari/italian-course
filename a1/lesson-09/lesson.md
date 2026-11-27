@@ -8,6 +8,34 @@
 
 You will discuss study/work schedules, say when actions begin and finish, use reflexive verbs such as **alzarsi / svegliarsi / vestirsi**, state frequency, describe a full day, propose invitations, send short responses and recognize holidays and suitable greetings.
 
+## Real cropped textbook illustrations
+
+The images immediately below are **actual focused crops from the uploaded book**, not replacements or generic internet photos. Use the image first, then answer the next exercise. Their publisher provenance and rights status are documented in [PHOTO_CREDITS](../PHOTO_CREDITS.md).
+
+### Source page 118
+
+![Actual textbook crop — page 118](assets/p118_daily_people.jpg)
+
+### Source page 120
+
+![Actual textbook crop — page 120](assets/p120_routine_comic.jpg)
+
+### Source page 122
+
+![Actual textbook crop — page 122](assets/p122_davide_saturday.jpg)
+
+### Source page 123
+
+![Actual textbook crop — page 123](assets/p123_ernesto_day.jpg)
+
+### Source page 124
+
+![Actual textbook crop — page 124](assets/p124_sms_invites.jpg)
+
+### Source page 128
+
+![Actual textbook crop — page 128](assets/p128_gift_objects.jpg)
+
 ## The original-book visual route
 
 | Page | Actual textbook section | Learning task |
