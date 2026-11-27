@@ -10,6 +10,30 @@
 
 *Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
+## Book images — real crops from the supplied PDF
+
+These are **the actual publisher illustrations**, cropped to the relevant visual areas. They are not substitute web photos. Answer the picture-specific questions in [Exercises](exercise.md#actual-book-picture-practice--with-images). [Provenance and rights](../PHOTO_CREDITS.md).
+
+### Page 48 — Hobbies and leisure activities
+
+![Textbook p. 48: Hobbies and leisure activities](assets/p48_free_time_activities.jpg)
+
+
+### Page 49 — What do you do in your free time?
+
+![Textbook p. 49: What do you do in your free time?](assets/p49_activity_pictures.jpg)
+
+
+### Page 54 — Real clock-reading grid
+
+![Textbook p. 54: Real clock-reading grid](assets/p54_clock_faces.jpg)
+
+
+### Page 58 — Culture and leisure places
+
+![Textbook p. 58: Culture and leisure places](assets/p58_city_photos.jpg)
+
+
 ## Learning outcomes
 
 Discuss hobbies, sports, routines and weekends; express frequency and likes/dislikes; accept or decline invitations; talk about music, films and reading; ask and tell the time; and read short leisure profiles.

@@ -8,6 +8,30 @@
 
 **Method:** See the picture → recall the **Italian word and article** → make a **sentence** → ask a **question** → say a **two-line exchange** without looking.
 
+## Source picture recall — original illustrated book pages
+
+Identify the visible items **in the original source images**, then say the word, use it in a complete Italian sentence, and ask a question. Exact pictures and companion answers are in [Exercises](exercise.md#actual-book-picture-practice--with-images).
+
+**Original textbook p. 34 — At the bar — drinks**
+
+![Textbook p. 34: At the bar — drinks](assets/p34_drink_pictures.jpg)
+
+
+**Original textbook p. 36 — Menu and food photographs**
+
+![Textbook p. 36: Menu and food photographs](assets/p36_food_menu.jpg)
+
+
+**Original textbook p. 39 — What is on the table?**
+
+![Textbook p. 39: What is on the table?](assets/p39_table_setting.jpg)
+
+
+**Original textbook p. 46 — Italian places to eat**
+
+![Textbook p. 46: Italian places to eat](assets/p46_restaurant_types.jpg)
+
+
 ## Visual entry points
 
 ![Real photograph: breakfast](https://commons.wikimedia.org/wiki/Special:FilePath/Cornetto%20e%20cappuccino.jpg?width=500)

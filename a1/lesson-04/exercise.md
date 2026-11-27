@@ -4,6 +4,58 @@
 
 > **Original practice** aligned with *Nuovo Espresso 1*, chapter 4, and the requested coverage **pp. 47–59**. Listening/video-dependent publisher tasks require authorized audio/video; the exercises here do not purport to supply the publisher's answer key.
 
+## Actual book picture practice — with images
+
+The exercises immediately below use **cropped pictures from the actual book**, embedded here so you can study without switching back to the PDF. The answer reveals are **original models**; audio-dependent publisher answers still require authorized recordings.
+
+### Picture 1 · Source p. 48 — Hobbies and leisure activities
+
+![Textbook p. 48: Hobbies and leisure activities](assets/p48_free_time_activities.jpg)
+
+**Try:** Match six source cartoons to verbs such as *leggere, ballare, dormire, correre, giocare* and *andare in bicicletta*. Write three sentences.
+
+<details><summary>Reveal example answer</summary>
+
+**Mi piace leggere. Il sabato vado in bicicletta. Qualche volta corro.**
+
+</details>
+
+### Picture 2 · Source p. 49 — What do you do in your free time?
+
+![Textbook p. 49: What do you do in your free time?](assets/p49_activity_pictures.jpg)
+
+**Try:** Choose three pictured hobbies. Ask another person if they like each one, then answer in Italian.
+
+<details><summary>Reveal example answer</summary>
+
+**Ti piace ballare? — Sì, mi piace.** / **Ti piace giocare a calcio? — No, preferisco leggere.**
+
+</details>
+
+### Picture 3 · Source p. 54 — Real clock-reading grid
+
+![Textbook p. 54: Real clock-reading grid](assets/p54_clock_faces.jpg)
+
+**Try:** Read four clock faces from the actual grid. Ask and answer *Che ore sono?* and compare *È l'una* versus *Sono le due*.
+
+<details><summary>Reveal example answer</summary>
+
+**È l'una** for one o'clock; **Sono le quattro** for four o'clock. For exact pictured times, read the clock hands, not an invented printed answer.
+
+</details>
+
+### Picture 4 · Source p. 58 — Culture and leisure places
+
+![Textbook p. 58: Culture and leisure places](assets/p58_city_photos.jpg)
+
+**Try:** Choose two pictured locations. Describe one leisure activity someone could do there, and say when.
+
+<details><summary>Reveal example answer</summary>
+
+**Il sabato visito un museo. Domenica faccio una passeggiata in centro.** Activities are original possibilities, not claims about the source photo's visitors.
+
+</details>
+
 ## Part A — 30 sentence and grammar recall prompts
 
 Read each prompt, answer **in Italian**, then expand only after an attempt.

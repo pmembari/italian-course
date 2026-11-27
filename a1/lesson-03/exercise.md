@@ -4,6 +4,58 @@
 
 > This workbook adds **original practice** aligned with *Nuovo Espresso 1* pp. **33–46**; page **47** opens the next lesson. The original publisher's listening checks depend on authorized audio/video and are **not copied or marked complete** here.
 
+## Actual book picture practice — with images
+
+The exercises immediately below use **cropped pictures from the actual book**, embedded here so you can study without switching back to the PDF. The answer reveals are **original models**; audio-dependent publisher answers still require authorized recordings.
+
+### Picture 1 · Source p. 34 — At the bar — drinks
+
+![Textbook p. 34: At the bar — drinks](assets/p34_drink_pictures.jpg)
+
+**Try:** Name six drink pictures, then order two of them politely in Italian.
+
+<details><summary>Reveal example answer</summary>
+
+Examples: **un caffè**, **un cappuccino**, **un tè**, **un'acqua minerale**. **Vorrei un cappuccino e un'acqua minerale, per favore.**
+
+</details>
+
+### Picture 2 · Source p. 36 — Menu and food photographs
+
+![Textbook p. 36: Menu and food photographs](assets/p36_food_menu.jpg)
+
+**Try:** Identify one sweet food, two savoury dishes, and one menu item. Build a mini restaurant order.
+
+<details><summary>Reveal example answer</summary>
+
+Example: **Prendo un panino e poi un gelato.** Match the exact food labels and photographs shown in the crop.
+
+</details>
+
+### Picture 3 · Source p. 39 — What is on the table?
+
+![Textbook p. 39: What is on the table?](assets/p39_table_setting.jpg)
+
+**Try:** Find a plate, fork, knife and glass in the actual illustration. Say a complete sentence for each.
+
+<details><summary>Reveal example answer</summary>
+
+**Il piatto è sul tavolo. Vorrei una forchetta. Mi porta un coltello e un bicchiere, per favore?**
+
+</details>
+
+### Picture 4 · Source p. 46 — Italian places to eat
+
+![Textbook p. 46: Italian places to eat](assets/p46_restaurant_types.jpg)
+
+**Try:** Compare three original photographs. Which looks most like a bar, a restaurant and a bakery? Choose where to order a coffee.
+
+<details><summary>Reveal example answer</summary>
+
+**Al bar prendo un caffè. Al ristorante mangio la pasta.** Some venues can serve several foods, so photo-only classification can be ambiguous.
+
+</details>
+
 ## How to practise actively
 
 1. **Cover** the Italian answers first.

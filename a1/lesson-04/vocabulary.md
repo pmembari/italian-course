@@ -6,6 +6,30 @@
 
 **Source:** *Nuovo Espresso 1 Glossario* lesson 4, approx. PDF pp. **25–30**, checked alongside main textbook pp. **47–58**. This is a **selected, expanded learning vocabulary** rather than a verbatim reproduction. English and Persian glosses are study aids; the example sentences, picture labels and exercises are original.
 
+## Source picture recall — original illustrated book pages
+
+Identify the visible items **in the original source images**, then say the word, use it in a complete Italian sentence, and ask a question. Exact pictures and companion answers are in [Exercises](exercise.md#actual-book-picture-practice--with-images).
+
+**Original textbook p. 48 — Hobbies and leisure activities**
+
+![Textbook p. 48: Hobbies and leisure activities](assets/p48_free_time_activities.jpg)
+
+
+**Original textbook p. 49 — What do you do in your free time?**
+
+![Textbook p. 49: What do you do in your free time?](assets/p49_activity_pictures.jpg)
+
+
+**Original textbook p. 54 — Real clock-reading grid**
+
+![Textbook p. 54: Real clock-reading grid](assets/p54_clock_faces.jpg)
+
+
+**Original textbook p. 58 — Culture and leisure places**
+
+![Textbook p. 58: Culture and leisure places](assets/p58_city_photos.jpg)
+
+
 ## Picture-first vocabulary
 
 |Photo 1|Photo 2|

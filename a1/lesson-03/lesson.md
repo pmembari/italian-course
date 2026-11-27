@@ -10,6 +10,30 @@
 
 *Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
+## Book images — real crops from the supplied PDF
+
+These are **the actual publisher illustrations**, cropped to the relevant visual areas. They are not substitute web photos. Answer the picture-specific questions in [Exercises](exercise.md#actual-book-picture-practice--with-images). [Provenance and rights](../PHOTO_CREDITS.md).
+
+### Page 34 — At the bar — drinks
+
+![Textbook p. 34: At the bar — drinks](assets/p34_drink_pictures.jpg)
+
+
+### Page 36 — Menu and food photographs
+
+![Textbook p. 36: Menu and food photographs](assets/p36_food_menu.jpg)
+
+
+### Page 39 — What is on the table?
+
+![Textbook p. 39: What is on the table?](assets/p39_table_setting.jpg)
+
+
+### Page 46 — Italian places to eat
+
+![Textbook p. 46: Italian places to eat](assets/p46_restaurant_types.jpg)
+
+
 ## What you will learn
 
 - Order a coffee, tea, juice or light snack in a **bar**.
