@@ -416,7 +416,7 @@ Attempt each before expanding its answer, then invent a different sentence based
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Visible examples: **1 panini, 2 biscotti, 3 riso, 4 cocomero, 5 castagne, 6 bistecche**. Other correct items are in the same image grid. Try: `Compro le fragole in primavera.`
 
 </details>
 
@@ -424,7 +424,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Try these six words, then check the original image labels: `panini, ciliegie, carote, miele, formaggio, uva`. Different six-item selections are also valid.
 
 </details>
 
@@ -434,7 +434,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+From left to right the actual photographs show **mercato, panificio, macelleria**. Example requests: `Vorrei un chilo di mele`; `Vorrei del pane`; `Vorrei due etti di carne`.
 
 </details>
 
@@ -444,7 +444,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+The source conversation includes requests for **mortadella, parmigiano, olive, yogurt** and food quantities. Find the phrases for `tre etti`, `un etto` and a request using `ne`; the exact original dialogue is visible above.
 
 </details>
 
@@ -452,7 +452,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Original model: `Buongiorno, vorrei due etti di parmigiano.` — `Fresco o stagionato?` — `Stagionato, grazie.` — `Nient'altro?` — `No, quanto viene?`
 
 </details>
 
@@ -462,7 +462,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Look at the printed five recipe pictures. The captions show **cuocere, versare, mescolare, aggiungere, tagliare**. An original sequence: `Prima taglio le verdure, poi verso l'olio, aggiungo il sale, mescolo e cuocio.`
 
 </details>
 
@@ -470,7 +470,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Examples: `€4,20 = quattro euro e venti centesimi`; `€7,50 = sette euro e cinquanta`; `€12,00 = dodici euro`. €20 − €12 = **otto euro di resto**.
 
 </details>
 
@@ -478,7 +478,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Examples: `Lo compro`; `La prendo`; `Li mangio`; `Le compro`; `Ne prendo due`; `In Italia si mangia pasta`.
 
 </details>
 
@@ -486,7 +486,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Describe rather than guess recorded dialogue: `Il cliente vuole un panino`; `Il negoziante prepara il panino`. Video comprehension needs the official video.
 
 </details>
 
@@ -496,7 +496,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+The original illustration labels include **gianduiotto, parmigiano reggiano, mozzarella, prosciutto di Parma, olio d'oliva, tortellini, chianti**. Example: `Vorrei assaggiare i tortellini`.
 
 </details>
 

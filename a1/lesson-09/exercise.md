@@ -408,7 +408,7 @@ Attempt each before expanding its answer, then invent a different sentence based
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Visible scenes include **playing football, working at a computer, shaving, working in a shop, and watching television**. Example: `Lui si fa la barba la mattina.`
 
 </details>
 
@@ -416,7 +416,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Read the print for the person's own reason; a model response is: `Domani ha una partita importante, quindi va a letto presto.` Do not claim an official listening answer without audio.
 
 </details>
 
@@ -426,7 +426,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+The panels show a mixture of **waking, dressing, sport, work, television, and going to bed**. A sample timeline: `Mi sveglio, mi lavo, mi vesto, lavoro, faccio sport, guardo la TV, vado a letto.`
 
 </details>
 
@@ -434,7 +434,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Sample schedule: `Lavoro dalle nove alle cinque`; `Esco prima delle otto`; `Torno dopo le sei`. Check your specific source readings against these expressions.
 
 </details>
 
@@ -444,7 +444,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Use **all six original panels**. An original retelling: `Sabato mi sveglio tardi, esco, faccio una passeggiata, incontro gli amici e torno a casa.` Confirm scene details from the image rather than forcing this model onto the book characters.
 
 </details>
 
@@ -454,7 +454,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Follow the depicted clocks in sequence, then say: `Prima fa colazione, poi esce, dopo pranza e la sera torna a casa.` The precise times must be read from the visible clocks.
 
 </details>
 
@@ -462,7 +462,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+For example: `Natale — 25 dicembre`; `Capodanno — 1 gennaio`; `Festa della donna — 8 marzo`. The source activity gives other celebrations as well.
 
 </details>
 
@@ -472,7 +472,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Original responses: `Ho superato l'esame!` → `Congratulazioni!`; `Domani vieni al cinema?` → `Volentieri!`; `Non posso venire` → `Peccato, un'altra volta!`
 
 </details>
 
@@ -480,7 +480,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+`mi sveglio, ti svegli, si sveglia, ci svegliamo, vi svegliate, si svegliano`.
 
 </details>
 
@@ -488,7 +488,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+Possible question: `Sei libero mercoledì sera?`; possible response: `No, ho un appuntamento. Facciamo venerdì?`. Verify the source agenda/video separately.
 
 </details>
 
@@ -498,7 +498,7 @@ Use the original visible words and details in the cropped textbook picture, or c
 
 <details><summary>How to check</summary>
 
-Use the original visible words and details in the cropped textbook picture, or compare to its printed captions. Where the exercise requires the publisher's recorded material, do not invent the official audio result. Try an original complete sentence using the [Vocabulary](vocabulary.md) words.
+The five images depict **a bottle, flowers, baby booties, a wrapped gift and red flowers/plant material**. Choose a plausible occasion, and explain why; multiple answers can be acceptable.
 
 </details>
 
