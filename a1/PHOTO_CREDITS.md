@@ -111,3 +111,21 @@ Other Lesson 6/7 thumbnails reuse photographs already credited in earlier sectio
 | Subject | Creator / source | License | Original file |
 |---|---|---|---|
 | Historical family portrait (used as context, not as a depiction of fictional lesson characters) | P. B. Abery photograph, National Library of Wales / Commons uploader Jason.nlw | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | [Family portrait (1293715).jpg](https://commons.wikimedia.org/wiki/File:Family_portrait_(1293715).jpg) |
+
+
+## Publisher textbook image crops — Lessons 8, 9 and 10
+
+**Important distinction:** The images in this section are **cropped from the user-supplied scan of *Nuovo Espresso 1***; they are **not Wikimedia Commons photographs** and are **not licensed under CC BY, CC0 or any other Creative Commons license**. The user's permission to use their copy does not itself transfer the publisher's rights. Credit the original publication and refer to the book for original art and reading material; do not treat the crops as freely reusable assets.
+
+**Source:** *Nuovo Espresso 1*, publisher Alma Edizioni, scanned PDF pages identified below. Copyright for the source photographs, illustration and editorial design remains with their respective rightsholders. Cropping and resizing for targeted study do not imply redistribution permission or an independent free license. If a public redistribution request arises, seek permission or replace with correctly licensed originals.
+
+| Lesson | Textbook page | Original visual / asset | Modification |
+|---|---:|---|---|
+| 10 | 130 | [Family news photographs](lesson-10/assets/p130_family_photos.jpg) | Cropped from original textbook scan; reduced JPEG |
+| 10 | 131 | [Family genealogy chart](lesson-10/assets/p131_family_tree.jpg) | Cropped from original textbook scan; reduced JPEG |
+| 10 | 133 | [Family comparison silhouettes](lesson-10/assets/p133_family_comparison.jpg) | Cropped from original textbook scan; reduced JPEG |
+| 10 | 134 | [Family announcement email](lesson-10/assets/p134_family_email.jpg) | Cropped from original textbook scan; reduced JPEG |
+| 10 | 135 | [Possessive pronoun circles](lesson-10/assets/p135_possessive_circles.jpg) | Cropped from original textbook scan; reduced JPEG |
+| 10 | 141 | [Italian gesture photographs](lesson-10/assets/p141_gesture_photos.jpg) | Cropped from original textbook scan; reduced JPEG |
+
+**Naming convention:** crop files use `pNNN_description.jpg`; the page number means the PDF's printed page. Distinguish them explicitly from the Commons photos credited above. **Not CC-licensed**; attribution is not the same as an authorization to publish.
