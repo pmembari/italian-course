@@ -13,7 +13,7 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 
 - Edit **one lesson at a time**. Inspect its actual textbook and glossary pages before adding claims or detailed source references.
 - Main navigation: `README.md` → `a1/README.md` → `a1/lesson-NN/lesson.md`.
-- Lezioni 1–7 and 10 have four files each; Lezioni 8–9 remain drafts. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
+- Lezioni 1–10 have four files each. Each migrated lesson has exactly four files: `lesson.md`, `grammar.md`, `vocabulary.md`, and `exercise.md`. Keep related topics together and link all four from `lesson.md`.
 - Migrate and verify only **one lesson at a time**; unmigrated chapters remain draft files.
 - **Lesson 2 covers PDF pp. 17–32**, including **Facciamo il punto 1** on pp. 30–32; include end-of-unit review pages in source maps rather than treating them as unrelated to the lesson.
 - Keep the lesson **self-contained**: book pages, communication goals, grammar, selective vocabulary, short original examples, practice with collapsible solutions, speaking task and next-step link.
@@ -42,6 +42,12 @@ Do not incorporate any other textbook or invent supplementary page mappings. The
 
 - Lesson 10 source PDF **pp. 129–144**: activities **130–138**, grammar **p. 139**, video and culture **pp. 140–141**, final **Facciamo il punto 4** review **pp. 142–144**.
 - Use the textbook's family tree, source photos and gesture screenshots as prompts, but do not republish entire copyrighted images/readings and exercises in this public repository. Write original matched practice and model answers.
+
+## Lesson 8 and 9 page boundaries
+
+- Lesson 8 starts with its chapter-opening page **105** and covers **105–116**; **117** is Lesson 9's opening page. It emphasizes food illustrations, shops, shopping quantities, direct-object pronouns, **ne**, recipe steps, and impersonal **si**.
+- Lesson 9 covers **117–128**; **129** begins Lesson 10. It emphasizes personal routines, reflexive verbs, time periods, frequency, invitations and greetings, and celebrations.
+- Lessons 8–10 contain selected crops from the user's PDF. List every book crop in `a1/PHOTO_CREDITS.md` separately from Commons photos, and do not label these publisher images as CC licensed. In the public repository, preserve source and rights disclosure and prefer brief focused teaching crops over large reproductions.
 
 ## Memory and recall teaching standard
 

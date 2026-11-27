@@ -4,7 +4,7 @@
 
 The **10-lesson sequence** is taken from the textbook's contents (PDF pp. 2–3). For Lezione 1 we include PDF pp. 3–16 in the coverage: p. 3 contains the contents overview, p. 4 the course introduction, and pp. 5–16 the actual lesson activities. The illustrated vocabulary tasks in Lessons 1–7 now use **real, openly licensed Wikimedia Commons photographs**; see [photographer credits and licenses](PHOTO_CREDITS.md). These images are hosted externally and are not publisher textbook artwork.
 
-Development is **incremental**: Lezioni 1–7 and 10 have four-file modules, while Lezioni 8–9 remain draft material; Lezione 10 is a four-file learning module awaiting page-by-page verification.
+Development is **incremental**: all ten A1 lessons now have linked four-file modules. Continue verifying source fidelity and improving image-based practice in later revisions.
 
 | Book lesson | Theme | Textbook main pages | Course status |
 |---|---|---|---|
@@ -15,8 +15,8 @@ Development is **incremental**: Lezioni 1–7 and 10 have four-file modules, whi
 | 05 | **[In albergo](lesson-05/lesson.md)** | **59–75** (chapter 59–71; review 72–74; L6 opens at 75) | Expanded with photo-based recall and review |
 | 06 | **[In giro per l'Italia](lesson-06/lesson.md)** | **75–89** (chapter 75–88; L7 opens at 89) | Expanded, photo-assisted, 57 exercises |
 | 07 | **[Andiamo in vacanza!](lesson-07/lesson.md)** | **89–105** (chapter 89–101; review 102–104; L8 opens at 105) | Expanded, photo-assisted, 57 exercises |
-| 08 | [Sapori d'Italia](08-sapori-ditalia.md) | 106–116 | Draft |
-| 09 | [Vita quotidiana](09-vita-quotidiana.md) | 117–128 | Draft |
+| 08 | **[Sapori d'Italia](lesson-08/lesson.md)** | **105–117** (unit 105–116; L9 begins 117) | Four-file module, 101 vocabulary entries, 64 exercises and source image crops |
+| 09 | **[Vita quotidiana](lesson-09/lesson.md)** | **117–129** (unit 117–128; L10 begins 129) | Four-file module, 102 vocabulary entries, 64 exercises and source image crops |
 | 10 | **[La famiglia](lesson-10/lesson.md)** | **129–144** (activities 129–138; grammar 139; video/culture 140–141; final review 142–144) | Expanded with trilingual vocabulary and 70 exercises |
 
 The book includes *Facciamo il punto* reviews after Lezioni 2, 5, 7, and 10 (pp. 30–32, 72–74, 102–104, 142–144). Its exercise section begins on p. 145; the selected **239-page** *Nuovo_Espresso_1.pdf* includes the additional activities. **Esercizi 6** starts on p. 174 and **Esercizi 7** on p. 180. The alternate 150-page scan contains only the first six supplementary exercise pages.
@@ -27,7 +27,7 @@ The book includes *Facciamo il punto* reviews after Lezioni 2, 5, 7, and 10 (pp.
 - **Glossary:** matching Lezione vocabulary in `Nuovo Espresso 1 Glossario` (65 pages, Italian–Persian).
 - **One lesson folder:** `lesson.md` (overview and source pages), `grammar.md`, `vocabulary.md`, `exercise.md`. Files link to each other, so readers never need to search across unrelated topics.
 
-Lezioni **1–7** now each have four linked files. Lezioni **8–10** remain drafts until reviewed.
+Lezioni **1–10** each have four linked files. The picture-based study materials for Lessons 8–10 include selected **cropped textbook images**, which are distinguished from separately licensed Wikimedia Commons photographs in [PHOTO_CREDITS.md](PHOTO_CREDITS.md).
 
 No other textbooks are being incorporated at this stage. **Draft** means an early overview, not a fully verified or completed lesson.
 

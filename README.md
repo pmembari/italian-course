@@ -8,7 +8,7 @@ A beginner-friendly course organized **one textbook lesson at a time**. Each tex
 
 **[Lezione 1 — Primi contatti (first focus)](a1/lesson-01/lesson.md)**
 
-The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. Lessons 1–7 now have four-file modules. Lessons 8–9 remain drafts, while Lesson 10 is also developed into a four-file module.
+The book contains ten lessons. The course is being **refined gradually**, beginning with Lezione 1. All ten lessons now have four-file modules; ongoing reviews may refine their source references and companion exercises.
 
 ## Our two sources
 
@@ -32,7 +32,7 @@ a1/
     └── exercise.md     # self-check and speaking tasks
 ```
 
-We develop chapters from the two supplied PDFs; Lezioni 1–7 have four-file folders, while Lezioni 8–10 remain drafts.
+We develop chapters from the two supplied PDFs; Lezioni 1–10 now have four-file folders.
 
 ## How to use each lesson
 
