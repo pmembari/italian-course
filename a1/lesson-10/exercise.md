@@ -2,10 +2,10 @@
 
 [← Lesson](lesson.md) · [Grammar](grammar.md) · [Vocabulary](vocabulary.md) · **Exercises**
 
-> **Based on original source pp. 129–144.** These are **new original exercises** and specific prompts for the book's pictures and readings, not a reproduction of the printed exercises or an official publisher answer key.
+> **Based on original source pp. 129–144.** These are **new original exercises** and the book's real cropped pictures and readings alongside original companion exercises, not a reproduction of the printed exercises or an official publisher answer key.
 
 ## Study approach
-Try the sentence from memory, then reveal the answer. Where a task uses a book photo, use your own copy and avoid inventing identities for real people.
+Try the sentence from memory, then reveal the answer. The relevant **actual textbook image crops are embedded in Part E below**. Observe the image first, then answer. Avoid inventing identities for real people in photographs.
 
 ## Part A — Family relationships
 
@@ -425,6 +425,8 @@ Try the sentence from memory, then reveal the answer. Where a task uses a book p
 
 ## Part E — Practice directly with the book's actual pictures and readings
 
+![Family photographs, textbook page 130](assets/p130_family_photos.jpg)
+
 **52.** **Book p. 130 — five family news photos.** Point to each of the five photographs. Identify the visible relationship only if supported by the printed caption/news snippet; otherwise make a fictional caption. Match the source snippets in your book.
 
 <details><summary>Model answer or checking rule</summary>
@@ -433,6 +435,8 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
+![Original illustrated family tree, textbook page 131](assets/p131_family_tree.jpg)
+
 **53.** **Book p. 131 — family tree.** Using the actual genealogy diagram, locate grandparent, parent, aunt/uncle, sibling and cousin connections. Ask five Italian relationship questions.
 
 <details><summary>Model answer or checking rule</summary>
@@ -440,6 +444,8 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 `Chi è il fratello di mia madre? — È mio zio.`
 
 </details>
+
+![Family photographs, textbook page 130](assets/p130_family_photos.jpg)
 
 **54.** **Book p. 131 — children in costume.** Write two *fictional* captions from the two pictures and connect one with `miei cugini`.
 
@@ -457,6 +463,8 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
+![Original comparative family silhouette illustration, textbook page 133](assets/p133_family_comparison.jpg)
+
 **56.** **Book p. 133 — possessive grammar table.** Before reading the answers, reconstruct all four forms of `mio`: singular masculine/feminine and plural masculine/feminine.
 
 <details><summary>Model answer or checking rule</summary>
@@ -465,6 +473,8 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 
 </details>
 
+![Original family email exercise, textbook page 134](assets/p134_family_email.jpg)
+
 **57.** **Book p. 133 — comparative silhouettes.** Describe who is taller, younger, oldest or youngest from the book's silhouette scene. Use `più ... di` and `il/la più`.
 
 <details><summary>Model answer or checking rule</summary>
@@ -472,6 +482,8 @@ Example: `Questa è una famiglia. Hanno due bambini.` Other answers depend on th
 `Luca è più alto di Sara. Sara è la più giovane.` (fictional model, not book identity).
 
 </details>
+
+![Original possessive vocabulary circles, textbook page 135](assets/p135_possessive_circles.jpg)
 
 **58.** **Book p. 134 — wedding email.** Read the *actual email* and underline family terms, possessives, marriage vocabulary and any mention of the relatives.
 
@@ -512,6 +524,8 @@ Write a list of at least five source vocabulary terms; check against [Vocabulary
 `Secondo me dipende dal lavoro e dalla situazione.`
 
 </details>
+
+![Original six gesture photographs, textbook page 141](assets/p141_gesture_photos.jpg)
 
 **63.** **Book p. 141 — Italian gestures.** Look at all six images and try to match gestures to their descriptions. Use `Che cosa significa questo gesto?` as a conversation opening.
 

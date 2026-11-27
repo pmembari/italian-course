@@ -31,7 +31,21 @@ Talk about relatives, household and family news; describe people; use possessive
 | 142–143 | **Facciamo il punto 4 — Gioco** | Two-page illustrated final review board |
 | 144 | **Bilancio e Progetto** | Self-assessment and fictional classroom video project |
 
-**Look at the original book pictures directly:** identify five family photos (p. 130), follow the genealogy tree (p. 131), interpret the silhouettes (p. 133), read the pictured family email (p. 134), use the word circles (p. 135), and compare the six gestures (p. 141). **The full publisher images and readings are not reproduced in this public repo.** The [exercise file](exercise.md) gives specific companion practice.
+**The six actual cropped textbook visuals are embedded below**, and repeated beside their practice in [Vocabulary](vocabulary.md#picture-lab--actual-photographs-and-diagrams-from-the-book). They are extracted from the user's uploaded PDF (not substitute photographs). The [exercise workbook](exercise.md#part-e--practice-directly-with-the-books-actual-pictures-and-readings) also displays the matching visuals.
+
+## Original textbook visuals — preview
+
+| Family photographs · p. 130 | Family tree · p. 131 |
+|---|---|
+| ![Family photographs, textbook page 130](assets/p130_family_photos.jpg) | ![Original illustrated family tree, textbook page 131](assets/p131_family_tree.jpg) |
+
+| Comparisons · p. 133 | Wedding email · p. 134 |
+|---|---|
+| ![Original comparative family silhouette illustration, textbook page 133](assets/p133_family_comparison.jpg) | ![Original family email exercise, textbook page 134](assets/p134_family_email.jpg) |
+
+| Possessive word circles · p. 135 | Italian gestures · p. 141 |
+|---|---|
+| ![Original possessive vocabulary circles, textbook page 135](assets/p135_possessive_circles.jpg) | ![Original six gesture photographs, textbook page 141](assets/p141_gesture_photos.jpg) |
 
 ## Original conversations aligned with the book
 ### 1. Companion dialogue — p. 130

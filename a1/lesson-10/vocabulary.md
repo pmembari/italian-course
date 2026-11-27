@@ -142,16 +142,53 @@
 | ⏳ **ci vuole** | it takes / is needed (sing.) | لازم است | Ci vuole tempo. |
 | ⏳ **ci vogliono** | it takes / are needed (plural) | لازم هستند | Ci vogliono due ore. |
 
-## Picture lab: textbook family tree and photographs
+## Picture lab — actual photographs and diagrams from the book
 
-1. **Page 130, photographs 1–5:** before reading the five news snippets, point to each photo and invent one Italian sentence. Then read the original snippets and match them using your book.
-2. **Page 131, genealogy illustration:** identify `nonno, nonna, zio, zia, fratello, sorella, cugino, cugina`. Say a whole sentence for each family relationship.
-3. **Page 133, silhouettes:** find comparative expressions and ask who is older, younger, tallest and shortest. Practise relative superlatives.
-4. **Page 134, email:** read the original family announcement, underline all possessives and classify relatives as singular/plural.
-5. **Page 135, coloured word circles:** cover the surrounding labels and recreate them from memory.
-6. **Page 141, six gesture photos:** describe each movement without assuming the gesture has the same meaning in every country.
+These are **real, focused crops from the uploaded Nuovo Espresso 1 textbook**, not stock-photo substitutes. The new exercises follow each original picture; reveal the model answer only after attempting the task.
 
-The actual publisher images are **in your textbook copy** and are not copied here.
+### 1. Page 130 — La famiglia fa notizia
+
+![Family photographs, textbook page 130](assets/p130_family_photos.jpg)
+
+Look at **the actual five photographs**. Describe two using `c'è`, `ci sono`, or `questa è una famiglia...`. Match them to the short source news snippets using your copy's original choices.
+
+### 2. Page 131 — I nomi della famiglia
+
+![Original illustrated family tree, textbook page 131](assets/p131_family_tree.jpg)
+
+Look at the printed names and lines. Complete: `Mario è il ___ di Paolo.`; `Sonia è la ___ di Paolo.`; `Paolo è il ___ di Simona.`
+
+<details><summary>Check answers</summary>
+
+`nonno`; `nonna`; `fratello`.
+
+</details>
+
+### 3. Page 133 — Family comparisons
+
+![Original comparative family silhouette illustration, textbook page 133](assets/p133_family_comparison.jpg)
+
+Use the pictured labels `il nonno più anziano`, `la mamma più giovane`, etc. Make your own comparative sentence with `più ... di` and a question using `il/la più`.
+
+### 4. Page 134 — Una mail speciale
+
+![Original family email exercise, textbook page 134](assets/p134_family_email.jpg)
+
+Read **the original source email shown above**. Find four family terms and three possessives. Decide which expressions have a definite article, then explain your choices using [Grammar](grammar.md).
+
+### 5. Page 135 — Mio, tuo... word circles
+
+![Original possessive vocabulary circles, textbook page 135](assets/p135_possessive_circles.jpg)
+
+Pick five exact words you can see, then make five correct family phrases: `mio padre`, `mia sorella`, `i miei fratelli`, `le mie sorelle`, `il loro cugino`.
+
+### 6. Page 141 — Italian gesture photos
+
+![Original six gesture photographs, textbook page 141](assets/p141_gesture_photos.jpg)
+
+Look at all **six original gesture photographs** and match each to its expression on the same source activity. Practise `Che cosa significa questo gesto?` and discuss why the same gesture can mean different things in different contexts.
+
+*Source: cropped illustrations and photographs from the user's uploaded Nuovo Espresso 1, pages 130, 131, 133, 134, 135 and 141. Images are included here for focused lesson study; they are not original course artwork.*
 
 ## English bridges and false assumptions
 
