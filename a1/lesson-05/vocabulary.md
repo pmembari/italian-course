@@ -6,6 +6,26 @@
 
 **Source:** *Nuovo Espresso 1 Glossario* lesson 5, approx. PDF pp. **30–39**, checked alongside main textbook pp. **59–71**. This is a **selected, expanded learning vocabulary** rather than a verbatim reproduction. English and Persian glosses are study aids; the example sentences, picture labels and exercises are original.
 
+## Real book image recall — recognize, speak, remember
+
+Name and describe items in these exact textbook visuals before checking the vocabulary table. Each cropped image is reproduced in the [picture practice](exercise.md#original-textbook-picture-practice--with-answer-checks).
+
+**Page 60 — Compare the three hotels**
+
+![Original textbook page 60: Compare the three hotels](assets/p60_hotel_photos.jpg)
+
+**Page 64 — Hotel facilities and objects**
+
+![Original textbook page 64: Hotel facilities and objects](assets/p64_hotel_facilities.jpg)
+
+**Page 65 — Room problems and requests**
+
+![Original textbook page 65: Room problems and requests](assets/p65_hotel_problems.jpg)
+
+**Page 72 — Picture-based review (Lessons 3–5)**
+
+![Original textbook page 72: Picture-based review (Lessons 3–5)](assets/p72_review_game.jpg)
+
 ## Picture-first vocabulary
 
 |Photo 1|Photo 2|Photo 3|Photo 4|

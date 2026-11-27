@@ -6,6 +6,30 @@
 
 **Visual-first rule:** **real Commons photos for clearly matched concrete nouns and actions**, emoji only when a helpful, appropriately licensed photograph is not available (especially abstract structures). For picture recall, describe what you actually see. Every term has a complete **original Italian sentence**, not just a translation.
 
+## Real book image recall — recognize, speak, remember
+
+Name and describe items in these exact textbook visuals before checking the vocabulary table. Each cropped image is reproduced in the [picture practice](exercise.md#original-textbook-picture-practice--with-answer-checks).
+
+**Page 76 — Five actual Italian city photographs**
+
+![Original textbook page 76: Five actual Italian city photographs](assets/p76_italian_cities.jpg)
+
+**Page 77 — Bologna's piazza, towers and church**
+
+![Original textbook page 77: Bologna's piazza, towers and church](assets/p77_bologna_sights.jpg)
+
+**Page 80 — Six direction illustrations**
+
+![Original textbook page 80: Six direction illustrations](assets/p80_direction_pictures.jpg)
+
+**Page 81 — Actual illustrated town scene**
+
+![Original textbook page 81: Actual illustrated town scene](assets/p81_city_street_map.jpg)
+
+**Page 83 — Route map of Padova**
+
+![Original textbook page 83: Route map of Padova](assets/p83_town_route_map.jpg)
+
 ## City places and sights
 
 | Photo / visual + italiano | English | فارسی | Italian example |
@@ -126,7 +150,7 @@
 | 🏷️ **vendere** | to sell | فروختن | Vendono libri al mercato. |
 | 🎉 **festeggiare** | to celebrate | جشن گرفتن | Festeggiamo in piazza. |
 
-## Picture recall from the actual textbook (not redistributed)
+## Additional picture recall using original book crops
 
 The main book contains **city landmark photographs (p. 76)**, **Bologna's landmarks (p. 77)**, a **street scene and two different town maps (pp. 80–83)** and **opening-hour pictures (p. 84)**.
 

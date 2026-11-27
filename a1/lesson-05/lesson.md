@@ -10,6 +10,26 @@
 
 *Real photographs. [Credits](../PHOTO_CREDITS.md).*
 
+## Actual cropped book pictures
+
+These are **the original source images from the uploaded Nuovo Espresso 1 textbook**. Use them directly, then answer the [matching picture exercises](exercise.md#original-textbook-picture-practice--with-answer-checks). See [credits and publisher rights](../PHOTO_CREDITS.md).
+
+### Page 60 — Compare the three hotels
+
+![Original textbook page 60: Compare the three hotels](assets/p60_hotel_photos.jpg)
+
+### Page 64 — Hotel facilities and objects
+
+![Original textbook page 64: Hotel facilities and objects](assets/p64_hotel_facilities.jpg)
+
+### Page 65 — Room problems and requests
+
+![Original textbook page 65: Room problems and requests](assets/p65_hotel_problems.jpg)
+
+### Page 72 — Picture-based review (Lessons 3–5)
+
+![Original textbook page 72: Picture-based review (Lessons 3–5)](assets/p72_review_game.jpg)
+
 ## Learning outcomes
 
 Compare hotels and rental listings, enquire about room availability and prices, make reservations, discuss amenities, report room problems politely, read dates and higher numbers, and complete the combined lessons 3–5 review.

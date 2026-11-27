@@ -4,6 +4,58 @@
 
 > **Original practice** aligned with *Nuovo Espresso 1*, chapter 5, and the requested coverage **pp. 59–75**. Listening/video-dependent publisher tasks require authorized audio/video; the exercises here do not purport to supply the publisher's answer key.
 
+## Original textbook picture practice — with answer checks
+
+**Actual original book crops are below**, not instructions to open another PDF. Read the picture, produce an Italian answer, and expand the companion model. Official listening tasks still need the original audio.
+
+### Picture 1: Compare the three hotels (PDF p. 60)
+
+![Original textbook page 60: Compare the three hotels](assets/p60_hotel_photos.jpg)
+
+**Try:** Look at the actual accommodation photographs and describe the rooms and surroundings. Choose one for a fictional booking.
+
+<details><summary>Show model answer</summary>
+
+**Vorrei una camera doppia in un albergo tranquillo. C'è una bella vista?** Hotel features should only be claimed if visible in the picture or listed in the source description.
+
+</details>
+
+### Picture 2: Hotel facilities and objects (PDF p. 64)
+
+![Original textbook page 64: Hotel facilities and objects](assets/p64_hotel_facilities.jpg)
+
+**Try:** Name six illustrated hotel facilities and form two questions using *c'è / ci sono*.
+
+<details><summary>Show model answer</summary>
+
+**C'è una piscina? C'è un ascensore? Ci sono due bagni?** Identify the actual objects in the illustrated source grid.
+
+</details>
+
+### Picture 3: Room problems and requests (PDF p. 65)
+
+![Original textbook page 65: Room problems and requests](assets/p65_hotel_problems.jpg)
+
+**Try:** Use the source's crossed-out objects and problem pictures to invent three polite complaints at reception.
+
+<details><summary>Show model answer</summary>
+
+**Mi scusi, il televisore non funziona. Manca un asciugamano. Può cambiare la lampada, per favore?**
+
+</details>
+
+### Picture 4: Picture-based review (Lessons 3–5) (PDF p. 72)
+
+![Original textbook page 72: Picture-based review (Lessons 3–5)](assets/p72_review_game.jpg)
+
+**Try:** Choose four visual board spaces from the original review game. Create a hotel booking, café order, time question and one complaint.
+
+<details><summary>Show model answer</summary>
+
+**Vorrei una camera. Prendo un cappuccino. Che ore sono? La doccia non funziona.** These are original tasks, not the publisher's official board solutions.
+
+</details>
+
 ## Part A — 30 sentence and grammar recall prompts
 
 Read each prompt, answer **in Italian**, then expand only after an attempt.

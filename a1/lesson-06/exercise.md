@@ -4,6 +4,70 @@
 
 > **Book alignment:** *Nuovo_Espresso_1.pdf* pp. **75–89**. This workbook contains **new original exercises** plus references to the publisher's pictures and activities. It does **not copy the printed publisher exercise text**, artwork, audio, video, or official answer key.
 
+## Original textbook picture practice — with answer checks
+
+**Actual original book crops are below**, not instructions to open another PDF. Read the picture, produce an Italian answer, and expand the companion model. Official listening tasks still need the original audio.
+
+### Picture 1: Five actual Italian city photographs (PDF p. 76)
+
+![Original textbook page 76: Five actual Italian city photographs](assets/p76_italian_cities.jpg)
+
+**Try:** Identify each numbered landmark in the book. Say *È ...* and name one visual clue for each.
+
+<details><summary>Show model answer</summary>
+
+The numbered photographs illustrate **Firenze, Milano, Napoli, Venezia, Roma**. Describe a landmark (e.g. the Duomo or a canal) rather than memorizing names alone.
+
+</details>
+
+### Picture 2: Bologna's piazza, towers and church (PDF p. 77)
+
+![Original textbook page 77: Bologna's piazza, towers and church](assets/p77_bologna_sights.jpg)
+
+**Try:** Describe each source photo using *c'è* or *ci sono*, with adjective agreement.
+
+<details><summary>Show model answer</summary>
+
+**C'è una piazza grande. Ci sono delle torri antiche. C'è una chiesa famosa.**
+
+</details>
+
+### Picture 3: Six direction illustrations (PDF p. 80)
+
+![Original textbook page 80: Six direction illustrations](assets/p80_direction_pictures.jpg)
+
+**Try:** Say the commands in the printed pictograms and then combine three instructions for a fictional walking route.
+
+<details><summary>Show model answer</summary>
+
+**Vada dritto, poi giri a sinistra al semaforo.** Picture words include *a destra, a sinistra, dritto, semaforo, traversa, incrocio*.
+
+</details>
+
+### Picture 4: Actual illustrated town scene (PDF p. 81)
+
+![Original textbook page 81: Actual illustrated town scene](assets/p81_city_street_map.jpg)
+
+**Try:** Locate the post office, bank and other landmarks. Explain where one is relative to another using *di fronte a / accanto a*.
+
+<details><summary>Show model answer</summary>
+
+Example: **La posta è accanto alla banca**. Confirm relative positions directly from the original drawing before choosing a different sentence.
+
+</details>
+
+### Picture 5: Route map of Padova (PDF p. 83)
+
+![Original textbook page 83: Route map of Padova](assets/p83_town_route_map.jpg)
+
+**Try:** Follow streets between two marked places on the source map. Give a sequence of three polite directions.
+
+<details><summary>Show model answer</summary>
+
+**Vada dritto, attraversi la piazza e giri a destra.** This is a practice route, not current real-world navigation.
+
+</details>
+
 ## Part A — Sentence and grammar recall (1–42)
 
 Try each one **before** opening the answer. After a correct answer, make a different sentence using the same pattern.

@@ -4,11 +4,35 @@
 
 > **Requested source range:** *Nuovo_Espresso_1.pdf* pp. **75–89**. Chapter itself: **pp. 75–88**. Page 89 opens Lesson 7. Matching Italian–Persian glossary: PDF pp. **39–44**, including boundary pages.
 
+## Actual cropped book pictures
+
+These are **the original source images from the uploaded Nuovo Espresso 1 textbook**. Use them directly, then answer the [matching picture exercises](exercise.md#original-textbook-picture-practice--with-answer-checks). See [credits and publisher rights](../PHOTO_CREDITS.md).
+
+### Page 76 — Five actual Italian city photographs
+
+![Original textbook page 76: Five actual Italian city photographs](assets/p76_italian_cities.jpg)
+
+### Page 77 — Bologna's piazza, towers and church
+
+![Original textbook page 77: Bologna's piazza, towers and church](assets/p77_bologna_sights.jpg)
+
+### Page 80 — Six direction illustrations
+
+![Original textbook page 80: Six direction illustrations](assets/p80_direction_pictures.jpg)
+
+### Page 81 — Actual illustrated town scene
+
+![Original textbook page 81: Actual illustrated town scene](assets/p81_city_street_map.jpg)
+
+### Page 83 — Route map of Padova
+
+![Original textbook page 83: Route map of Padova](assets/p83_town_route_map.jpg)
+
 ## Goals and learning method
 
 Recognize Italian city landmarks; describe towns using **c'è/ci sono**, partitives and adjectives; ask for places, bus stops and walking directions; say opening and departure times; and understand the civic role of the piazza.
 
-Use **see → say → sentence → dialogue → hidden recall**. Each source activity below gets an original model dialogue and a book-specific picture/reading task. The photographs in this GitHub course are licensed substitutes, **not copied publisher art**.
+Use **see → say → sentence → dialogue → hidden recall**. Each source activity below gets an original model dialogue and a book-specific picture/reading task. The course includes both credited third-party photographs and **limited cropped original textbook illustrations**; see the rights and source notes in [PHOTO_CREDITS.md](../PHOTO_CREDITS.md).
 
 ## Real-photo preview and textbook-picture tasks
 
