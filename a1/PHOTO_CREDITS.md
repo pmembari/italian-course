@@ -140,3 +140,42 @@ Other Lesson 6/7 thumbnails reuse photographs already credited in earlier sectio
 | 10 | 141 | [Italian gesture photographs](lesson-10/assets/p141_gesture_photos.jpg) | Cropped from original textbook scan; reduced JPEG |
 
 **Naming convention:** crop files use `pNNN_description.jpg`; the page number means the PDF's printed page. Distinguish them explicitly from the Commons photos credited above. **Not CC-licensed**; attribution is not the same as an authorization to publish.
+
+
+## Publisher textbook illustration crops — Lessons 1–7
+
+The following files are **focused JPEG crops from the user's supplied *Nuovo Espresso 1* PDF**. They are not Commons photographs and **are not Creative Commons licensed**. The source publisher and original authors/rightsholders retain their rights. Attribution does not grant permission to redistribute these images; the project should obtain appropriate permission for continuing public distribution or replace them with freely licensed imagery. Crops were trimmed and compressed for specific learning tasks, not reproduced as complete pages.
+
+| Lesson | PDF page | Book image and repository asset | Modification |
+|---|---:|---|---|
+| 1 | 6 | [Greeting photographs](lesson-01/assets/p6_greeting_photos.jpg) | Focused crop, resized/compressed JPEG |
+| 1 | 7 | [Illustrated greeting scenes](lesson-01/assets/p7_people_scenes.jpg) | Focused crop, resized/compressed JPEG |
+| 1 | 8 | [Vocabulary pictures](lesson-01/assets/p8_vocabulary_pictures.jpg) | Focused crop, resized/compressed JPEG |
+| 1 | 11 | [Illustrated numbers](lesson-01/assets/p11_numbers_pictures.jpg) | Focused crop, resized/compressed JPEG |
+| 2 | 18 | [Greeting and feelings scenes](lesson-02/assets/p18_greeting_scenes.jpg) | Focused crop, resized/compressed JPEG |
+| 2 | 20 | [Six portraits](lesson-02/assets/p20_people_portraits.jpg) | Focused crop, resized/compressed JPEG |
+| 2 | 23 | [Professions photo grid](lesson-02/assets/p23_job_photos.jpg) | Focused crop, resized/compressed JPEG |
+| 2 | 26 | [Number recall illustrations](lesson-02/assets/p26_number_visuals.jpg) | Focused crop, resized/compressed JPEG |
+| 3 | 34 | [Drinks at the bar](lesson-03/assets/p34_drink_pictures.jpg) | Focused crop, resized/compressed JPEG |
+| 3 | 36 | [Food and menu illustrations](lesson-03/assets/p36_food_menu.jpg) | Focused crop, resized/compressed JPEG |
+| 3 | 39 | [Tableware illustrations](lesson-03/assets/p39_table_setting.jpg) | Focused crop, resized/compressed JPEG |
+| 3 | 46 | [Restaurant types photographs](lesson-03/assets/p46_restaurant_types.jpg) | Focused crop, resized/compressed JPEG |
+| 4 | 48 | [Free-time activity drawings](lesson-04/assets/p48_free_time_activities.jpg) | Focused crop, resized/compressed JPEG |
+| 4 | 49 | [More activity drawings](lesson-04/assets/p49_activity_pictures.jpg) | Focused crop, resized/compressed JPEG |
+| 4 | 54 | [Telling-time clocks](lesson-04/assets/p54_clock_faces.jpg) | Focused crop, resized/compressed JPEG |
+| 4 | 58 | [City and place photographs](lesson-04/assets/p58_city_photos.jpg) | Focused crop, resized/compressed JPEG |
+| 5 | 60 | [Hotel accommodation photographs](lesson-05/assets/p60_hotel_photos.jpg) | Focused crop, resized/compressed JPEG |
+| 5 | 64 | [Hotel facility drawings](lesson-05/assets/p64_hotel_facilities.jpg) | Focused crop, resized/compressed JPEG |
+| 5 | 65 | [Hotel complaint drawings](lesson-05/assets/p65_hotel_problems.jpg) | Focused crop, resized/compressed JPEG |
+| 5 | 72 | [Review board game](lesson-05/assets/p72_review_game.jpg) | Focused crop, resized/compressed JPEG |
+| 6 | 76 | [Five Italian cities](lesson-06/assets/p76_italian_cities.jpg) | Focused crop, resized/compressed JPEG |
+| 6 | 77 | [Bologna landmarks](lesson-06/assets/p77_bologna_sights.jpg) | Focused crop, resized/compressed JPEG |
+| 6 | 80 | [Direction pictures](lesson-06/assets/p80_direction_pictures.jpg) | Focused crop, resized/compressed JPEG |
+| 6 | 81 | [Street illustration](lesson-06/assets/p81_city_street_map.jpg) | Focused crop, resized/compressed JPEG |
+| 6 | 83 | [Padova city map](lesson-06/assets/p83_town_route_map.jpg) | Focused crop, resized/compressed JPEG |
+| 7 | 90 | [Holiday destination photographs](lesson-07/assets/p90_holiday_pictures.jpg) | Focused crop, resized/compressed JPEG |
+| 7 | 92 | [Illustrated vacation messages](lesson-07/assets/p92_holiday_emails.jpg) | Focused crop, resized/compressed JPEG |
+| 7 | 94 | [Holiday comic sequence](lesson-07/assets/p94_holiday_comic.jpg) | Focused crop, resized/compressed JPEG |
+| 7 | 97 | [Weather cartoons](lesson-07/assets/p97_weather_cartoons.jpg) | Focused crop, resized/compressed JPEG |
+| 7 | 98 | [Weather map](lesson-07/assets/p98_forecast_map.jpg) | Focused crop, resized/compressed JPEG |
+| 7 | 102 | [Review game](lesson-07/assets/p102_review_game.jpg) | Focused crop, resized/compressed JPEG |
